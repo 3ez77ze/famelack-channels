@@ -3019,6 +3019,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0laAjuD1d9fLmq",
+    "name": "Lòria TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_QfIj2qAkqY"
+    ],
+    "language": "cat",
+    "country": "ad",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YSG1ZKKDkWTBCC",
     "name": "LoveWorld Arabic",
     "iptv_urls": [
@@ -3211,17 +3222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jvlF47bVQB8"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AuDzUVRlzPr5A4",
     "name": "Maria Vision",
     "iptv_urls": [
@@ -3314,7 +3314,7 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WUbtK0DZu5Q"
+      "https://www.youtube-nocookie.com/embed/kfTWd5lxEEk"
     ],
     "language": "sin",
     "country": "lk",
@@ -4541,7 +4541,7 @@
     "name": "Srisaila Tv",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/APHA9D9ASTw"
+      "https://www.youtube-nocookie.com/embed/SFRcg5cdGyw"
     ],
     "language": "tel",
     "country": "in",

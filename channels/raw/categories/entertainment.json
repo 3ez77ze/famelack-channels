@@ -2773,7 +2773,7 @@
     "name": "Raquel Daruech TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BNtNeWj78AI"
+      "https://www.youtube-nocookie.com/embed/bbohYdq-vns"
     ],
     "language": "spa",
     "country": "uy",
@@ -3413,17 +3413,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOoB2s0AaU3TV6",
-    "name": "TV Derana",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7fd_GrASUc8"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0XYeCTIMchk7xn",
     "name": "TV Modelo",
     "iptv_urls": [
@@ -3675,6 +3664,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3sCHCCSjqRabC1",
+    "name": "Willax Televisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ieNttIdqSKw"
+    ],
+    "language": "spa",
+    "country": "pe",
     "isGeoBlocked": false
   },
   {

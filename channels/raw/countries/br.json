@@ -182,7 +182,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lhpscqjMMng"
+      "https://www.youtube-nocookie.com/embed/jWaAlQihd1Q"
     ],
     "language": "por",
     "country": "br",
@@ -424,7 +424,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jg5yyGEUjac"
+      "https://www.youtube-nocookie.com/embed/B5BFQ0nF__k"
     ],
     "language": "por",
     "country": "br",
@@ -482,7 +482,9 @@
       "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9_NkmaU9miY"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false

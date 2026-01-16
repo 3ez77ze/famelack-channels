@@ -556,22 +556,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GzM2c4cYlZpdvV",
-    "name": "El Doce",
+    "nanoid": "XCDnk2h8lWn1vm",
+    "name": "Diputados TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nndzeKDSjuc"
+      "https://www.youtube-nocookie.com/embed/t1BY9k8XqbA"
     ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
+    "nanoid": "GzM2c4cYlZpdvV",
+    "name": "El Doce",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yl8asMMNXSo"
+      "https://www.youtube-nocookie.com/embed/nndzeKDSjuc"
     ],
     "language": "spa",
     "country": "ar",
@@ -629,17 +629,6 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rvSLmYJvnwZ691",
-    "name": "El Tres TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QoFUV_q_k7w"
-    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -991,7 +980,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QdTHTm8sTXY"
+      "https://www.youtube-nocookie.com/embed/CEgv8zHbBZ4"
     ],
     "language": "spa",
     "country": "ar",
@@ -1080,7 +1069,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2_N11Mp7lN0"
+      "https://www.youtube-nocookie.com/embed/HP9rDeCnWiA"
     ],
     "language": "spa",
     "country": "ar",

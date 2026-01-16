@@ -263,17 +263,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQMqdrOpBhLEzY",
-    "name": "ABN Digital Exclusives",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PeH6vePZz28"
-    ],
-    "language": "tel",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8AXm6Uithii9dP",
     "name": "ABN Telugu ",
     "iptv_urls": [],
@@ -623,7 +612,7 @@
     "name": "ANI News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KKWzRjaJt4g"
+      "https://www.youtube-nocookie.com/embed/H04O_-_fsIE"
     ],
     "language": "eng",
     "country": "in",
@@ -647,8 +636,7 @@
       "https://cdn.ottlive.co.in/annnews/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hwyzlv9I0rU",
-      "https://www.youtube-nocookie.com/embed/3pQZ3EZkl0o"
+      "https://www.youtube-nocookie.com/embed/KlsOCAxfyLw"
     ],
     "language": "urd",
     "country": "in",
@@ -1983,17 +1971,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w1XrlpeGJTudvR",
-    "name": "Indian Market Prices",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gy6BfFDO164"
-    ],
-    "language": "mar",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mKcOF9ikZb7Ws0",
     "name": "IndiaTV",
     "iptv_urls": [],
@@ -2762,7 +2739,7 @@
     "name": "NDTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8TEdNOh0yac"
+      "https://www.youtube-nocookie.com/embed/9GXiWMXO_Dk"
     ],
     "language": "eng",
     "country": "in",
@@ -2946,7 +2923,7 @@
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xlm0bz4rTBM"
+      "https://www.youtube-nocookie.com/embed/HoUYGz16ukI"
     ],
     "language": "hin",
     "country": "in",
@@ -3232,7 +3209,7 @@
     "name": "NewsX Live",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dH8cyEUqYmc"
+      "https://www.youtube-nocookie.com/embed/zXkYop_vVog"
     ],
     "language": "eng",
     "country": "in",
@@ -3368,7 +3345,7 @@
       "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jK5eafW9cfs"
+      "https://www.youtube-nocookie.com/embed/4tyPIcAfFFs"
     ],
     "language": "tam",
     "country": "in",
@@ -4195,7 +4172,7 @@
     "name": "Srisaila Tv",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/APHA9D9ASTw"
+      "https://www.youtube-nocookie.com/embed/SFRcg5cdGyw"
     ],
     "language": "tel",
     "country": "in",

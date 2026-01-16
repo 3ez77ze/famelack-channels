@@ -66,11 +66,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EJU67zKw2oX8W5",
-    "name": "HBC Hokkaido News 24",
+    "nanoid": "p6qHyum8xkT7Yw",
+    "name": "FNNプライムオンライン",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8jnLF557hrc"
+      "https://www.youtube-nocookie.com/embed/5brp3TKPDMw"
     ],
     "language": "jpn",
     "country": "jp",
@@ -104,6 +104,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/coYw-eVU0Ks"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DYc6FdzoKztkkH",
+    "name": "KBC News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4hpUbFP13-M"
     ],
     "language": "jpn",
     "country": "jp",
@@ -250,6 +261,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Fn3IhUAmzUM"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dS0Hi9Oo1lT24W",
+    "name": "RKB News 24",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/C8Tg-LwY4RU"
     ],
     "language": "jpn",
     "country": "jp",

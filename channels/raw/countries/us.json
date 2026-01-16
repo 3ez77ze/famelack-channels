@@ -2291,7 +2291,7 @@
     "name": "CBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WQlbVOqURig"
+      "https://www.youtube-nocookie.com/embed/8tfNk-W8PXg"
     ],
     "language": "eng",
     "country": "us",
@@ -2582,17 +2582,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vae2fsqhQIbuJv",
-    "name": "Channel One",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mOTNM9F6QHM"
-    ],
-    "language": "fas",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -7570,7 +7559,7 @@
     "name": "NBC News Now",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DS4kb3-PWJs"
+      "https://www.youtube-nocookie.com/embed/MLWA4jWI3s4"
     ],
     "language": "eng",
     "country": "us",
@@ -9551,7 +9540,7 @@
     "name": "Shout! Studios: Elvira's Movie Macabre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hrSd_dv157w"
+      "https://www.youtube-nocookie.com/embed/lhxtlfK-D6Y"
     ],
     "language": "eng",
     "country": "us",
@@ -9573,7 +9562,7 @@
     "name": "Shout! Studios: Godzilla",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LasHJrWELAk"
+      "https://www.youtube-nocookie.com/embed/gedyhyb459c"
     ],
     "language": "eng",
     "country": "us",
@@ -10814,7 +10803,7 @@
     "name": "TokuSHOUTsu: ReBoot",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JnAy1_w564s"
+      "https://www.youtube-nocookie.com/embed/RqlXTAmWMdY"
     ],
     "language": "eng",
     "country": "us",
@@ -12859,7 +12848,7 @@
     "name": "WPLG Local 10",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iGAbNr3x-t0"
+      "https://www.youtube-nocookie.com/embed/aq60O99HMH4"
     ],
     "language": "eng",
     "country": "us",

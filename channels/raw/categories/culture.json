@@ -440,6 +440,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8BTaahrpIJaruI",
+    "name": "GipsyTv Wien",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4WJzsXx9OXA"
+    ],
+    "language": "rom",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "duSXiulPj9T5qC",
     "name": "Guaymate TV",
     "iptv_urls": [

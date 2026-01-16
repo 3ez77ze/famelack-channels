@@ -4085,17 +4085,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yl8asMMNXSo"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "13Kg8AyngtvWeB",
     "name": "El Pituco TV",
     "iptv_urls": [
@@ -11182,17 +11171,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NLeXo4poPTg"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -11219,7 +11197,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HJ_dMin83CE"
+      "https://www.youtube-nocookie.com/embed/M-MTX8jqkJ4"
     ],
     "language": "spa",
     "country": "mx",
@@ -11230,7 +11208,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Q_k714vArH4"
+      "https://www.youtube-nocookie.com/embed/T1dxwk0PnYM"
     ],
     "language": "spa",
     "country": "mx",
@@ -11417,7 +11395,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QdTHTm8sTXY"
+      "https://www.youtube-nocookie.com/embed/CEgv8zHbBZ4"
     ],
     "language": "spa",
     "country": "ar",
@@ -11465,6 +11443,17 @@
     "youtube_urls": [],
     "language": "bos",
     "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JytIta9uDeo"
+    ],
+    "language": "pol",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
