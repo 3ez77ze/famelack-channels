@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ac84yC8dTLNOrh",
+    "name": "América Estéreo Ibarra",
+    "iptv_urls": [
+      "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7G6TKaBuir2YYY",
     "name": "América Estéreo Quito",
     "iptv_urls": [
@@ -92,6 +103,17 @@
     "name": "Ciracu TV",
     "iptv_urls": [
       "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3Jn82QaxkNUvY1",
+    "name": "Clic TV",
+    "iptv_urls": [
+      "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -616,32 +638,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "veywE9r1ITeufF",
-    "name": "TV Legislativa",
-    "iptv_urls": [
-      "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LfL7xtgZtyuyhr",
     "name": "TV Universal Ecuador",
     "iptv_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OlaokC4Os8hK8W",
-    "name": "UEBI TV Online",
-    "iptv_urls": [
-      "https://ventaxtv.com:3575/live/uebilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

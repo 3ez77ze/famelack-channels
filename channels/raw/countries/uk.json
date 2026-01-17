@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ziSogPvWMMpIww",
+    "name": "Alhiwar TV",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BDVUYXaNXNi52q",
     "name": "Amazing World of Gumball",
     "iptv_urls": [],
@@ -103,6 +114,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Xxt6pP3Jqt3MeP",
+    "name": "BBC Earth Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zK7yBiaKTXUpou",
     "name": "BBC Four UK HD",
     "iptv_urls": [
@@ -125,11 +147,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tH0PM0L3QcvXyJ",
+    "name": "BBC Lifestyle Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "iptv_urls": [
       "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
       "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nDcsFjMY51qN6T",
+    "name": "BBC News Asia Pacific",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -298,6 +342,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1NS02kDPqI5WSa",
+    "name": "CBeebies Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BoatqKhgOKJ5e1",
     "name": "Channel 4 UK HD",
     "iptv_urls": [
@@ -349,17 +404,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DOhkznWNz0E"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -507,6 +551,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y9tmDdGOMUn9pB",
+    "name": "Garshom TV",
+    "iptv_urls": [
+      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "iptv_urls": [
@@ -526,17 +581,6 @@
       "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JbXF9NGgT1k"
-    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -816,6 +860,17 @@
     "name": "Miracle TV",
     "iptv_urls": [
       "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "iptv_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1502,17 +1557,6 @@
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M9HwvmHmrMZElD",
-    "name": "Wonder",
-    "iptv_urls": [
-      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

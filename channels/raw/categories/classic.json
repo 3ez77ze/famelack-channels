@@ -213,7 +213,7 @@
     "name": "Shout! Studios: The Little Rascals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_4sEFP--ecI"
+      "https://www.youtube-nocookie.com/embed/v3O-_LWr7Mc"
     ],
     "language": "eng",
     "country": "us",
@@ -415,6 +415,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5N50bnTr2ohfWL",
+    "name": "Xtrema Cine Clasico",
+    "iptv_urls": [
+      "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {

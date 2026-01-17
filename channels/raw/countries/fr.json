@@ -531,17 +531,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x74kBxlCSA3rr8",
-    "name": "Enquetes de Choc",
-    "iptv_urls": [
-      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "iptv_urls": [],
@@ -1259,17 +1248,6 @@
     "name": "MyTime Movie Network France",
     "iptv_urls": [
       "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpkqoQyazekjjY",
-    "name": "Mytime Movies",
-    "iptv_urls": [
-      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

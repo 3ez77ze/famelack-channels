@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DOhkznWNz0E"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -988,6 +977,17 @@
     "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8iOK4Asu2pvPAa",
+    "name": "Ювелирочка ТВ",
+    "iptv_urls": [
+      "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

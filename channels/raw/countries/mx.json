@@ -519,17 +519,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5lhODGYtGp6nxK",
-    "name": "ImagenTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ewxBN6ZyNgc"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hvpyyH4xiS4fE5",
     "name": "IMRyT Morelos TV",
     "iptv_urls": [
@@ -657,17 +646,6 @@
       "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pCFfnKm8W8E1LH",
-    "name": "NMás",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3jWeUucLvVo"
-    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -953,7 +931,7 @@
     "name": "Televisa Ciudad Juarez",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uhaQRuPsg4U"
+      "https://www.youtube-nocookie.com/embed/cpGOTBnnX8k"
     ],
     "language": "spa",
     "country": "mx",
@@ -986,7 +964,7 @@
     "name": "Televisa Guadalajara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vZShfXAGggs"
+      "https://www.youtube-nocookie.com/embed/Z_rNtH-rkes"
     ],
     "language": "spa",
     "country": "mx",
@@ -997,7 +975,7 @@
     "name": "Televisa Guerrero",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0QO8rcPL8E4"
+      "https://www.youtube-nocookie.com/embed/6pLEljKzafE"
     ],
     "language": "spa",
     "country": "mx",
@@ -1030,7 +1008,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eP7-nsV9wmU"
+      "https://www.youtube-nocookie.com/embed/9f2vz9Ukhe8"
     ],
     "language": "spa",
     "country": "mx",
@@ -1041,7 +1019,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ovHCe7YJVe0"
+      "https://www.youtube-nocookie.com/embed/wKWFUfsvh5U"
     ],
     "language": "spa",
     "country": "mx",
@@ -1426,6 +1404,17 @@
     "name": "XHFN-TDT1",
     "iptv_urls": [
       "https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HLRdcloMEfvKBn",
+    "name": "ZAZ",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

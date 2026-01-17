@@ -243,17 +243,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yVHVo5RwmcKcvS",
-    "name": "Radio Czwórka",
-    "iptv_urls": [
-      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bYyllb5PVIf1uE",
     "name": "Royalworld",
     "iptv_urls": [
@@ -326,6 +315,17 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0XCY6EpHHiY"
+    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -437,6 +437,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zm99zgCQP8EGKf",
+    "name": "Top Movies Polska",
+    "iptv_urls": [
+      "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },

@@ -1,27 +1,5 @@
 [
   {
-    "nanoid": "fgt71QAXBWF0xr",
-    "name": "13 Siam Thai",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/13livetv-th.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BWaFZgSUSFWAMm",
-    "name": "Boonniyom TV",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/bntv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lf5XxACaHEAHOt",
     "name": "Channel 5",
     "iptv_urls": [
@@ -231,17 +209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "txJF8huRbSMhOz",
-    "name": "MONO 29",
-    "iptv_urls": [
-      "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S3kr4s7IIN5nb2",
     "name": "MV Mall DD",
     "iptv_urls": [
@@ -270,17 +237,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Bitnhdy4I_w"
     ],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tvrptnaG6ItFq0",
-    "name": "STOU Channel",
-    "iptv_urls": [
-      "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tha",
     "country": "th",
     "isGeoBlocked": false

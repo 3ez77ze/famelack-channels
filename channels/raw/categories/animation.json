@@ -353,17 +353,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KLWMJ2wTlLOXbG",
-    "name": "Magic Kids",
-    "iptv_urls": [
-      "https://magicstream.ddns.net/magicstream/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dValMPk4YLHMz4",
     "name": "Marvel HQ: Marvel's Avengers Assemble",
     "iptv_urls": [],
@@ -588,10 +577,21 @@
     "name": "Universal Jr: Team Mekbots",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lor7dDEdBco"
+      "https://www.youtube-nocookie.com/embed/yT0mr_VbktU"
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "iptv_urls": [
+      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {

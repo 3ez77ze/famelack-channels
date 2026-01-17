@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yqFuGEAiSRmDtb",
+    "name": "RTS 2",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/rts2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CGpEK7hW6CDfth",
     "name": "RTS Svet HD",
     "iptv_urls": [

@@ -70,7 +70,7 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VaC6uw4d7Uk"
+      "https://www.youtube-nocookie.com/embed/yxCW0khzN_g"
     ],
     "language": "sin",
     "country": "lk",
@@ -148,17 +148,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i4sBVt8evbI"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOoB2s0AaU3TV6",
-    "name": "TV Derana",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kciJPwxP4c4"
     ],
     "language": "sin",
     "country": "lk",

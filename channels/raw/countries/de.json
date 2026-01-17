@@ -405,7 +405,8 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -863,17 +864,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1vBPSqBW9LaA0Z",
-    "name": "MyTime Movie Network Germany",
-    "iptv_urls": [
-      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sUPjf9t1EEmdsB",
     "name": "n-tv",
     "iptv_urls": [
@@ -1275,6 +1265,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x5Tm4sSiBqyqwq",
+    "name": "Rennsteig TV",
+    "iptv_urls": [
+      "https://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6I4CQI5DQQYidR",
     "name": "RFH",
     "iptv_urls": [
@@ -1482,6 +1483,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUHCgjRUR5TBtm",
+    "name": "Studio 47",
+    "iptv_urls": [
+      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1869,17 +1881,6 @@
     "name": "World of Freesports",
     "iptv_urls": [
       "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MTSj2olhZiM1t9",
-    "name": "XITE",
-    "iptv_urls": [
-      "https://xite-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

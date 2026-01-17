@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JbXF9NGgT1k"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "iptv_urls": [

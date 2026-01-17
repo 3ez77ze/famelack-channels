@@ -90,6 +90,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
+    "iptv_urls": [
+      "https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JjVGVjzCa9hXFe",
     "name": "Canal Más Televisión",
     "iptv_urls": [
@@ -204,6 +215,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v9elmASfRSOTaE",
+    "name": "CNC HD Online",
+    "iptv_urls": [
+      "https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vlNh6cGmLuP4h1",
+    "name": "CNC Pereira",
+    "iptv_urls": [
+      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
     "iptv_urls": [
@@ -282,6 +315,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wzR0TNYEFfuhVq",
+    "name": "La Hermandad Salsera",
+    "iptv_urls": [
+      "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4Nl0um2MnZBZ5L",
     "name": "La Kalle",
     "iptv_urls": [
@@ -297,6 +341,18 @@
     "name": "La Morada Radio TV",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/lamoradatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2RNOyGKRiGPXuw",
+    "name": "MasMusica FM",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/masmusica.m3u8",
+      "https://video.ejeserver.com/live/masmusica.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -359,17 +415,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iEaQZyuCD9tKa4",
-    "name": "Red+",
-    "iptv_urls": [
-      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JcWgUdRfwM6UkT",
     "name": "Reyali",
     "iptv_urls": [
@@ -396,6 +441,17 @@
     "name": "RTC Televisión Urabá",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -430,17 +486,6 @@
     "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

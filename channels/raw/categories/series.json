@@ -248,7 +248,7 @@
     "name": "Farscape",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JeeYHKYv8qY"
+      "https://www.youtube-nocookie.com/embed/WXbip14zpW8"
     ],
     "language": "eng",
     "country": "us",
@@ -528,7 +528,7 @@
     "name": "Shout! Studios: Hunter",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bbL9XWQTkDw"
+      "https://www.youtube-nocookie.com/embed/i4Q1N5EKVzE"
     ],
     "language": "eng",
     "country": "us",
@@ -550,7 +550,7 @@
     "name": "Shout! Studios: Renegade",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9Xkoh1waJH4"
+      "https://www.youtube-nocookie.com/embed/RG-TEk9gSBM"
     ],
     "language": "eng",
     "country": "us",
@@ -638,7 +638,7 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8nwASjOsrkE"
+      "https://www.youtube-nocookie.com/embed/EOw9Pmj22ew"
     ],
     "language": "jpn",
     "country": "us",
@@ -649,21 +649,10 @@
     "name": "TokuSHOUTsu: Kyōryū Sentai Zyuranger",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zN9auaBBWJE"
+      "https://www.youtube-nocookie.com/embed/hY9vwYxeRFI"
     ],
     "language": "jpn",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XqX1P3iuCUKE9s",
-    "name": "TV Series 1 As Panteras",
-    "iptv_urls": [
-      "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -750,6 +739,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OusIpey2XcPOf5",
+    "name": "Смотрим Честный Детектив",
+    "iptv_urls": [
+      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

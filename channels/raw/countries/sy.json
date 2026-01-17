@@ -22,9 +22,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j8DVaCm6ri0nNo",
+    "nanoid": "Zb4yx0Hhhjqp7h",
     "name": "Halab Today TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Ofs13Ccb08I"
     ],

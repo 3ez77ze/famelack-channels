@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "At9xDVwnRJnJwN",
+    "name": "13 Kids",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "iptv_urls": [
@@ -338,6 +349,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XfZetbS9084"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1NS02kDPqI5WSa",
+    "name": "CBeebies Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -908,6 +930,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "iptv_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LZif3PhiUHUfCZ",
     "name": "Nei Monggol TV Children Channel",
     "iptv_urls": [
@@ -1088,7 +1121,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AUruR2QHSDg"
+      "https://www.youtube-nocookie.com/embed/rZQIUdUBBhE"
     ],
     "language": "por",
     "country": "br",
@@ -1506,17 +1539,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6i2Exc39Jo7dz5",
-    "name": "WildBrain Çocuklar: Çilekli Kurabiye",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/okum0TV6JGM"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "G5NY2Fs2RexhNk",
     "name": "WildBrain Çocuklar: Twirlywoos",
     "iptv_urls": [],
@@ -1558,6 +1580,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "iptv_urls": [
+      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1721,7 +1754,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lw--PSStWus"
+      "https://www.youtube-nocookie.com/embed/EvDmkk-2Ciw"
     ],
     "language": "zho",
     "country": "cn",

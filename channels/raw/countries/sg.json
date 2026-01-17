@@ -44,6 +44,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3gzsTxGbsnoOG9",
+    "name": "Channel 5",
+    "iptv_urls": [
+      "https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tkWKvDS1sRPpJ3",
+    "name": "Channel 8",
+    "iptv_urls": [
+      "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZqF6OSLKiW8"
+    ],
+    "language": "zho",
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AU2yXm9mU3g3ti",
+    "name": "Channel U",
+    "iptv_urls": [
+      "https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gS3BIgZPeKUpbg",
     "name": "CNA",
     "iptv_urls": [
@@ -80,7 +115,6 @@
     "nanoid": "G00HUpBKHxckzh",
     "name": "CNBC Asia",
     "iptv_urls": [
-      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
       "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
@@ -96,6 +130,28 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ABiRCL06fZ2UcZ",
+    "name": "Suria",
+    "iptv_urls": [
+      "https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "msa",
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A3SDYRd3BG68Tz",
+    "name": "Vasantham",
+    "iptv_urls": [
+      "https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
     "country": "sg",
     "isGeoBlocked": false
   },

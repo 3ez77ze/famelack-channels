@@ -33,22 +33,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tn94bXCcZQXp4I",
-    "name": "Al Arabiya Programs",
-    "iptv_urls": [
-      "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7ww4XqjlIRbeax",
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b6Tt5NcTX10"
+      "https://www.youtube-nocookie.com/embed/-xLAYI4xHzs"
     ],
     "language": "jpn",
     "country": "jp",
@@ -105,6 +94,17 @@
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xxt6pP3Jqt3MeP",
+    "name": "BBC Earth Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -371,17 +371,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6X04TK6XI9Sv6c",
-    "name": "National Geographic Latin America",
-    "iptv_urls": [
-      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
     "isGeoBlocked": false
   },
   {

@@ -143,28 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YFqOd9RFAP2HGq",
-    "name": "Bahrain Sports 1",
-    "iptv_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBDiIYv6gMiZbW",
-    "name": "Bahrain Sports 2",
-    "iptv_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -318,6 +296,18 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -665,17 +655,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "iptv_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "iptv_urls": [
@@ -725,7 +704,6 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
       "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -952,7 +930,7 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
