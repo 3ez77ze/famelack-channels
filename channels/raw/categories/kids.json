@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EgspbzPRaIJYXi",
+    "name": "ADO TV",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "iptv_urls": [
@@ -398,28 +409,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hboH9AkWIrBLT1",
-    "name": "Clifford the Big Red Dog: Classic",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Nj7s3kaBP5Q"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DWHNlPkSNnnnSG",
-    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rw4l6aV-kt4"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DIYFiR27hwM7Fq",
     "name": "Dios Te Ve Kids",
     "iptv_urls": [
@@ -708,6 +697,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "iptv_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "iptv_urls": [
@@ -879,7 +879,7 @@
     "name": "Moomin Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pvLTr58KUlc"
+      "https://www.youtube-nocookie.com/embed/JHhSKUvLC7A"
     ],
     "language": "eng",
     "country": "fi",
@@ -1077,7 +1077,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0Q5mixHjvOc"
+      "https://www.youtube-nocookie.com/embed/3U3oMDD84-Q"
     ],
     "language": "por",
     "country": "br",
@@ -1254,7 +1254,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-6CTP5MASh4"
+      "https://www.youtube-nocookie.com/embed/ApMdUiL1o50"
     ],
     "language": "eng",
     "country": "ca",
@@ -1265,7 +1265,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5M-jxvkVXak"
+      "https://www.youtube-nocookie.com/embed/nPjx0S87QjQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -1276,7 +1276,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aDaxxVJB_aA"
+      "https://www.youtube-nocookie.com/embed/V-dOyTMBybU"
     ],
     "language": "eng",
     "country": "ca",
@@ -1484,6 +1484,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6i2Exc39Jo7dz5",
+    "name": "WildBrain Çocuklar: Çilekli Kurabiye",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3o5inKCyWPU"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G5NY2Fs2RexhNk",
     "name": "WildBrain Çocuklar: Twirlywoos",
     "iptv_urls": [],
@@ -1510,7 +1521,7 @@
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1EAT-5QRVM4"
+      "https://www.youtube-nocookie.com/embed/Hs_rAlvmbWs"
     ],
     "language": "eng",
     "country": "uk",
@@ -1521,7 +1532,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MxrECSuFqHI"
+      "https://www.youtube-nocookie.com/embed/USktN_XIAF4"
     ],
     "language": "eng",
     "country": "uk",
@@ -1699,7 +1710,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CS9LfWTmcOw"
+      "https://www.youtube-nocookie.com/embed/2Q8oNM_TK7Y"
     ],
     "language": "zho",
     "country": "cn",

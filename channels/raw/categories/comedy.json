@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Lj6dWjhNWYn6fE",
+    "name": "Comedy Central (1080i)",
+    "iptv_urls": [
+      "https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nj8aLvvoJDsy5b",
     "name": "Comedy Central HD",
     "iptv_urls": [

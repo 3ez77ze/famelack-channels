@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mTBj2wwnkApUNi",
+    "name": "América Estéreo Tulcán",
+    "iptv_urls": [
+      "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8Bv8hcX2tNuzZb",
     "name": "Antena Uno RadioVideo",
     "iptv_urls": [
@@ -451,17 +462,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yQP21gjr5nH5Wg",
-    "name": "Puruwa TV",
-    "iptv_urls": [
-      "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6ljoSjl6uAhfcj",
     "name": "Radio Alegria 98.5 FM",
     "iptv_urls": [
@@ -532,17 +532,6 @@
     "name": "RTRTV",
     "iptv_urls": [
       "https://tv3ecuador.site/hls/stream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Vw6NdTRGURL25",
-    "name": "RTU",
-    "iptv_urls": [
-      "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
     ],
     "youtube_urls": [],
     "language": "spa",

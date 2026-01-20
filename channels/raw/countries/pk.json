@@ -59,7 +59,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0b76yKZeh0M"
+      "https://www.youtube-nocookie.com/embed/0AiFw-xURnY"
     ],
     "language": "sd",
     "country": "pk",
@@ -181,8 +181,19 @@
     "name": "Geo News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ifgOMEerYQI"
+      "https://www.youtube-nocookie.com/embed/kZk3DJYK41c"
     ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F6sXz5Gj54UWsc",
+    "name": "Geo Tez (576i)",
+    "iptv_urls": [
+      "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
@@ -408,9 +419,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cdCHTYSuvWneRq",
+    "nanoid": "XNoYUMV4eTzrsQ",
     "name": "Madani Channel Urdu",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6y-xI8UjGno"
     ],
@@ -471,6 +484,17 @@
       "https://www.youtube-nocookie.com/embed/dIEhcx9NQY0"
     ],
     "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cY2xwz2R3RaEd2",
+    "name": "Sindh TV News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/KcLIA1bXVKg"
+    ],
+    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },

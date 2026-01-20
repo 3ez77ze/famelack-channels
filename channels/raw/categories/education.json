@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7vuNKG15VuJZNX",
+    "name": "Campus TV",
+    "iptv_urls": [
+      "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1FGdyXp2FzRogD",
     "name": "Canal 15 ILCE Summa Sabres",
     "iptv_urls": [
@@ -253,43 +264,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZPk578ujZjTXPa",
-    "name": "DLTV 1",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FH7NvrC8IdGbek",
     "name": "DLTV 2",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z2nBboETrkSzIa",
-    "name": "DLTV 3",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "28rjnzXjPjea82",
-    "name": "DLTV 4",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -352,32 +330,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J2tWh2yACsVBKq",
-    "name": "DLTV 10",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1UZOek5lIzCih6",
     "name": "DLTV 11",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv11.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9tRf46L4LZNOGa",
-    "name": "DLTV 12",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -1004,17 +960,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
-    "iptv_urls": [
-      "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wG03qaF80rSneK",
     "name": "Telepace 3",
     "iptv_urls": [
@@ -1169,6 +1114,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "iptv_urls": [
+      "https://stream.unison.mx/hls/unisontvatem.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "UNISUL TV",
     "iptv_urls": [
@@ -1180,9 +1136,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8WWJX1RmDb9DC0",
+    "nanoid": "o42XfPEZyBkZVI",
     "name": "Vav TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/guiHVhRhLBQ"
     ],
@@ -1217,17 +1175,6 @@
     "name": "World Channel",
     "iptv_urls": [
       "https://world.lls.pbs.org/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FqfjVtCq56Tw8t",
-    "name": "WPS TV",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

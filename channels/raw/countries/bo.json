@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "iptv_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hiCZpbwj9latCv",
     "name": "Coral TV",
     "iptv_urls": [
@@ -125,6 +114,17 @@
     "name": "Unifranz",
     "iptv_urls": [
       "https://live.enhdtv.com:8081/8192/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LFx5rbcyR21noP",
+    "name": "Univalle Televisión",
+    "iptv_urls": [
+      "https://master.tucableip.com/univalletv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

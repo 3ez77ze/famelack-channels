@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "zRdDvgf2t6vYGi",
-    "name": "Afghanistan International",
-    "iptv_urls": [
-      "https://hls.afintl.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pus",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ENzrhYlnEqyYie",
     "name": "Afrobeats",
     "iptv_urls": [
@@ -408,6 +397,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/D0DJDB5XuLw"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -481,28 +481,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tvhsp1pTtzQs6W",
-    "name": "ENT Channel",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J7Le553hw3j1x7",
-    "name": "ENT Family",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1242,6 +1220,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "iptv_urls": [
@@ -1376,61 +1365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pzt1PSqplgKD2y",
-    "name": "Totalmusic",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Rw1P5d6hpRKjY",
-    "name": "Totalmusic 80s",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MG5xhJnyQvgB5s",
-    "name": "Totalmusic 2000s",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "l5T7DFgOiQyz89",
-    "name": "Totalmusic Concerts",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qht3DL9A3RRTRh",
-    "name": "Totalmusic Dance",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PTj7LQOzasSv5q",
     "name": "Trace Hits",
     "iptv_urls": [
@@ -1523,7 +1457,7 @@
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1EAT-5QRVM4"
+      "https://www.youtube-nocookie.com/embed/Hs_rAlvmbWs"
     ],
     "language": "eng",
     "country": "uk",
@@ -1534,7 +1468,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MxrECSuFqHI"
+      "https://www.youtube-nocookie.com/embed/USktN_XIAF4"
     ],
     "language": "eng",
     "country": "uk",
@@ -1546,6 +1480,17 @@
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
+    "iptv_urls": [
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

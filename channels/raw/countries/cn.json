@@ -90,6 +90,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3yeaLOItD0HtrR",
+    "name": "CGTN Arabic",
+    "iptv_urls": [
+      "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+      "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u673t64oVwJcTF",
     "name": "CGTN Documentary",
     "iptv_urls": [
@@ -136,6 +148,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i14OYTTgeDWJ8P",
+    "name": "CGTN Русский",
+    "iptv_urls": [
+      "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+      "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AkJT8qUHrHTblc",
     "name": "Chifeng Comprehensive News Chanel",
     "iptv_urls": [
@@ -158,17 +182,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f1nxbKF3lgdEIT",
-    "name": "Harbin Comprehensive News Channel",
-    "iptv_urls": [
-      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7Hsc69UuEllEuA",
     "name": "Harbin Movie Channel",
     "iptv_urls": [
@@ -184,17 +197,6 @@
     "name": "Nei Monggol TV 2 Mongolian Culture Channel",
     "iptv_urls": [
       "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G3z1qWfpSyIFVO",
-    "name": "Nei Monggol TV Agriculture & Animal Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -290,17 +292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1by9GcHy62iZ4M",
-    "name": "QTV-5",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KVsjP0kIbz2vIV",
     "name": "QTV-6",
     "iptv_urls": [
@@ -316,6 +307,18 @@
     "name": "Siping TV",
     "iptv_urls": [
       "https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IoBPBg5ALFnRHd",
+    "name": "Tonghua TV",
+    "iptv_urls": [
+      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
+      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -537,7 +540,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CS9LfWTmcOw"
+      "https://www.youtube-nocookie.com/embed/2Q8oNM_TK7Y"
     ],
     "language": "zho",
     "country": "cn",
@@ -669,6 +672,17 @@
     "name": "浙江经济",
     "iptv_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VFiwsFTkgPQkI4",
+    "name": "浙江钱江",
+    "iptv_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

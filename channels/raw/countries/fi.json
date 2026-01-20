@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f0wcRTXZi1OLrF",
+    "name": "Eveo",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6K6oFgTHq5fj7V",
     "name": "Hero",
     "iptv_urls": [
@@ -103,7 +114,7 @@
     "name": "Moomin Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pvLTr58KUlc"
+      "https://www.youtube-nocookie.com/embed/JHhSKUvLC7A"
     ],
     "language": "eng",
     "country": "fi",

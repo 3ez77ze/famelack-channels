@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4f1EFJwCPB3ths",
+    "name": "Altaghier TV",
+    "iptv_urls": [
+      "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pmWQ07XSqyy8GG",
     "name": "Amman TV",
     "iptv_urls": [
@@ -110,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n1NVXrRoMu2hbw",
+    "name": "Melody FM Jordan",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bSyZI3uj6B02G3",
     "name": "Roya Comedy",
     "iptv_urls": [
@@ -169,7 +191,7 @@
     "name": "Roya News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Lu912AlKN90"
+      "https://www.youtube-nocookie.com/embed/fhdGepwiadw"
     ],
     "language": "ara",
     "country": "jo",

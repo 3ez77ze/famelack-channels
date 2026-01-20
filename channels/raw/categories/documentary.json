@@ -48,7 +48,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SPK0U3IWhFU"
+      "https://www.youtube-nocookie.com/embed/FL4v2lKTfl4"
     ],
     "language": "jpn",
     "country": "jp",
@@ -385,6 +385,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6X04TK6XI9Sv6c",
+    "name": "National Geographic Latin America",
+    "iptv_urls": [
+      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AbcJxYxf3cyf3H",
     "name": "NatureTime",
     "iptv_urls": [
@@ -512,6 +523,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

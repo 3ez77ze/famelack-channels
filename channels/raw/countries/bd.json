@@ -66,22 +66,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mp7J62VtY0DqAW",
-    "name": "Independent Television",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G1JXOsA5MEs"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "B9n020aED6O0Uz",
     "name": "Jamuna TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o3cT0X_evvc"
+      "https://www.youtube-nocookie.com/embed/n9Syq9XWkQA"
     ],
     "language": "ben",
     "country": "bd",
@@ -106,6 +95,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
+    ],
+    "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lxKB7P4hAHIaws",
+    "name": "Rtv News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8ig5ymg-oFE"
     ],
     "language": "ben",
     "country": "bd",

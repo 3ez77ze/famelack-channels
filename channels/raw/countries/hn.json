@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7vuNKG15VuJZNX",
+    "name": "Campus TV",
+    "iptv_urls": [
+      "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s5LZw8Yx4rrG1s",
     "name": "Canal 11",
     "iptv_urls": [
@@ -81,6 +92,17 @@
     "name": "DTV",
     "iptv_urls": [
       "https://dvrfl03.bozztv.com/hondu-dtelevision/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "81AXIOjoDu8lAA",
+    "name": "Ebenezer TV",
+    "iptv_urls": [
+      "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -176,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I1eaiqSEwU4HoX",
-    "name": "Omega TV",
-    "iptv_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IkWDqPQzm5FN4S",
     "name": "Radio Ideal 104.7 FM (La Esperanza)",
     "iptv_urls": [
@@ -253,10 +264,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yH1S0lEj15Dojl",
-    "name": "Television Olanchana",
+    "nanoid": "uoM0jHqhHe7tUv",
+    "name": "Televisión Metrópolis 19.1",
     "iptv_urls": [
-      "https://viewhn.com/canal30/live/playlist.m3u8"
+      "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "absH7c9TQgVLPd",
+    "name": "Televisión Metrópolis 19.2",
+    "iptv_urls": [
+      "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OPNVhQbPeZ6MyD",
+    "name": "TV Centro HD",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

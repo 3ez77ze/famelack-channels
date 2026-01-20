@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sVMuojFlIFBAT6",
+    "name": "Al Wilayah",
+    "iptv_urls": [
+      "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uo4r4AgtnKSByN",
     "name": "Arax TV",
     "iptv_urls": [

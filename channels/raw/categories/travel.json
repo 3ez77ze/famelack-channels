@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lUS9K0CF75zUdP",
+    "name": "BHA TV",
+    "iptv_urls": [
+      "https://streamer2.nexgen.bz/15-BHA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "bz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eko7uFhNP2g6vo",
     "name": "Chile Channel",
     "iptv_urls": [
@@ -154,6 +165,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
     "iptv_urls": [
@@ -165,14 +187,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4IxBqGTmogAaSR",
-    "name": "Teletur",
+    "nanoid": "xJdfWe2cF6aQkl",
+    "name": "Tanzania Safari Channel",
     "iptv_urls": [
-      "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8"
+      "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
+    "language": "eng",
+    "country": "tz",
     "isGeoBlocked": false
   },
   {
@@ -195,6 +217,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xCDrIWnNgtribb",
+    "name": "Turismo RDTV",
+    "iptv_urls": [
+      "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
