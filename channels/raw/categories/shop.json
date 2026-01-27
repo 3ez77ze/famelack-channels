@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ugGAivxJyE8GHx",
-    "name": "AAC Television",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1oFgZiNjcZA"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4ekttMMc8433us",
     "name": "Bajo Techo TV",
     "iptv_urls": [
@@ -85,6 +74,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/78PFqFGaOK0"
+    ],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -147,7 +147,7 @@
     "name": "Gem Shopping",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MTvSu_YdDfI"
+      "https://www.youtube-nocookie.com/embed/qRlOXPrKAYo"
     ],
     "language": "eng",
     "country": "us",
@@ -547,7 +547,7 @@
     "name": "Pearl TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QJO77JijahY"
+      "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
     ],
     "language": "deu",
     "country": "de",

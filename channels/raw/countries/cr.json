@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bK2TlT0v8UWAuh",
+    "name": "Colosal TV",
+    "iptv_urls": [
+      "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0QTowwNml7pc3D",
     "name": "Costa Rica Channel",
     "iptv_urls": [
@@ -242,10 +253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
     "iptv_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

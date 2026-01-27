@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lUS9K0CF75zUdP",
+    "name": "BHA TV",
+    "iptv_urls": [
+      "https://streamer2.nexgen.bz/15-BHA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "bz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFJoaBTNu1TWq1",
     "name": "Channel 5",
     "iptv_urls": [

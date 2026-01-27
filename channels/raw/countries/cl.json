@@ -180,7 +180,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Qc7vRaFMmbs"
+      "https://www.youtube-nocookie.com/embed/u8n0weM2Dro"
     ],
     "language": "spa",
     "country": "cl",
@@ -356,7 +356,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SN4mjL8VBAA"
+      "https://www.youtube-nocookie.com/embed/ziuGe4jkHdg"
     ],
     "language": "spa",
     "country": "cl",
@@ -513,17 +513,6 @@
     "name": "Teletrak",
     "iptv_urls": [
       "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v7CKSlcO8gjGok",
-    "name": "Televida",
-    "iptv_urls": [
-      "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -690,6 +679,18 @@
     "name": "UESTV",
     "iptv_urls": [
       "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fsG9WCXeLX2m3u",
+    "name": "Universidad Autónoma Temuco (UATV)",
+    "iptv_urls": [
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

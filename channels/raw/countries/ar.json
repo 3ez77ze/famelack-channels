@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o15OiPkM4jxoZp",
+    "name": "Bayres TV",
+    "iptv_urls": [
+      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SHCgFbO79Hh4Z8",
     "name": "Beats Radio",
     "iptv_urls": [
@@ -105,17 +116,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/nb8ldCciKp8"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mbc3tMycOFDjGt",
-    "name": "Canal 2 de Ushuaia",
-    "iptv_urls": [
-      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -198,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZwcB80q6hf9Umn",
-    "name": "Canal 5 Pico Truncado",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qltnj6pxW46J3l",
     "name": "Canal 5 Santa Fe",
     "iptv_urls": [
@@ -256,7 +245,6 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "iptv_urls": [
-      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
       "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
     ],
     "youtube_urls": [],
@@ -389,6 +377,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v7fuzMjUcfiKGk",
+    "name": "Canal 79 La Costa",
+    "iptv_urls": [
+      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGdrDzPisNgZkI",
     "name": "Canal 79 Puan",
     "iptv_urls": [
@@ -501,6 +500,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
@@ -545,17 +555,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XCDnk2h8lWn1vm",
-    "name": "Diputados TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/t1BY9k8XqbA"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GzM2c4cYlZpdvV",
     "name": "El Doce",
     "iptv_urls": [],
@@ -571,7 +570,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gFcqtJVi5_Y"
+      "https://www.youtube-nocookie.com/embed/A1poBA8iRnA"
     ],
     "language": "spa",
     "country": "ar",
@@ -638,7 +637,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fZSvuJMsU-A"
+      "https://www.youtube-nocookie.com/embed/kyh9RG3N2iI"
     ],
     "language": "spa",
     "country": "ar",
@@ -728,6 +727,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/FV1MrtwGx20"
     ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hUmeKtS1x9uzCD",
+    "name": "Metro TV",
+    "iptv_urls": [
+      "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -1002,7 +1012,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X8FWhWNOFAs"
+      "https://www.youtube-nocookie.com/embed/xjZi9a_9sGA"
     ],
     "language": "spa",
     "country": "ar",
@@ -1091,7 +1101,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/32jBs_RAEV4"
+      "https://www.youtube-nocookie.com/embed/HuFqjcm38Mg"
     ],
     "language": "spa",
     "country": "ar",

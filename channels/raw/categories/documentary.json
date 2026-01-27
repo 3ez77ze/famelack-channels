@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "HQpbprNXlsncEg",
-    "name": "7 STORIA",
-    "iptv_urls": [
-      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tn94bXCcZQXp4I",
     "name": "Al Arabiya Programs",
     "iptv_urls": [
@@ -26,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2ttnszMpFCE"
+      "https://www.youtube-nocookie.com/embed/Gdn2ah6juP4"
     ],
     "language": "jpn",
     "country": "jp",
@@ -394,17 +383,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -413,18 +391,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0mulGVhtSW9kDC",
-    "name": "RT Documentary Russian",
-    "iptv_urls": [
-      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
-      "https://streaming.thestream.cyou/live/554.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },

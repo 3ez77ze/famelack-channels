@@ -341,29 +341,9 @@
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8"
     ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LKln2KCTgGGW0o",
-    "name": "Tele 1",
-    "iptv_urls": [
-      "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8"
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/82O6yOy_XwE"
     ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DSMeS4qDum96H6",
-    "name": "Tele M1",
-    "iptv_urls": [
-      "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "deu",
     "country": "ch",
     "isGeoBlocked": false
@@ -372,8 +352,7 @@
     "nanoid": "9inSrRGCyLN9fv",
     "name": "TeleBarn",
     "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8",
-      "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8"
+      "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -403,17 +382,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qWtYbKLu3rOshF",
-    "name": "TeleZüri",
-    "iptv_urls": [
-      "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p2FtOD8SiN31rW",
     "name": "TV 24",
     "iptv_urls": [
@@ -425,10 +393,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xZQHlEpImFJ1As",
-    "name": "TVO (CH)",
+    "nanoid": "WbRuzq9zl8hxl0",
+    "name": "TV Rheintal",
     "iptv_urls": [
-      "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8"
+      "https://rtmp-vm.fidion.de/live/tvrt.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

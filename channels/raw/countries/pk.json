@@ -92,7 +92,7 @@
     "name": "City 41",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YFKXVeL5S2Y"
+      "https://www.youtube-nocookie.com/embed/yQ6uxsovhuo"
     ],
     "language": "urd",
     "country": "pk",
@@ -172,17 +172,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9mXKvBYgZ_E"
     ],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F6sXz5Gj54UWsc",
-    "name": "Geo Tez (576i)",
-    "iptv_urls": [
-      "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
@@ -357,7 +346,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dtHUaYIm4OE"
+      "https://www.youtube-nocookie.com/embed/-PO6gnKiCho"
     ],
     "language": "urd",
     "country": "pk",
@@ -425,7 +414,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C_EooUVb1Ng"
+      "https://www.youtube-nocookie.com/embed/CcEVEhYOG1o"
     ],
     "language": "urd",
     "country": "pk",
@@ -436,18 +425,6 @@
     "name": "PMI TV",
     "iptv_urls": [
       "https://cdn.live247stream.com/pmi/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "77LBTTq4JvQf4h",
-    "name": "Praise TV",
-    "iptv_urls": [
-      "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
-      "https://pixelsmedia.live/livepraisetv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -492,7 +469,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1Ewm04s6aAg"
+      "https://www.youtube-nocookie.com/embed/CsPaXuLMKtk"
     ],
     "language": "sd",
     "country": "pk",

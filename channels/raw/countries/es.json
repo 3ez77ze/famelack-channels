@@ -390,17 +390,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fSeqRheB6IOZIg",
-    "name": "Canal Doñana",
-    "iptv_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTfUhDJ1psN0TH",
     "name": "Canal Extremadura Satelite",
     "iptv_urls": [
@@ -790,17 +779,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pVAUDpY02IzoVj",
-    "name": "Goiena Eus",
-    "iptv_urls": [
-      "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GZWR4WKfwfXc9w",
     "name": "Gol Classics",
     "iptv_urls": [
@@ -1087,28 +1065,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "r4O5xUGbFguCQr",
-    "name": "Pequeradio",
-    "iptv_urls": [
-      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
     "iptv_urls": [
@@ -1362,17 +1318,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hfwTzzqbXODdPh",
-    "name": "Rakuten TV Family Movies Finland",
-    "iptv_urls": [
-      "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "47gMxXtvKDDhIZ",
     "name": "Rakuten TV Family Movies Germany",
     "iptv_urls": [
@@ -1413,17 +1358,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d9geI4ATc8cBPs",
-    "name": "Rakuten TV Nordic Films",
-    "iptv_urls": [
-      "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1538,6 +1472,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LAxYlfGvF61ICE",
+    "name": "Rioja Televisión",
+    "iptv_urls": [
+      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yMTjCVwIgtqXb8",
     "name": "ROTV Valencia",
     "iptv_urls": [
@@ -1597,6 +1542,17 @@
     "name": "Solidaria TV",
     "iptv_urls": [
       "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1736,6 +1692,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mOCMYDYV2t8RPY",
+    "name": "Trece",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ciqRUeYYlnMbyC",
     "name": "Tuya La Janda Television",
     "iptv_urls": [
@@ -1851,6 +1818,17 @@
     "name": "TVE Star HD",
     "iptv_urls": [
       "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kwKGKTuhcnTGZS",
+    "name": "TVM Córdoba",
+    "iptv_urls": [
+      "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

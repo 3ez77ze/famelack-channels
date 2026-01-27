@@ -1167,6 +1167,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BoupFeA3cv43aA",
+    "name": "Motorvision.tv (French)",
+    "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kD5MBV5ey6hKbh",
     "name": "Motus La Chaîne",
     "iptv_urls": [
@@ -1273,17 +1284,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G4MF2teF38UV6O",
-    "name": "Paramount Channel",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1721,8 +1721,7 @@
     "nanoid": "PddVv4O37Tx5Us",
     "name": "Sony One Series Comedie",
     "iptv_urls": [
-      "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
-      "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8"
+      "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RgXZMyE6SkTLbW",
+    "name": "Bayyinat TV",
+    "iptv_urls": [
+      "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bBdVVt0cpWEQfg",
     "name": "BeitolAbbas TV Channel",
     "iptv_urls": [
@@ -117,6 +128,17 @@
     ],
     "youtube_urls": [],
     "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Q3qj0YJPujBhJs",
+    "name": "Channel 8",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZqF6OSLKiW8"
+    ],
+    "language": "kur",
     "country": "iq",
     "isGeoBlocked": false
   },

@@ -506,6 +506,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JUHY7ZFUwE8O9n",
+    "name": "Finest TV",
+    "iptv_urls": [
+      "https://media.finest.tv/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6ftPsR4C1PTDrI",
     "name": "Fluss Monster",
     "iptv_urls": [
@@ -752,17 +763,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "iptv_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "iptv_urls": [
@@ -848,17 +848,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nSKKagLIpNXooQ",
-    "name": "Naruto Germany",
-    "iptv_urls": [
-      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -953,6 +942,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JMBqVoy25nEXh6",
+    "name": "Noa 4 Hamburg",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YxHL1LhWQRdskl",
+    "name": "Noa 4 Norderstedt",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "iptv_urls": [
@@ -1011,8 +1022,7 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1057,7 +1067,7 @@
     "name": "Pearl TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QJO77JijahY"
+      "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
     ],
     "language": "deu",
     "country": "de",
@@ -1213,6 +1223,17 @@
     "name": "Regio TV Stuttgart",
     "iptv_urls": [
       "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x5Tm4sSiBqyqwq",
+    "name": "Rennsteig TV",
+    "iptv_urls": [
+      "https://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
