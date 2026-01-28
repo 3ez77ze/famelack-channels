@@ -220,6 +220,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hseoq3PTdJAqIW",
+    "name": "INFAST",
+    "iptv_urls": [
+      "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pmtAxTGBGTpwKV",
     "name": "Leaderboard Sports News",
     "iptv_urls": [

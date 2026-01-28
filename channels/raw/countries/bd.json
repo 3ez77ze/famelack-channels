@@ -110,16 +110,5 @@
     "language": "ben",
     "country": "bd",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NikPw9VKIQ0CfQ",
-    "name": "Somoy TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jaeCUHZyVXE"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
   }
 ]

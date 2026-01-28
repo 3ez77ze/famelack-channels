@@ -518,6 +518,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2SfhuUEazfjthW",
+    "name": "TV Relax",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/y6e8AolaA9Q"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Prd5njCA48tIne",
     "name": "TVC (1080i)",
     "iptv_urls": [
@@ -578,8 +589,8 @@
     "name": "TVP1",
     "iptv_urls": [
       "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
-      "https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8",
-      "https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8"
+      "https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8",
+      "https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -604,17 +615,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

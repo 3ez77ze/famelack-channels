@@ -27,7 +27,9 @@
     "iptv_urls": [
       "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YKf_raINFD4"
+    ],
     "language": "ara",
     "country": "sy",
     "isGeoBlocked": false

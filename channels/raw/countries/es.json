@@ -58,8 +58,7 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
-      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -357,17 +356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eu4hl3zkjGqEnK",
-    "name": "Canal 45",
-    "iptv_urls": [
-      "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qZlDOUA6hBefDl",
     "name": "Canal Coín",
     "iptv_urls": [
@@ -558,17 +546,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dUunw6na7BVxaU",
-    "name": "Costa Noroeste TV",
-    "iptv_urls": [
-      "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cXG1ys411JhMWW",
     "name": "Crímenes Reales",
     "iptv_urls": [
@@ -680,17 +657,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "awUBqlQNui5V6X",
-    "name": "Estilo y Vida",
-    "iptv_urls": [
-      "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mCiVfIGYDaqE2r",
     "name": "EsTuTele",
     "iptv_urls": [
@@ -775,6 +741,17 @@
     ],
     "youtube_urls": [],
     "language": "glg",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pVAUDpY02IzoVj",
+    "name": "Goiena Eus",
+    "iptv_urls": [
+      "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1043,10 +1020,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F35HwcheJoUwkz",
-    "name": "Onda Cádiz 24h",
+    "nanoid": "fP9X0eMOqpaGfw",
+    "name": "Onda Valencia",
     "iptv_urls": [
-      "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
+      "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1054,10 +1031,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fP9X0eMOqpaGfw",
-    "name": "Onda Valencia",
+    "nanoid": "r4O5xUGbFguCQr",
+    "name": "Pequeradio",
     "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1252,17 +1229,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cWeIWfx3JTfA50",
-    "name": "Rakuten TV Crime Series Spain",
-    "iptv_urls": [
-      "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jLlxOKRQAsHJaj",
     "name": "Rakuten TV Drama Movies Finland",
     "iptv_urls": [
@@ -1285,17 +1251,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CkXWZHW3kHwT7c",
-    "name": "Rakuten TV Drama Movies Italy",
-    "iptv_urls": [
-      "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "99YOjXEtHzlDSd",
     "name": "Rakuten TV Drama Movies Spain",
     "iptv_urls": [
@@ -1314,6 +1269,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hfwTzzqbXODdPh",
+    "name": "Rakuten TV Family Movies Finland",
+    "iptv_urls": [
+      "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1358,6 +1324,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d9geI4ATc8cBPs",
+    "name": "Rakuten TV Nordic Films",
+    "iptv_urls": [
+      "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1465,17 +1442,6 @@
     "name": "Ribera TV",
     "iptv_urls": [
       "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LAxYlfGvF61ICE",
-    "name": "Rioja Televisión",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1806,10 +1772,10 @@
     "nanoid": "70kNFzzOa9jQON",
     "name": "TVE Star HD",
     "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1817,10 +1783,10 @@
     "nanoid": "70kNFzzOa9jQON",
     "name": "TVE Star HD",
     "iptv_urls": [
-      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+      "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },

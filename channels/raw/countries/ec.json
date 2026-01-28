@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "kI0G64o9JI8Am6",
-    "name": "América Estéreo Guayaquil",
-    "iptv_urls": [
-      "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ac84yC8dTLNOrh",
     "name": "América Estéreo Ibarra",
     "iptv_urls": [
@@ -242,17 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7JtXS4icmdPuca",
-    "name": "Imperio TV Canal 6",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2m0gEtXYdWeCIN",
     "name": "Infinita TV",
     "iptv_urls": [
@@ -429,17 +407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xWGjAVSP39eb8X",
-    "name": "Plus TV",
-    "iptv_urls": [
-      "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "iptv_urls": [
@@ -517,6 +484,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0Vw6NdTRGURL25",
+    "name": "RTU",
+    "iptv_urls": [
+      "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GMkpwotjB860aV",
     "name": "RTV Riobamba",
     "iptv_urls": [
@@ -587,17 +565,6 @@
     "name": "TV Universal Ecuador",
     "iptv_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OlaokC4Os8hK8W",
-    "name": "UEBI TV Online",
-    "iptv_urls": [
-      "https://ventaxtv.com:3575/live/uebilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

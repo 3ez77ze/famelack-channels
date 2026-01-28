@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lwOO3yKfQFwVFA",
-    "name": "Comedy Central",
-    "iptv_urls": [
-      "https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "nj8aLvvoJDsy5b",
     "name": "Comedy Central HD",
     "iptv_urls": [
@@ -187,17 +176,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mHt62MFHpRihkO",
-    "name": "KSHB-DT3",
-    "iptv_urls": [
-      "https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {

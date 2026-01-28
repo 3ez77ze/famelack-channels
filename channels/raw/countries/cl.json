@@ -180,7 +180,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u8n0weM2Dro"
+      "https://www.youtube-nocookie.com/embed/OkLTT3C-JrY"
     ],
     "language": "spa",
     "country": "cl",
@@ -356,7 +356,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ziuGe4jkHdg"
+      "https://www.youtube-nocookie.com/embed/6TQKAha_mCM"
     ],
     "language": "spa",
     "country": "cl",
@@ -437,17 +437,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/l77nyBug0ZM"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G45spfYKl3BXh4",
-    "name": "Radio Ritmo",
-    "iptv_urls": [
-      "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -653,17 +642,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
-    "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "iptv_urls": [
@@ -713,17 +691,6 @@
     "name": "V Classic TV",
     "iptv_urls": [
       "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y2Z36ASHb1vcNr",
-    "name": "VC Online",
-    "iptv_urls": [
-      "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

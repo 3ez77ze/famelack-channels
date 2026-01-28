@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "OuXJk2O3QtFOgh",
+    "name": "24/7 Canal de Noticias",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "iptv_urls": [],
@@ -143,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HiSqdLo7Vz02nV",
-    "name": "Canal 3 Las Heras",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6iBS7M1tfSU4qM",
     "name": "Canal 4 Jujuy",
     "iptv_urls": [
@@ -169,17 +169,6 @@
     "name": "Canal 4 Posadas",
     "iptv_urls": [
       "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j1Mx0NYk5KtzPX",
-    "name": "Canal 4 San Juan",
-    "iptv_urls": [
-      "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -245,6 +234,7 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "iptv_urls": [
+      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
       "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
     ],
     "youtube_urls": [],
@@ -314,17 +304,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-Q_iNob1CRA"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aoSHf7umzvQAal",
-    "name": "Canal 13 San Luis",
-    "iptv_urls": [
-      "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -522,17 +501,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O1w7ZkcS7F2SpI",
-    "name": "Cosmos Tv",
-    "iptv_urls": [
-      "https://canaletaplus.com:3922/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0mvjkeLc7VCHKV",
     "name": "Crónica TV",
     "iptv_urls": [],
@@ -570,7 +538,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A1poBA8iRnA"
+      "https://www.youtube-nocookie.com/embed/YmrMOT1RyPA"
     ],
     "language": "spa",
     "country": "ar",
@@ -637,7 +605,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kyh9RG3N2iI"
+      "https://www.youtube-nocookie.com/embed/Dab7NVw68RI"
     ],
     "language": "spa",
     "country": "ar",
@@ -997,22 +965,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5dobEuPzzWq3sH",
-    "name": "Telenord Corrientes",
-    "iptv_urls": [
-      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C4INN3f93tsfyG",
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xjZi9a_9sGA"
+      "https://www.youtube-nocookie.com/embed/4NdrO_Gi9rk"
     ],
     "language": "spa",
     "country": "ar",
@@ -1101,7 +1058,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HuFqjcm38Mg"
+      "https://www.youtube-nocookie.com/embed/vD67D4G8DXI"
     ],
     "language": "spa",
     "country": "ar",

@@ -192,10 +192,10 @@
     "nanoid": "2ioy8BcEUEsaqv",
     "name": "INFAST",
     "iptv_urls": [
-      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
-      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+      "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8"
+      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -602,17 +602,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UnCRZpdx8z5Vi8",
-    "name": "Radio Continu TV",
-    "iptv_urls": [
-      "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Yy1gqgg3H5Fb73",
     "name": "Radio JND",
     "iptv_urls": [
@@ -892,17 +881,6 @@
     "name": "Salto 2",
     "iptv_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

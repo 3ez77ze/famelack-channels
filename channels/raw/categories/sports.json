@@ -78,17 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgspbzPRaIJYXi",
-    "name": "ADO TV",
-    "iptv_urls": [
-      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "63DdsZA7YycDuJ",
     "name": "Adventure Sports TV",
     "iptv_urls": [
@@ -119,17 +108,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
-    "iptv_urls": [
-      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -337,7 +315,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sq9aTWdr93Y"
+      "https://www.youtube-nocookie.com/embed/Ox5jAHTJqZg"
     ],
     "language": "eng",
     "country": "us",
@@ -442,17 +420,6 @@
     ],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rttScvWUnetgoy",
-    "name": "HTV Sports",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -779,6 +746,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RlDh4IHVR4WpZw",
+    "name": "QazSport",
+    "iptv_urls": [
+      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kaz",
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
@@ -820,17 +798,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KUhdhVQJTBGWTa",
-    "name": "Rai Sport HD",
-    "iptv_urls": [
-      "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1005,17 +972,6 @@
     ],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dSUYbIZ4emOJHZ",
-    "name": "TNC Sports",
-    "iptv_urls": [
-      "https://streamer1.nexgen.bz:443/TNC_SPORTS/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "bz",
     "isGeoBlocked": false
   },
   {

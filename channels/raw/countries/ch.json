@@ -341,9 +341,7 @@
     "iptv_urls": [
       "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/82O6yOy_XwE"
-    ],
+    "youtube_urls": [],
     "language": "deu",
     "country": "ch",
     "isGeoBlocked": false
