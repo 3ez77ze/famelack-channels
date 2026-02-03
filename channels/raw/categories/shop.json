@@ -103,7 +103,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o6cfKJ_jkcA"
+      "https://www.youtube-nocookie.com/embed/949tr6RJTJ8"
     ],
     "language": "eng",
     "country": "uk",
@@ -795,17 +795,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yLB43ge13jrHoP",
-    "name": "Red TV Shop",
-    "iptv_urls": [
-      "https://master.tucableip.com/redtvshop/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CyzmTDSgy94fJZ",
     "name": "Shinsegae Shopping TV",
     "iptv_urls": [
@@ -988,17 +977,6 @@
     "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VRSVNzRuNbdCXJ",
-    "name": "Ювелирочка",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WqD_BIzno7M"
-    ],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   },
   {

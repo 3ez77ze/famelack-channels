@@ -143,17 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QtyIEE9DZnKUAu",
-    "name": "Canal 17 RTVD",
-    "iptv_urls": [
-      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rfwt8SujjryxiN",
     "name": "Canal 56",
     "iptv_urls": [
@@ -209,6 +198,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "exaauxafuWqNMx",
+    "name": "Canalda 26 HD",
+    "iptv_urls": [
+      "https://canalda.rgradio.net:3084/live/canaldalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MkGEzKEwcl7N9I",
     "name": "Cananga TV",
     "iptv_urls": [
@@ -224,6 +224,17 @@
     "name": "Caoba TV Radio",
     "iptv_urls": [
       "https://host.streamingnation.live:3940/live/caobatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EIl4iuh7wJFPTQ",
+    "name": "Carivision",
+    "iptv_urls": [
+      "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -419,10 +430,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wxf1OrLlT4Y7mE",
-    "name": "Del Pueblo TV",
+    "nanoid": "GPRph6cakYel7v",
+    "name": "De Ultimo Minuto TV",
     "iptv_urls": [
-      "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8"
+      "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -639,10 +650,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fHEjBf1AWL1gsq",
-    "name": "Global TV",
+    "nanoid": "6oM3FaZc4Ra7DI",
+    "name": "Gi Television",
     "iptv_urls": [
-      "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
+      "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -650,10 +661,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
+    "nanoid": "fHEjBf1AWL1gsq",
+    "name": "Global TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+      "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1061,6 +1072,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u0r5JHswrz2Ecq",
+    "name": "OEPM TV",
+    "iptv_urls": [
+      "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eisG5IOoOE3Yjq",
+    "name": "Onda TV",
+    "iptv_urls": [
+      "https://cnn.hostlagarto.com/ondatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PW4ES8xH9eTBMZ",
     "name": "ORBIT TV",
     "iptv_urls": [
@@ -1120,6 +1153,17 @@
     "name": "Pula TV",
     "iptv_urls": [
       "https://fox.hostlagarto.com:8081/pulatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gD8b6UqLHFJhPd",
+    "name": "Punto TV Digital 40",
+    "iptv_urls": [
+      "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1237,10 +1281,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ou96WQecpf45yL",
+    "name": "Senal Digital TV",
+    "iptv_urls": [
+      "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V55Spleruc6ryB",
     "name": "Siembra TV",
     "iptv_urls": [
       "https://streamunoapp.com:3809/live/siembratvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t4y2DSJiR5r4gE",
+    "name": "Sima Vision TV",
+    "iptv_urls": [
+      "https://soportedvb.click:3668/live/simavisiontvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1263,6 +1329,17 @@
     "name": "Su Mundo TV",
     "iptv_urls": [
       "https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H9rNHYq7t3US6d",
+    "name": "Super Digital TV",
+    "iptv_urls": [
+      "https://inliveserver.com:1936/11516/11516/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1314,6 +1391,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mGJ98RjUwsSmmv",
+    "name": "Tele Ola 44 (576i)",
+    "iptv_urls": [
+      "https://teleola.ddns.net/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fDGMkRhycdaJef",
     "name": "Tele Proyecto TV",
     "iptv_urls": [
@@ -1340,6 +1428,17 @@
     "name": "Telecanal 12",
     "iptv_urls": [
       "https://mlb.essastream.com:8081/telecanal12/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OOmY76gDtl7haQ",
+    "name": "Telecanal 28",
+    "iptv_urls": [
+      "https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1534,6 +1633,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PIluhlMF5nMowT",
+    "name": "Tenarenses TV",
+    "iptv_urls": [
+      "https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7ou9OY1nQUGsSq",
     "name": "Tiguerito TV",
     "iptv_urls": [
@@ -1626,6 +1736,17 @@
     "name": "TV Cotui Canal 31",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lw27uHm19YRkj7",
+    "name": "TV Daja",
+    "iptv_urls": [
+      "https://rdn.essastream.com:3388/live/dajatvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1758,6 +1879,17 @@
     "name": "VillaAltagracia TV",
     "iptv_urls": [
       "https://inliveserver.com:1936/10016/10016/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EZjZzTjK8zFdzR",
+    "name": "Vision 3000",
+    "iptv_urls": [
+      "https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -412,7 +412,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o6cfKJ_jkcA"
+      "https://www.youtube-nocookie.com/embed/949tr6RJTJ8"
     ],
     "language": "eng",
     "country": "uk",
@@ -1359,6 +1359,17 @@
       "https://www.youtube-nocookie.com/embed/DFYaNjzI1aI"
     ],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4YjOR1sj6Tzig4",
+    "name": "Tennis+",
+    "iptv_urls": [
+      "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },

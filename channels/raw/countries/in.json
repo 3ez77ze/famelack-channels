@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7XG6gUwSR0gt0K",
+    "name": "4PM",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/sCGvs8_yYmI"
+    ],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wyDPdeLY6Tg0Hc",
     "name": "4TV News",
     "iptv_urls": [
@@ -82,7 +93,7 @@
     "nanoid": "7CIRMQUnuxC7MK",
     "name": "9XM",
     "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
+      "https://b.jsrdn.com/strm/channels/9xm/master.m3u8",
       "https://9xjio.wiseplayout.com/9XM/master.m3u8"
     ],
     "youtube_urls": [],
@@ -124,11 +135,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "swstQbcNaTrPaK",
+    "nanoid": "TNdRouVuS6FT1Y",
     "name": "24 News",
-    "iptv_urls": [
-      "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/1wECsnGZcfc"
     ],
@@ -155,17 +164,6 @@
       "https://www.youtube-nocookie.com/embed/9_n2Q7En-Yw"
     ],
     "language": "tel",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dy8SF2GWdtFJ5m",
-    "name": "A1TV NEWS",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P5P4WALfel4"
-    ],
-    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -299,7 +297,7 @@
     "name": "ABN Digital Exclusives",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1asBrYjrZdI"
+      "https://www.youtube-nocookie.com/embed/6Yrd9THu9lU"
     ],
     "language": "tel",
     "country": "in",
@@ -317,9 +315,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1VKM9xAbtFAnPT",
+    "nanoid": "LmFI4YYSoT7HuE",
     "name": "ABP Ananda",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/PKwLsAu-z10"
     ],
@@ -328,13 +328,37 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "czpzqbtimY6a6H",
+    "nanoid": "wTdKVnEYHn5log",
     "name": "ABP Asmita",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/dLKYujgl3Dw"
     ],
     "language": "guj",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MQnJjARDuotKC8",
+    "name": "ABP Ganga",
+    "iptv_urls": [
+      "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xRdS9nEdjOnZuQ",
+    "name": "ABP Majha",
+    "iptv_urls": [
+      "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mar",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -629,7 +653,7 @@
     "name": "ANI News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Oalp3yWsxFQ"
+      "https://www.youtube-nocookie.com/embed/SeXa7FLoAAg"
     ],
     "language": "eng",
     "country": "in",
@@ -654,7 +678,7 @@
       "https://cdn.ottlive.co.in/annnews/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vXj4w8LlgnA"
+      "https://www.youtube-nocookie.com/embed/5oBwQGmvBuA"
     ],
     "language": "urd",
     "country": "in",
@@ -676,7 +700,7 @@
     "name": "Asianet News",
     "iptv_urls": [
       "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
-      "https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/9bd4a057-456d-43de-b887-7b87b021f1cc/3.m3u8"
+      "https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tXRuaacO-ZU"
@@ -689,12 +713,23 @@
     "nanoid": "25TiA9BGCCnc3x",
     "name": "Asianet Suvarna News",
     "iptv_urls": [
-      "https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8"
+      "https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/KeAuH_bcbwU"
     ],
     "language": "kan",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bbgnmWvqEH7zFb",
+    "name": "Awaaz India TV",
+    "iptv_urls": [
+      "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -737,7 +772,8 @@
     "name": "B4U Kadak",
     "iptv_urls": [
       "https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
+      "https://mumt02.tangotv.in/B4UKADAK/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -749,8 +785,7 @@
     "name": "B4U Movies",
     "iptv_urls": [
       "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
-      "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -856,17 +891,6 @@
     ],
     "youtube_urls": [],
     "language": "bho",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AR3FCwu0XdhDVH",
-    "name": "Big Magic",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/BIGMAGIC/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -981,17 +1005,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qbXfQ1QHN0d1To",
-    "name": "Chardikla Gurbaani TV",
-    "iptv_urls": [
-      "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ioAW5Hy7e9f7fU",
     "name": "Chithiram",
     "iptv_urls": [
@@ -1021,6 +1034,17 @@
     ],
     "youtube_urls": [],
     "language": "guj",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mEIRNL8QzgtqGN",
+    "name": "CNBC TV18",
+    "iptv_urls": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -1080,6 +1104,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y05Ok3neKNDPMd",
+    "name": "CVR News",
+    "iptv_urls": [
+      "https://mumt04.tangotv.in/CVRNEWS/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tel",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VUEs3SFiTU5auE",
     "name": "CVR OM Spiritual",
     "iptv_urls": [
@@ -1113,17 +1148,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6u3l6oVG0TuEFi",
-    "name": "Darshana TV",
-    "iptv_urls": [
-      "https://mumt04.tangotv.in/DARSHANATV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AfFqS4ksrh8KmF",
     "name": "DD Arun Prabha",
     "iptv_urls": [
@@ -1138,6 +1162,7 @@
     "nanoid": "NSNMcEbhYyHcvr",
     "name": "DD Assam",
     "iptv_urls": [
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8"
     ],
     "youtube_urls": [],
@@ -1149,7 +1174,7 @@
     "nanoid": "7rTPTBcKPdrgn5",
     "name": "DD Bangla",
     "iptv_urls": [
-      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ben",
@@ -1184,7 +1209,7 @@
     "nanoid": "TwS5SMS9vQHShl",
     "name": "DD Chandana",
     "iptv_urls": [
-      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "kan",
@@ -1250,7 +1275,8 @@
     "nanoid": "8lvHq1tWK9moHm",
     "name": "DD India",
     "iptv_urls": [
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+      "https://cdn-1.pishow.tv/live/23/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/TBlxk1kH9dM"
@@ -1263,7 +1289,7 @@
     "nanoid": "6oaCT3uLdQmaKh",
     "name": "DD Jharkhand",
     "iptv_urls": [
-      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -1309,7 +1335,7 @@
     "nanoid": "1GDzfrRPyjZsIq",
     "name": "DD Malayalam",
     "iptv_urls": [
-      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "mal",
@@ -1342,7 +1368,7 @@
     "nanoid": "WpcybxbE1ymavG",
     "name": "DD Mizoram",
     "iptv_urls": [
-      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/22ee1f87-4ac9-4d6b-9ec4-d5287739b4b4/2.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "lus",
@@ -1364,7 +1390,8 @@
     "nanoid": "eLxJQlzZj0WeU0",
     "name": "DD National HD",
     "iptv_urls": [
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+      "https://cdn-1.pishow.tv/live/11/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -1399,7 +1426,7 @@
     "nanoid": "gc561GHCvbklWe",
     "name": "DD Punjabi",
     "iptv_urls": [
-      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "pan",
@@ -1432,7 +1459,8 @@
     "nanoid": "Iyjdrx6y4jYwZq",
     "name": "DD Saptagiri",
     "iptv_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8",
+      "https://cdn-1.pishow.tv/live/22/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tel",
@@ -1465,7 +1493,7 @@
     "nanoid": "875rVSfAwZ6nzV",
     "name": "DD Tripura",
     "iptv_urls": [
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8"
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -1548,6 +1576,17 @@
     ],
     "youtube_urls": [],
     "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "z3IoUB89kutKlz",
+    "name": "Dharsan TV",
+    "iptv_urls": [
+      "https://galaxyott.live/hls/dharshantv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -1970,7 +2009,7 @@
     "name": "Indian Market Prices",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e1HXqE0ggs4"
+      "https://www.youtube-nocookie.com/embed/wtKOTdCsPEk"
     ],
     "language": "mar",
     "country": "in",
@@ -2058,7 +2097,7 @@
     "name": "Jai Maharashtra News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YcSDCHDGEx4"
+      "https://www.youtube-nocookie.com/embed/LXr_dXCFDLM"
     ],
     "language": "mar",
     "country": "in",
@@ -2150,17 +2189,6 @@
     "name": "JK 24x7 News",
     "iptv_urls": [
       "https://live.gulistannews.in/hls/jk.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dhvl25bdN7gJk3",
-    "name": "K News India",
-    "iptv_urls": [
-      "https://knews.livebox.co.in/youtubehls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -2327,6 +2355,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T4bE3Y8IkS0Upm",
+    "name": "KCL TV",
+    "iptv_urls": [
+      "https://kcltv.livebox.co.in/kclhls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G6k1ZjhDNh4dkc",
+    "name": "Kerala Vision",
+    "iptv_urls": [
+      "https://mumt03.tangotv.in/KERALAVISION/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rAOTCvnafCcKAZ",
     "name": "Kerala Vision News 24x7",
     "iptv_urls": [],
@@ -2426,17 +2476,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xAcpouXvIgkw8",
-    "name": "Maharashtra Times",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3m2wqRXDuFs"
-    ],
-    "language": "mar",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1jjGWcqgOhtL22",
     "name": "Maiboli",
     "iptv_urls": [
@@ -2475,7 +2514,7 @@
     "name": "Malaimurasu Tv 24X7",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KGHiPZztjUo"
+      "https://www.youtube-nocookie.com/embed/CPATFoo0fD0"
     ],
     "language": "tam",
     "country": "in",
@@ -2780,7 +2819,7 @@
     "name": "NDTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7hzj2vA_9_I"
+      "https://www.youtube-nocookie.com/embed/Nd-1ozonNGA"
     ],
     "language": "eng",
     "country": "in",
@@ -3219,7 +3258,7 @@
     "name": "NewsX Live",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MmQaC9TrYDQ"
+      "https://www.youtube-nocookie.com/embed/UpdHoapzgWc"
     ],
     "language": "eng",
     "country": "in",
@@ -3233,6 +3272,17 @@
     ],
     "youtube_urls": [],
     "language": "tel",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xDkmitqKfm7EAR",
+    "name": "Northeast Live",
+    "iptv_urls": [
+      "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -3305,17 +3355,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kr8Y9M8jWBJfYh",
-    "name": "OTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9T7VpBKdu68"
-    ],
-    "language": "ori",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3CxZy1MknmRNZH",
     "name": "Paras TV",
     "iptv_urls": [],
@@ -3323,17 +3362,6 @@
       "https://www.youtube-nocookie.com/embed/4Zk4L3XncI4"
     ],
     "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jNqlyTN5h3gmhU",
-    "name": "Pasand TV",
-    "iptv_urls": [
-      "https://mumt01.tangotv.in/PASANDTV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "bho",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -3464,6 +3492,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B8IEss7YndOSBr",
+    "name": "Prudent Media",
+    "iptv_urls": [
+      "https://prudentmcdn.rixcast.com/prudentm.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "gom",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VCaW6pzuF6jtxo",
     "name": "PTC Chakde",
     "iptv_urls": [
@@ -3567,7 +3606,7 @@
     "name": "Pudhari News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/a02mbQ-HPHw"
+      "https://www.youtube-nocookie.com/embed/Ex5uRbzwUVs"
     ],
     "language": "mar",
     "country": "in",
@@ -3607,6 +3646,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V0xFZR1j8SWBFI",
+    "name": "Puthuyugam TV",
+    "iptv_urls": [
+      "https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "66Y47J5TNlRuH2",
+    "name": "R Plus",
+    "iptv_urls": [
+      "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F5kqV9e0WrjdNZ",
     "name": "R Plus Gold",
     "iptv_urls": [
@@ -3636,6 +3697,17 @@
     ],
     "youtube_urls": [],
     "language": "tam",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9vPSRptx3djmI0",
+    "name": "Raj Musix Malayalam",
+    "iptv_urls": [
+      "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -3712,7 +3784,7 @@
       "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7yZkveFbfQE"
+      "https://www.youtube-nocookie.com/embed/79q8DA_Iua4"
     ],
     "language": "ben",
     "country": "in",
@@ -4071,7 +4143,7 @@
     "name": "Sathiyam News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dHqNe1yEc2s"
+      "https://www.youtube-nocookie.com/embed/9fYQnDDkYDY"
     ],
     "language": "tam",
     "country": "in",
@@ -4435,7 +4507,9 @@
     "iptv_urls": [
       "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/E6E8tF_SyIQ"
+    ],
     "language": "tel",
     "country": "in",
     "isGeoBlocked": false
@@ -4939,9 +5013,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DjUReBd7fW593K",
+    "nanoid": "hbdW5jPBuqVJNb",
     "name": "WION",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://wion-klowdtv.amagi.tv/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"
     ],
@@ -4961,13 +5037,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjuTbCZ7ggCZGb",
-    "name": "Zainabia Channel",
+    "nanoid": "PHOu86go0SP7H8",
+    "name": "ZB Bhakti",
     "iptv_urls": [
-      "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8"
+      "https://server.zillarbarta.com/zbbhakti/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "urd",
+    "language": "ben",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -5012,17 +5088,6 @@
       "https://www.youtube-nocookie.com/embed/88dhTUg-YJw"
     ],
     "language": "mar",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c76PMA5xU1p64o",
-    "name": "Zee Business",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9TC_T9e5FVg"
-    ],
-    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },

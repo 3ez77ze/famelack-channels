@@ -825,7 +825,7 @@
     "country": "Mali",
     "capital": "Bamako",
     "timeZone": "Africa/Bamako",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MM": {
     "country": "Myanmar",
@@ -927,7 +927,7 @@
     "country": "Niger",
     "capital": "Niamey",
     "timeZone": "Africa/Niamey",
-    "hasChannels": false
+    "hasChannels": true
   },
   "NF": {
     "country": "Norfolk Island",

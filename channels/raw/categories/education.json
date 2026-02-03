@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "HQpbprNXlsncEg",
+    "name": "7 STORIA",
+    "iptv_urls": [
+      "https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -30,17 +41,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VEqjJXobxvU"
-    ],
-    "language": "pol",
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -182,6 +182,17 @@
     "name": "Cloudflare TV",
     "iptv_urls": [
       "https://cloudflare.tv/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TbETZirFbV6iE6",
+    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
+    "iptv_urls": [
+      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -509,17 +520,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uTcYlGRyeebaB3",
-    "name": "EducaTV",
-    "iptv_urls": [
-      "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "iptv_urls": [
@@ -572,17 +572,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "iptv_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1148,13 +1137,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "UNISUL TV",
+    "iptv_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "o42XfPEZyBkZVI",
     "name": "Vav TV",
     "iptv_urls": [
       "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/guiHVhRhLBQ"
+      "https://www.youtube-nocookie.com/embed/F62HienGQKs"
     ],
     "language": "tur",
     "country": "tr",

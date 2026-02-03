@@ -509,17 +509,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x74kBxlCSA3rr8",
-    "name": "Enquetes de Choc",
-    "iptv_urls": [
-      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "iptv_urls": [],
@@ -531,11 +520,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vyAlDaoF9WU1Q1",
+    "nanoid": "g4VnkSt3v2F081",
     "name": "Euronews English",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1213,21 +1200,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
+    "nanoid": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
     "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bpkqoQyazekjjY",
-    "name": "Mytime Movies",
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
     "iptv_urls": [
-      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1569,6 +1556,17 @@
     "name": "Rakuten TV Films Romance",
     "iptv_urls": [
       "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AIirayhr6r6kA6",
+    "name": "Rakuten TV Films Thriller",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

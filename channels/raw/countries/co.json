@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "WMJjDsAiyYAdS8",
+    "name": "ATN Televisión",
+    "iptv_urls": [
+      "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
     "iptv_urls": [
@@ -27,6 +38,17 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/visiondorada.m3u8",
       "https://video.ejeserver.com/live/visiondorada.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "z6j8GoKR6XeFrc",
+    "name": "Cali TV",
+    "iptv_urls": [
+      "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -95,6 +117,18 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/teledoradahd.m3u8",
       "https://video.ejeserver.com/live/teledoradahd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5GEVv3vX7BnAy7",
+    "name": "Canal Mundo Visión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
+      "https://video.ejeserver.com/live/mundovisiontv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -192,6 +226,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vlNh6cGmLuP4h1",
+    "name": "CNC Pereira",
+    "iptv_urls": [
+      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
     "iptv_urls": [
@@ -226,43 +271,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DwSLx6TiuTvrUw",
-    "name": "Cúcuta Retro TV",
-    "iptv_urls": [
-      "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "iptv_urls": [
       "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vrb0tQpIhi4WoL",
-    "name": "Frecuencia F TV",
-    "iptv_urls": [
-      "https://tv.frecuenciaf.com/live/envivo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "02mPmZWllvm8GE",
-    "name": "Kalu TV",
-    "iptv_urls": [
-      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -429,17 +441,6 @@
     "name": "RTC Televisión Urabá",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "iptv_urls": [
@@ -158,7 +169,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fp0UBKfWvWk"
+      "https://www.youtube-nocookie.com/embed/b889CijWNwQ"
     ],
     "language": "spa",
     "country": "cl",
@@ -202,17 +213,6 @@
     "name": "Dance FM",
     "iptv_urls": [
       "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6AKwsDAUNYtLKH",
-    "name": "Décima TV (Ancud)",
-    "iptv_urls": [
-      "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -323,7 +323,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XR1HCd020Kk"
+      "https://www.youtube-nocookie.com/embed/56isnk4ZMnk"
     ],
     "language": "spa",
     "country": "cl",
