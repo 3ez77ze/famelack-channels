@@ -132,72 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J2tWh2yACsVBKq",
-    "name": "DLTV 10",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1UZOek5lIzCih6",
-    "name": "DLTV 11",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv11.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9tRf46L4LZNOGa",
-    "name": "DLTV 12",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPUnfb9kCWJfnO",
-    "name": "DLTV 13",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv13.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "i5UXCyXzVkJ6Kf",
-    "name": "DLTV 14",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv14.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sfr4boA9nNaI9M",
-    "name": "DLTV 15",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "229FKBkhihgZiC",
     "name": "Lanthung TV",
     "iptv_urls": [
@@ -242,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3GZ46w4Jr2xtDE",
-    "name": "Rama Channel",
-    "iptv_urls": [
-      "https://ramach.ddns.net/live/ramalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IC0ZQA3k7HadtW",
     "name": "SBB TV",
     "iptv_urls": [
@@ -270,17 +193,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/aTiBLKBze-Q"
     ],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tvrptnaG6ItFq0",
-    "name": "STOU Channel",
-    "iptv_urls": [
-      "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tha",
     "country": "th",
     "isGeoBlocked": false
@@ -323,6 +235,17 @@
     "name": "TV Muslim Thailand",
     "iptv_urls": [
       "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3j6DuTgbZOrvSb",
+    "name": "Zabb Channel",
+    "iptv_urls": [
+      "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",

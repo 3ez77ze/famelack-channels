@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DwSLx6TiuTvrUw",
+    "name": "Cúcuta Retro TV",
+    "iptv_urls": [
+      "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tabafcg5kRDnTr",
     "name": "Film Atölyesi: Şener Şen Filmleri",
     "iptv_urls": [],
@@ -125,7 +136,7 @@
     "name": "Shout! Studios: Bonanza (Español)",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jAhrVcbggMY"
+      "https://www.youtube-nocookie.com/embed/KalzpjmVqAQ"
     ],
     "language": "spa",
     "country": "us",

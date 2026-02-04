@@ -266,17 +266,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics",
-    "iptv_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
     "iptv_urls": [],
@@ -831,17 +820,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e5EXvO8ucfhlsQ",
-    "name": "Leo Si Penjaga Alam",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M0EFMvLowUc"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MtMNF88l0aM6yp",
     "name": "Logos TV Kids",
     "iptv_urls": [
@@ -1007,6 +985,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7zFLo9wZEOWLN9",
+    "name": "PAW Patrol (Español)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QklIunWjNYA"
+    ],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "veSkgi6hizxqlB",
     "name": "PBS Kids",
     "iptv_urls": [
@@ -1022,17 +1011,6 @@
     "name": "PBS Kids Alaska",
     "iptv_urls": [
       "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hpqn2IN4H4i4YN",
-    "name": "PBS Kids Eastern/Central",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1110,7 +1088,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lsdqnUbPWR4"
+      "https://www.youtube-nocookie.com/embed/xHLWFiHkdCo"
     ],
     "language": "por",
     "country": "br",
@@ -1236,17 +1214,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KjF2Vl25g6IXPG",
-    "name": "Rubble & Crew",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wycaasfa4KI"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1721,7 +1688,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lo2iXdimR_U"
+      "https://www.youtube-nocookie.com/embed/3T9z7mr0vN4"
     ],
     "language": "zho",
     "country": "cn",

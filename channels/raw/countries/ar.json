@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "OuXJk2O3QtFOgh",
-    "name": "24/7 Canal de Noticias",
-    "iptv_urls": [
-      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "iptv_urls": [],
@@ -389,17 +378,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v7fuzMjUcfiKGk",
-    "name": "Canal 79 La Costa",
-    "iptv_urls": [
-      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGdrDzPisNgZkI",
     "name": "Canal 79 Puan",
     "iptv_urls": [
@@ -479,32 +457,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TyUx4dR3i3hPtN",
-    "name": "Celta TV",
-    "iptv_urls": [
-      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
       "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O1w7ZkcS7F2SpI",
-    "name": "Cosmos Tv",
-    "iptv_urls": [
-      "https://canaletaplus.com:3922/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -560,7 +516,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OcayZJkFYW0"
+      "https://www.youtube-nocookie.com/embed/_YNmyXBCQxQ"
     ],
     "language": "spa",
     "country": "ar",
@@ -627,7 +583,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ueeh7dDyZKE"
+      "https://www.youtube-nocookie.com/embed/giPAaE4ZAwA"
     ],
     "language": "spa",
     "country": "ar",
@@ -671,7 +627,7 @@
     "name": "La Nación+",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xBX6mf0Juj0"
+      "https://www.youtube-nocookie.com/embed/PDtB9Hc0YJM"
     ],
     "language": "spa",
     "country": "ar",
@@ -729,17 +685,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "iptv_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1080,7 +1025,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0ESoYGPXaVU"
+      "https://www.youtube-nocookie.com/embed/SuPdY0VZqIo"
     ],
     "language": "spa",
     "country": "ar",

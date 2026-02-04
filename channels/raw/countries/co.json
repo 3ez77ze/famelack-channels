@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "WMJjDsAiyYAdS8",
-    "name": "ATN Televisión",
-    "iptv_urls": [
-      "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
     "iptv_urls": [
@@ -83,17 +72,6 @@
     "name": "Canal 14 Codazzi",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8056/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dIQhSN2tH9x7qG",
-    "name": "Canal 55 Telemorisco TV",
-    "iptv_urls": [
-      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -203,18 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xk2bL1B2O6nqIC",
-    "name": "CNC Bugavisión",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/cncbuga.m3u8",
-      "https://video.ejeserver.com/live/cncbuga.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jFEWRPe45fuS69",
     "name": "CNC Chocó",
     "iptv_urls": [
@@ -260,10 +226,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xEQPATgrEtFIdJ",
-    "name": "Cosmovision",
+    "nanoid": "DwSLx6TiuTvrUw",
+    "name": "Cúcuta Retro TV",
     "iptv_urls": [
-      "https://videohls2.cosmovision.tv/hls/sd.m3u8"
+      "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -275,6 +241,17 @@
     "name": "Eduvision",
     "iptv_urls": [
       "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vrb0tQpIhi4WoL",
+    "name": "Frecuencia F TV",
+    "iptv_urls": [
+      "https://tv.frecuenciaf.com/live/envivo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -355,6 +332,17 @@
       "https://video.ejeserver.com/live/mcitelevision.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zI3NybQoMP9Xkx",
+    "name": "Noticias Caracol",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/cjeVHgFPPPc"
+    ],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -448,6 +436,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -475,17 +474,6 @@
     "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

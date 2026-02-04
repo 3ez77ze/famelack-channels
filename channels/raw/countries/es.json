@@ -291,17 +291,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yljcrjGTTw7LxA",
-    "name": "Canal 4 Mancha Centro",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z7MEi4DtQ5gKCY",
     "name": "Canal 10 Empordà",
     "iptv_urls": [
@@ -651,7 +640,7 @@
     "name": "El Futuro En tu Mano",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BjFv12u02is"
+      "https://www.youtube-nocookie.com/embed/DiykGGAN3lg"
     ],
     "language": "spa",
     "country": "es",
@@ -1076,17 +1065,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F35HwcheJoUwkz",
-    "name": "Onda Cádiz 24h",
-    "iptv_urls": [
-      "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fP9X0eMOqpaGfw",
     "name": "Onda Valencia",
     "iptv_urls": [
@@ -1175,6 +1153,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cZ8WdRSawqzh4E",
+    "name": "Rakuten TV Action Movies Finland",
+    "iptv_urls": [
+      "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9Te0eCyfaDh09o",
     "name": "Rakuten TV Action Movies Germany",
     "iptv_urls": [
@@ -1197,6 +1186,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "akUnyMZyexeI3L",
+    "name": "Rakuten TV Action Movies Spain",
+    "iptv_urls": [
+      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pegM9YYgQxLOsZ",
     "name": "Rakuten TV Action Movies UK",
     "iptv_urls": [
@@ -1204,17 +1204,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SqdL0M66Q2lMl2",
-    "name": "Rakuten TV Cine Español",
-    "iptv_urls": [
-      "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1270,6 +1259,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cWeIWfx3JTfA50",
+    "name": "Rakuten TV Crime Series Spain",
+    "iptv_urls": [
+      "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1527,17 +1527,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "69wABBZ5acLQs0",
-    "name": "RTV Vida",
-    "iptv_urls": [
-      "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yXziQZQWkEuojb",
     "name": "RTVE Noticias 24H",
     "iptv_urls": [],
@@ -1663,17 +1652,6 @@
     "name": "TeleVigo",
     "iptv_urls": [
       "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MYmpRnITzqWFJm",
-    "name": "Televisión Aranda",
-    "iptv_urls": [
-      "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

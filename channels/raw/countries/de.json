@@ -244,17 +244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BFZswU8rLJZ6jx",
-    "name": "Da Vinci Asia Vietnam",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qoUi19GadclN5O",
     "name": "Dark Monkey Music: Dark Minimal Techno",
     "iptv_urls": [],
@@ -360,17 +349,6 @@
     "name": "DMF",
     "iptv_urls": [
       "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FQVKNsI92Y63Vf",
-    "name": "Dokusat",
-    "iptv_urls": [
-      "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -768,6 +746,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1359,17 +1348,6 @@
     "name": "Saarland Fernsehen 2",
     "iptv_urls": [
       "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7piv9vbkWJv13J",
-    "name": "Sachsen Eins",
-    "iptv_urls": [
-      "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

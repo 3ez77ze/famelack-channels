@@ -177,17 +177,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "csTsVz553duuxV",
-    "name": "Caruban TV",
-    "iptv_urls": [
-      "https://stream.carubantv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vd1yZSp74MjEYU",
     "name": "DAAI TV",
     "iptv_urls": [
@@ -195,17 +184,6 @@
     ],
     "youtube_urls": [],
     "language": "zho",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JTbs2lIH8ln5ro",
-    "name": "Davika TV",
-    "iptv_urls": [
-      "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },
@@ -320,10 +298,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XTEtIon4adh6d",
-    "name": "Indonesiana.TV",
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
     "iptv_urls": [
-      "https://tvstreamcast.com/indonesiana.m3u8"
+      "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -364,10 +342,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ootv8lcMdtj5Da",
-    "name": "Kilisuci TV",
+    "nanoid": "oSWD42bHwHKlIE",
+    "name": "Jogja TV",
     "iptv_urls": [
-      "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
+      "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -397,6 +375,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VJx2F12AWU3Qh7",
+    "name": "KompasTV Jember",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QPc-2rdNxbw"
+    ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZouIbMyvdSBDkH",
     "name": "KTV",
     "iptv_urls": [
@@ -408,23 +397,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e5EXvO8ucfhlsQ",
-    "name": "Leo Si Penjaga Alam",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M0EFMvLowUc"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0KL7HXYYAtsJlk",
     "name": "Lingkar TV",
     "iptv_urls": [
       "https://lingkartv.my.id/hls/lingkartv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mSpavAreqc56SW",
+    "name": "Liputan6",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ny_vcB_05Fo"
+    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -628,17 +617,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KTI8mZR4uaTaLf",
-    "name": "Rakyat Bengkulu TV",
-    "iptv_urls": [
-      "https://flv.intechmedia.net/live/ch59.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zjnsxJ8KPPJdb8",
     "name": "RCTI",
     "iptv_urls": [
@@ -761,17 +739,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/R5hIAg1oweM"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0cfFq7pSzUjjN2",
     "name": "Sriwijaya TV",
     "iptv_urls": [
@@ -783,43 +750,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3tK786c3qywsHt",
-    "name": "Stara TV",
-    "iptv_urls": [
-      "https://stream.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ig8Heof5b0HbF8",
     "name": "Stara TV Bandung",
     "iptv_urls": [
       "https://bandung.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wQh13Um5b8b6uA",
-    "name": "Stara TV Cianjur",
-    "iptv_urls": [
-      "https://cianjur.staratv.id/hls/0/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2p68S1VfZNBPKr",
-    "name": "Stara TV Malang",
-    "iptv_urls": [
-      "https://malang.staratv.id/hls/0/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1217,6 +1151,17 @@
     "name": "TVRI Sulawesi Selatan",
     "iptv_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TDtA1ok3J1ZDYf",
+    "name": "TVRI Sulawesi Tengah",
+    "iptv_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

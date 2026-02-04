@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ziSogPvWMMpIww",
-    "name": "Alhiwar TV",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BDVUYXaNXNi52q",
     "name": "Amazing World of Gumball",
     "iptv_urls": [],
@@ -71,6 +60,61 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ovB4O7UTr3g"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yqAqfz8NLIipuY",
+    "name": "Banijay Bluelight: Real Life Hospital Documentaries",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xeTkFk7o1HA"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hDMTpIP2tlNJNl",
+    "name": "Banijay Crime: Britain's Biggest Heists",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XU4nR_EgArk"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oFHtWQgYWs3Y0k",
+    "name": "Banijay Documentaries: Haunted Stories",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/cH_un405BNg"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hvqcyi1KP5PsvX",
+    "name": "Banijay Engine: Full Custom Garage",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gDtENsVA5iA"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJl8pmCiIwVpiF",
+    "name": "Banijay History: Secrets They Tried to Bury",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZcrxccnmQ4Y"
     ],
     "language": "eng",
     "country": "uk",
@@ -412,7 +456,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/949tr6RJTJ8"
+      "https://www.youtube-nocookie.com/embed/GnwQeY04Kyk"
     ],
     "language": "eng",
     "country": "uk",
@@ -492,28 +536,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tvhsp1pTtzQs6W",
-    "name": "ENT Channel",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J7Le553hw3j1x7",
-    "name": "ENT Family",
-    "iptv_urls": [
-      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1308,17 +1330,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kfvf3u3DJLtcM5",
-    "name": "Shaun the Sheep Official",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cGDTD57-0mE"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "iptv_urls": [],
@@ -1601,17 +1612,6 @@
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M9HwvmHmrMZElD",
-    "name": "Wonder",
-    "iptv_urls": [
-      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

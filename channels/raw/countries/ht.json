@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "uwTWKsdpHVYtfE",
-    "name": "Haiti News Channel",
-    "iptv_urls": [
-      "https://haititivi.com/website/haitinews/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RbybGfd6WxqoEp",
     "name": "NETALKOLE TV",
     "iptv_urls": [
@@ -92,6 +81,17 @@
     "name": "Tele Variete",
     "iptv_urls": [
       "https://acwstream.com/hb/chaine30/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ht",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9dYnjnGkh6Gk0r",
+    "name": "TNH",
+    "iptv_urls": [
+      "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
