@@ -48,7 +48,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u0a5pH5HkkY"
+      "https://www.youtube-nocookie.com/embed/rN_7ET2RXNM"
     ],
     "language": "eng",
     "country": "ca",
@@ -238,7 +238,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/liFd55MLQII"
+      "https://www.youtube-nocookie.com/embed/GRCEr4FtBAg"
     ],
     "language": "eng",
     "country": "ca",
@@ -538,17 +538,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "iptv_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XVgAGRmSpMBubT",
     "name": "Newfoundland Television",
     "iptv_urls": [
@@ -700,17 +689,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NYodd4ZllT4qNK",
-    "name": "Sikh Spiritual Centre Rexdale",
-    "iptv_urls": [
-      "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1016,7 +994,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z67DzYEpzjo"
+      "https://www.youtube-nocookie.com/embed/-GNGnsxH1AE"
     ],
     "language": "eng",
     "country": "ca",
@@ -1027,7 +1005,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zlXXd6IJJ_k"
+      "https://www.youtube-nocookie.com/embed/vh6JG3TfYp4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1038,7 +1016,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3dBCG2oWyrk"
+      "https://www.youtube-nocookie.com/embed/pX4t53Y400E"
     ],
     "language": "eng",
     "country": "ca",

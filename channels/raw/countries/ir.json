@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NnqrAw3M94zunX",
-    "name": "Aflak",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8de166DRNsy84Z",
     "name": "AFN TV",
     "iptv_urls": [
@@ -81,17 +70,6 @@
     "name": "Al Alam",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sVMuojFlIFBAT6",
-    "name": "Al Wilayah",
-    "iptv_urls": [
-      "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -607,17 +585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EpmDyZIa62AE48",
-    "name": "Mostanad",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "REBYGh1RuUH6vg",
     "name": "Namayesh",
     "iptv_urls": [
@@ -744,17 +711,6 @@
     "name": "Quran",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xRGq4FvGDTWgUJ",
-    "name": "RasoulallahTv",
-    "iptv_urls": [
-      "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",

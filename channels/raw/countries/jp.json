@@ -26,8 +26,19 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yzfoPW0XMp0"
+      "https://www.youtube-nocookie.com/embed/qFq3OOvi96E"
     ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0y6A0PfJfOwnxT",
+    "name": "CGNTV Japan",
+    "iptv_urls": [
+      "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
@@ -49,17 +60,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5_Dk8msQTQg"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EJU67zKw2oX8W5",
-    "name": "HBC Hokkaido News 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oMtc8fTeSOc"
     ],
     "language": "jpn",
     "country": "jp",
@@ -227,7 +227,7 @@
     "name": "Pokémon Kids TV Japanese",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QXtcQEKccJU"
+      "https://www.youtube-nocookie.com/embed/Ue29oHvd-HM"
     ],
     "language": "jpn",
     "country": "jp",
@@ -260,7 +260,7 @@
     "name": "RKB News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/R4vE7rphVr0"
+      "https://www.youtube-nocookie.com/embed/b7rTXLoc0GU"
     ],
     "language": "jpn",
     "country": "jp",

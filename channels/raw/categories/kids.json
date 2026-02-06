@@ -402,7 +402,7 @@
     "name": "Clifford the Big Red Dog: Classic",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FIQS_gOIu9A"
+      "https://www.youtube-nocookie.com/embed/j9zELQaZ6b4"
     ],
     "language": "eng",
     "country": "us",
@@ -413,7 +413,7 @@
     "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pxGjIfjKGt0"
+      "https://www.youtube-nocookie.com/embed/OSUvIVFJtTs"
     ],
     "language": "eng",
     "country": "us",
@@ -716,6 +716,17 @@
     ],
     "language": "urd",
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "iptv_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1088,7 +1099,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OcGRXXfhgS0"
+      "https://www.youtube-nocookie.com/embed/p8HEUhB-s-s"
     ],
     "language": "por",
     "country": "br",
@@ -1132,7 +1143,7 @@
     "name": "Pokémon Kids TV Japanese",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QXtcQEKccJU"
+      "https://www.youtube-nocookie.com/embed/Ue29oHvd-HM"
     ],
     "language": "jpn",
     "country": "jp",
@@ -1272,11 +1283,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Rb73PZb9Bq8"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z67DzYEpzjo"
+      "https://www.youtube-nocookie.com/embed/-GNGnsxH1AE"
     ],
     "language": "eng",
     "country": "ca",
@@ -1287,7 +1309,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zlXXd6IJJ_k"
+      "https://www.youtube-nocookie.com/embed/vh6JG3TfYp4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1298,7 +1320,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3dBCG2oWyrk"
+      "https://www.youtube-nocookie.com/embed/pX4t53Y400E"
     ],
     "language": "eng",
     "country": "ca",
@@ -1331,7 +1353,7 @@
     "name": "The Smurfs: السنافر",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kOvWHgQHjzU"
+      "https://www.youtube-nocookie.com/embed/NV1ohLdNTtw"
     ],
     "language": "ara",
     "country": "ae",
@@ -1488,7 +1510,7 @@
     "name": "Unicorn Academy",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aRtYTG-8_XQ"
+      "https://www.youtube-nocookie.com/embed/FTkqGMCbwnU"
     ],
     "language": "eng",
     "country": "us",
@@ -1510,7 +1532,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-cebNd6kWf8"
+      "https://www.youtube-nocookie.com/embed/_58h8sLJJWg"
     ],
     "language": "tur",
     "country": "tr",
@@ -1532,7 +1554,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tA9XfjiuGR4"
+      "https://www.youtube-nocookie.com/embed/vc86CCRFgZI"
     ],
     "language": "eng",
     "country": "uk",
@@ -1699,7 +1721,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lalwVzPvqLM"
+      "https://www.youtube-nocookie.com/embed/VHbtI3JHQAA"
     ],
     "language": "zho",
     "country": "cn",

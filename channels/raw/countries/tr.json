@@ -157,19 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBjqGDOceqJLt2",
-    "name": "ATV",
-    "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -504,13 +491,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fN7GQX8c6GD2uU",
-    "name": "GEM Pixel",
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
     "iptv_urls": [
-      "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fas",
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1529,7 +1516,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-cebNd6kWf8"
+      "https://www.youtube-nocookie.com/embed/_58h8sLJJWg"
     ],
     "language": "tur",
     "country": "tr",

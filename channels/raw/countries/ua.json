@@ -26,19 +26,8 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jpSWsSix5DM"
+      "https://www.youtube-nocookie.com/embed/m87MaaAwW8s"
     ],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PH6tIpFUWHe706",
-    "name": "Cherniveckiy promin",
-    "iptv_urls": [
-      "https://langate.tv/promin/live_720/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
@@ -327,6 +316,17 @@
       "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6nxwpbCBqRLYc",
+    "name": "ЦЕНТР",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FlqTZKF3z98"
+    ],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false

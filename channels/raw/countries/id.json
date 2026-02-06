@@ -160,18 +160,9 @@
     "iptv_urls": [
       "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8"
     ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u2sCANZ3ft5IKm",
-    "name": "Bungo TV",
-    "iptv_urls": [
-      "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8"
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
     ],
-    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -364,6 +355,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "iptv_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ootv8lcMdtj5Da",
     "name": "Kilisuci TV",
     "iptv_urls": [
@@ -463,6 +465,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zrn3dK1AY8AcF8",
+    "name": "Marhaban TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YKlP1CgeLAc"
+    ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "iptv_urls": [],
@@ -491,6 +504,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nL16LWrrRRTSM1",
+    "name": "MGS TV",
+    "iptv_urls": [
+      "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -699,6 +723,17 @@
     "name": "Sampit TV",
     "iptv_urls": [
       "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4WttbEI2P66IMh",
+    "name": "Sangaji TV",
+    "iptv_urls": [
+      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1268,10 +1303,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZAvkusD7l4cZyu",
-    "name": "VTV",
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
     "iptv_urls": [
-      "https://flv.intechmedia.net/live/ch107.m3u8"
+      "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1279,10 +1314,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4ZQahFuCJWYmYi",
-    "name": "Wesal TV",
+    "nanoid": "ZAvkusD7l4cZyu",
+    "name": "VTV",
     "iptv_urls": [
-      "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
+      "https://flv.intechmedia.net/live/ch107.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

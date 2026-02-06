@@ -286,17 +286,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Sp6sHwr9vDmxjt",
-    "name": "Mágica Tv",
-    "iptv_urls": [
-      "https://magicatv.4pu.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eY8XIdgCVwivBP",
     "name": "Majestad Televisión",
     "iptv_urls": [
@@ -407,6 +396,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xWGjAVSP39eb8X",
+    "name": "Plus TV",
+    "iptv_urls": [
+      "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "iptv_urls": [
@@ -455,6 +455,17 @@
     "name": "Radio Impacto 2",
     "iptv_urls": [
       "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpaipzMOWMjyyR",
+    "name": "Radio Monumental TV",
+    "iptv_urls": [
+      "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

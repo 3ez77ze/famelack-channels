@@ -528,17 +528,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "R8E994mqmmDshs",
     "name": "Italian Fishing TV",
     "iptv_urls": [
@@ -773,17 +762,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "iptv_urls": [
@@ -835,6 +813,39 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRTNWuXxEeSri7",
+    "name": "Peer TV Südtirol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1155,10 +1166,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LEHhe8FljTY3bK",
+    "name": "Rakuten TV Asian Cinema Italy",
+    "iptv_urls": [
+      "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NnyzHhJkjsfZ3n",
     "name": "Rakuten TV Crime Series Italy",
     "iptv_urls": [
       "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YfU8ScWMpQTPUo",
+    "name": "Rakuten TV Romance Movies Italy",
+    "iptv_urls": [
+      "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1465,17 +1498,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jHr3gQHmtG7nGu",
-    "name": "T9",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TapdG3gwdyMX3z",
     "name": "Taurianova TV",
     "iptv_urls": [
@@ -1722,17 +1744,6 @@
     "name": "TeleSanDomenico",
     "iptv_urls": [
       "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4gB9HTaNXkfEtN",
-    "name": "Telesirio Web TV",
-    "iptv_urls": [
-      "https://www.telesirio.it/live/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

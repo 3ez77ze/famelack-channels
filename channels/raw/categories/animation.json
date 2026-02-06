@@ -92,7 +92,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u0a5pH5HkkY"
+      "https://www.youtube-nocookie.com/embed/rN_7ET2RXNM"
     ],
     "language": "eng",
     "country": "ca",
@@ -213,7 +213,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/liFd55MLQII"
+      "https://www.youtube-nocookie.com/embed/GRCEr4FtBAg"
     ],
     "language": "eng",
     "country": "ca",
@@ -317,17 +317,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KFX8r91Rf69oJB",
-    "name": "Kapitan Bomba",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y_qsD6ok85s"
-    ],
-    "language": "pol",
-    "country": "pl",
     "isGeoBlocked": false
   },
   {

@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "NiV08xfOfwMHaS",
-    "name": "Antares Televisión",
-    "iptv_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FEKfCiEsgtQUuf",
     "name": "Antena SUR",
     "iptv_urls": [
@@ -363,17 +352,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fFOp14kqquOvOI",
-    "name": "Red de Comunicación Regional (RCR)",
-    "iptv_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WPq32gb81NkkvQ",
     "name": "RN Televisión",
     "iptv_urls": [
@@ -507,17 +485,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XOM9Q1cGWigMXK",
-    "name": "TVLibertad ",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qLE0I6jJtw4"
-    ],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ghJvcjvVzHFJJM",
     "name": "TVUNO",
     "iptv_urls": [
@@ -588,6 +555,17 @@
     "name": "Viva TV Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sAN5lqkNeMhvi8",
+    "name": "VNP",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

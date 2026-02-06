@@ -70,7 +70,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jJDjFjshVSc"
+      "https://www.youtube-nocookie.com/embed/EIbrgqFO_AQ"
     ],
     "language": "sd",
     "country": "pk",
@@ -481,7 +481,7 @@
     "name": "SAMAA TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dIEhcx9NQY0"
+      "https://www.youtube-nocookie.com/embed/AoxuJjkXPmc"
     ],
     "language": "urd",
     "country": "pk",
@@ -492,7 +492,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PGjB4gzVyEQ"
+      "https://www.youtube-nocookie.com/embed/A_jyA46tjNc"
     ],
     "language": "sd",
     "country": "pk",
@@ -515,17 +515,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/F6P-BFV6gWM"
-    ],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BNoay5RaWWsaq9",
-    "name": "VSH NEWS",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VJBrozyqpfk"
     ],
     "language": "urd",
     "country": "pk",

@@ -48,7 +48,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jpSWsSix5DM"
+      "https://www.youtube-nocookie.com/embed/m87MaaAwW8s"
     ],
     "language": "ukr",
     "country": "ua",
@@ -81,7 +81,7 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p6Vb0PySgfM"
+      "https://www.youtube-nocookie.com/embed/E9meIkiI-fI"
     ],
     "language": "eng",
     "country": "us",
@@ -92,7 +92,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0tOfSZgUqtw"
+      "https://www.youtube-nocookie.com/embed/42U0sDcYLX8"
     ],
     "language": "eng",
     "country": "uk",
@@ -129,6 +129,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SZKqh8My275jx3",
+    "name": "FairON",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Fxk_PkJQWq0"
+    ],
+    "language": "deu",
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -773,6 +784,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "iptv_urls": [
+      "https://master.tucableip.com/redtvshop/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CyzmTDSgy94fJZ",
     "name": "Shinsegae Shopping TV",
     "iptv_urls": [
@@ -788,7 +810,7 @@
     "name": "SHOP CH Thailand",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aTiBLKBze-Q"
+      "https://www.youtube-nocookie.com/embed/67m9s13Ps0g"
     ],
     "language": "tha",
     "country": "th",

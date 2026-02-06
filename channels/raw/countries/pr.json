@@ -100,17 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9rhqdMh4MdKhL2",
-    "name": "Familia Visión HD",
-    "iptv_urls": [
-      "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P4mxJMVl2wyiPi",
     "name": "Faro de Santidad TV",
     "iptv_urls": [
@@ -325,6 +314,17 @@
     "name": "WWXY-DT3 (Maranatha Radio Ministries)",
     "iptv_urls": [
       "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "adHdshhDWbo0Cn",
+    "name": "WXWZ-LD1 (MásTV Canal 23)",
+    "iptv_urls": [
+      "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
