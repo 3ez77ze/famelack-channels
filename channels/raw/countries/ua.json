@@ -26,7 +26,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tup0CkfWr4U"
+      "https://www.youtube-nocookie.com/embed/8hwPVZCM2z0"
     ],
     "language": "ukr",
     "country": "ua",
@@ -85,6 +85,17 @@
       "https://www.youtube-nocookie.com/embed/ooJJSOlJZPQ"
     ],
     "language": "rus",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "iptv_urls": [
+      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -166,6 +177,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8guglX3waEEweH",
+    "name": "Луганск 24",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "33aYR9EbXeoJbc",
     "name": "Ми - Україна",
     "iptv_urls": [],
@@ -218,17 +240,6 @@
       "https://www.youtube-nocookie.com/embed/lnrp2S2L6qk"
     ],
     "language": "rus",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tke53J9UPinmCQ",
-    "name": "Телеканал Конкурент TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/igjkieh5akA"
-    ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },

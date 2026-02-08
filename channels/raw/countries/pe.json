@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p4h1X1666Yk"
-    ],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mlTXxUmbTG3Ish",
     "name": "Controversia TV",
     "iptv_urls": [
@@ -220,10 +209,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qm7kjjw4XjKxtz",
-    "name": "Mega TV Jaen",
+    "nanoid": "ZgK3gN33Rh7QOj",
+    "name": "Miel TV",
     "iptv_urls": [
-      "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
+      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -231,10 +220,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgK3gN33Rh7QOj",
-    "name": "Miel TV",
+    "nanoid": "JEOHsH5ZsjmOK3",
+    "name": "Milenial TV",
     "iptv_urls": [
-      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+      "https://www.milenial.news/salida/milenial.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -312,6 +301,17 @@
     "name": "Radio Master",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vy9HTzZfX7NGXL",
+    "name": "Radio Tropical Tarapoto",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

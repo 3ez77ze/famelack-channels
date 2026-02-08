@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bmVfcr31sW64zk",
+    "name": "Cần Thơ TV2",
+    "iptv_urls": [
+      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1FGdyXp2FzRogD",
     "name": "Canal 15 ILCE Summa Sabres",
     "iptv_urls": [
@@ -219,6 +230,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WHJAjSAsw3amvu",
+    "name": "DerryTV 23",
+    "iptv_urls": [
+      "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -487,6 +509,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M1xHzWMuYZ3C7M",
+    "name": "FGN Channel",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1X5uF69PInw"
+    ],
+    "language": "urd",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQBS03fMa9Ffe4",
     "name": "Fresno CMAC 2 Education Channel",
     "iptv_urls": [
@@ -586,6 +619,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HPKbjRLkFZzXAw",
+    "name": "Leominster TV Educational",
+    "iptv_urls": [
+      "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v5EGekXWA63xCM",
     "name": "Los Angeles Local Television Channel 36",
     "iptv_urls": [
@@ -634,6 +678,17 @@
     "name": "Mobile County Public Schools TV Network (MCPSS)",
     "iptv_urls": [
       "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cHbsSpLERISueK",
+    "name": "Nashua ETV Channel 22 Nashua NH",
+    "iptv_urls": [
+      "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -762,6 +817,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hpqn2IN4H4i4YN",
+    "name": "PBS Kids Eastern/Central",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jdgPZWgMCGIzNv",
     "name": "PBS Kids Hawaii",
     "iptv_urls": [
@@ -851,6 +917,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qBUPXe1P7RMhU8",
+    "name": "Santa Maria Community Television Education Channel",
+    "iptv_urls": [
+      "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TnpnbHf11tv1Pa",
     "name": "Señal España (XHUNES-TDT)",
     "iptv_urls": [
@@ -892,6 +969,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t0egfkOjbwVtc1",
+    "name": "TUTV",
+    "iptv_urls": [
+      "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

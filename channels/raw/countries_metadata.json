@@ -465,7 +465,7 @@
     "country": "French Guiana",
     "capital": "Cayenne",
     "timeZone": "America/Cayenne",
-    "hasChannels": true
+    "hasChannels": false
   },
   "GG": {
     "country": "Guernsey",

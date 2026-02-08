@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UTPQHefSxSVqfS",
+    "name": "AccessVision Channel 17",
+    "iptv_urls": [
+      "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vqFXUAvAcfaAOu",
     "name": "ACTV",
     "iptv_urls": [
@@ -244,17 +255,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p4h1X1666Yk"
-    ],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "znRrzqJhrbBEtp",
     "name": "Coral Gables Television (Coral Gables FL)",
     "iptv_urls": [
@@ -281,17 +281,6 @@
     "name": "Cruz TV",
     "iptv_urls": [
       "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "iptv_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -377,6 +366,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ApGDxajKB8Y5cQ",
+    "name": "DerryTV 17",
+    "iptv_urls": [
+      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oleSYlNVNmvs3W",
     "name": "District of Columbia Network (DCN)",
     "iptv_urls": [
@@ -421,6 +421,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sRtXiK8RAqxlx6",
+    "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JtpMZKlL4SeNOl",
     "name": "Fort Pierce Live Stream (Fort Pierce FL)",
     "iptv_urls": [
@@ -458,6 +469,17 @@
     "name": "Galveston County TV",
     "iptv_urls": [
       "https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jNKciKxgIk0NeD",
+    "name": "Gilroy CMAP TV Channel 17",
+    "iptv_urls": [
+      "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -619,10 +641,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hXk0VgitqbFza7",
+    "name": "Leominster TV Government",
+    "iptv_urls": [
+      "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "34CF4rMC60iyyn",
     "name": "Lex TV",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JNyo9F9UzYyge3",
+    "name": "LGTV",
+    "iptv_urls": [
+      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -707,6 +751,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XYsmnPfcRc2O6U",
+    "name": "Nashua GTV Channel 16 Nashua NH",
+    "iptv_urls": [
+      "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UFctRIzArynBkE",
     "name": "Newport Beach Television",
     "iptv_urls": [
@@ -778,6 +833,28 @@
     "name": "Orange County Orange TV (Orange County FL)",
     "iptv_urls": [
       "https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCRvE4DABiQZWc",
+    "name": "Orange Government Access TV (Orange CT)",
+    "iptv_urls": [
+      "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "iptv_urls": [
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -885,17 +962,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Q9dCNxq4aYMzuQ",
-    "name": "Pompano Beach Web Streaming (Pompano Beach FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3G3iIyq0jNGbsb",
     "name": "Port St Lucie PSL TV (Port St Lucie FL)",
     "iptv_urls": [
@@ -950,6 +1016,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lk5z9wCW6biNWj",
+    "name": "Santa Maria Community Television Government Channel",
+    "iptv_urls": [
+      "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1045,7 +1122,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1KhvGhwnyIE"
+      "https://www.youtube-nocookie.com/embed/JyTOVSCd8vI"
     ],
     "language": "por",
     "country": "br",
@@ -1254,6 +1331,28 @@
     "name": "YouDotGov",
     "iptv_urls": [
       "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DL1qevIydJc5vp",
+    "name": "Yuma AZ CH 72",
+    "iptv_urls": [
+      "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6n4fCyYk7H134P",
+    "name": "Yuma AZ CH 73",
+    "iptv_urls": [
+      "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

@@ -564,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AtIW8Vn8QSQ"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "iptv_urls": [],
@@ -951,6 +940,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hpqn2IN4H4i4YN",
+    "name": "PBS Kids Eastern/Central",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jdgPZWgMCGIzNv",
     "name": "PBS Kids Hawaii",
     "iptv_urls": [
@@ -1021,7 +1021,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zlbPJ99u_BQ"
+      "https://www.youtube-nocookie.com/embed/NJ5T8YcqkMU"
     ],
     "language": "por",
     "country": "br",
@@ -1193,6 +1193,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/maaxMymAD80"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
@@ -1208,7 +1219,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vh6JG3TfYp4"
+      "https://www.youtube-nocookie.com/embed/y4Jc2HFi2_4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1219,7 +1230,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pX4t53Y400E"
+      "https://www.youtube-nocookie.com/embed/YRBz0B3es70"
     ],
     "language": "eng",
     "country": "ca",
@@ -1529,7 +1540,6 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
@@ -1598,7 +1608,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QSaXAkxyEwY"
+      "https://www.youtube-nocookie.com/embed/NkX_YNRkrxw"
     ],
     "language": "zho",
     "country": "cn",

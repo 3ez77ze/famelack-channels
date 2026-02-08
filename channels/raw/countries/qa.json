@@ -56,7 +56,6 @@
     "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
     "iptv_urls": [
-      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
       "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
       "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
       "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
@@ -112,6 +111,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HHV5a8cn94GYcS",
+    "name": "Al Maaref TV",
+    "iptv_urls": [
+      "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3oEkfbMs80CkkJ",
     "name": "Al Rayyan",
     "iptv_urls": [
@@ -158,6 +168,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K2pY7DHGd3QmlJ",
+    "name": "Libya Al Ahrar TV",
+    "iptv_urls": [
+      "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sCYZ4Box9Vsqsi",
     "name": "Qatar Television",
     "iptv_urls": [
@@ -175,8 +196,7 @@
     "name": "Qatar Television 2",
     "iptv_urls": [
       "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
-      "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
-      "https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8"
+      "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",

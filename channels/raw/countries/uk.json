@@ -180,17 +180,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tH0PM0L3QcvXyJ",
     "name": "BBC Lifestyle Asia",
     "iptv_urls": [
@@ -270,28 +259,6 @@
       "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
     ],
     "language": "fas",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Nsqcxag0o981J",
-    "name": "BBC Three HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -512,6 +479,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bHHLvpa9Q6rWNj",
+    "name": "Frecuencia Musical TV",
+    "iptv_urls": [
+      "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -805,17 +783,6 @@
       "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nKepPfPxroGdqa",
-    "name": "MotoGP",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ji7MISo6G6g"
-    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1178,6 +1145,17 @@
     "name": "Rakuten TV Sci-Fi UK",
     "iptv_urls": [
       "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
