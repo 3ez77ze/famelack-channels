@@ -390,6 +390,7 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "iptv_urls": [
+      "https://mst3k-roku.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
       "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
@@ -537,8 +538,7 @@
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "iptv_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
-      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -739,17 +739,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OusIpey2XcPOf5",
-    "name": "Смотрим Честный Детектив",
-    "iptv_urls": [
-      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

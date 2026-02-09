@@ -226,6 +226,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vlNh6cGmLuP4h1",
+    "name": "CNC Pereira",
+    "iptv_urls": [
+      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
     "iptv_urls": [
@@ -337,33 +348,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "iptv_urls": [
-      "https://live.arnoproducciones.com/hls/norte.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/masmusica.m3u8",
       "https://video.ejeserver.com/live/masmusica.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fG091FxoA2NCwZ",
+    "name": "MCI Televisión",
+    "iptv_urls": [
+      "https://video.ejeserver.com/live/mcitelevision.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -536,6 +536,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -563,17 +574,6 @@
     "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

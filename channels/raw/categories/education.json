@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/BVG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -509,17 +498,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M1xHzWMuYZ3C7M",
-    "name": "FGN Channel",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1X5uF69PInw"
-    ],
-    "language": "urd",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQBS03fMa9Ffe4",
     "name": "Fresno CMAC 2 Education Channel",
     "iptv_urls": [
@@ -704,17 +682,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FkEZ1qiww38D8n",
-    "name": "NBS Korea Agricultural Broadcasting",
-    "iptv_urls": [
-      "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
     "isGeoBlocked": false
   },
   {

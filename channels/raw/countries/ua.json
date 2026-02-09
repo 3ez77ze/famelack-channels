@@ -26,7 +26,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8hwPVZCM2z0"
+      "https://www.youtube-nocookie.com/embed/DFGVhDDSTjU"
     ],
     "language": "ukr",
     "country": "ua",
@@ -93,17 +93,6 @@
     "name": "ITV",
     "iptv_urls": [
       "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WoGHZ2NiobEniJ",
-    "name": "Izmail TV",
-    "iptv_urls": [
-      "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",
@@ -240,6 +229,17 @@
       "https://www.youtube-nocookie.com/embed/lnrp2S2L6qk"
     ],
     "language": "rus",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tke53J9UPinmCQ",
+    "name": "Телеканал Конкурент TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OwJf4eU7gkU"
+    ],
+    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },

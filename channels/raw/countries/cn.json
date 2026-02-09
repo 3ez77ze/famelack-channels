@@ -193,6 +193,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f1nxbKF3lgdEIT",
+    "name": "Harbin Comprehensive News Channel",
+    "iptv_urls": [
+      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7Hsc69UuEllEuA",
     "name": "Harbin Movie Channel",
     "iptv_urls": [
@@ -226,10 +237,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5Etfhhhhl9Em5",
-    "name": "QTV-4",
+    "nanoid": "v5Cnt9e5fETRq9",
+    "name": "QTV-3",
     "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -237,10 +248,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1by9GcHy62iZ4M",
-    "name": "QTV-5",
+    "nanoid": "v5Etfhhhhl9Em5",
+    "name": "QTV-4",
     "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
+      "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -495,7 +506,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NkX_YNRkrxw"
+      "https://www.youtube-nocookie.com/embed/cqrih-TJXBQ"
     ],
     "language": "zho",
     "country": "cn",

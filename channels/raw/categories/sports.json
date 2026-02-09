@@ -15,7 +15,7 @@
     "name": "A Spor",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FHjbZjTjG5k"
+      "https://www.youtube-nocookie.com/embed/xrka0oqDESM"
     ],
     "language": "tur",
     "country": "tr",
@@ -886,6 +886,7 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

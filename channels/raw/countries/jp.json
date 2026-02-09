@@ -26,7 +26,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G46MXjQasRg"
+      "https://www.youtube-nocookie.com/embed/uMMO7_RNiik"
     ],
     "language": "jpn",
     "country": "jp",
@@ -59,7 +59,7 @@
     "name": "HBC Hokkaido News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E0QsPr-IuJY"
+      "https://www.youtube-nocookie.com/embed/tp2udYYSwuY"
     ],
     "language": "jpn",
     "country": "jp",
@@ -71,17 +71,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/e2pgLUmaxGs"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hwKovrTxuxaj5o",
-    "name": "Hokkaido News UHB",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/it7n0GzFudY"
     ],
     "language": "jpn",
     "country": "jp",
@@ -255,17 +244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "a5vR6lvVTEno0g",
-    "name": "RBC News 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Dx8OQYbR5UQ"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PjUU6ZmfuLbOka",
     "name": "RCC News 24",
     "iptv_urls": [],
@@ -277,11 +255,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q4X6f6gydVcKUw",
-    "name": "SATV News 24H",
+    "nanoid": "dS0Hi9Oo1lT24W",
+    "name": "RKB News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VW2YQWpsR_I"
+      "https://www.youtube-nocookie.com/embed/KZu1mAlZVkU"
     ],
     "language": "jpn",
     "country": "jp",
@@ -361,28 +339,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/3zwgzc7zy0U"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QlJob3NpyaPaoh",
-    "name": "TOS News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/osIBR7VTXhc"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gQ2en9MAQkGVDm",
-    "name": "YTV News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p2ItEAq6wXY"
     ],
     "language": "jpn",
     "country": "jp",

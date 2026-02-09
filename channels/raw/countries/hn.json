@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D3xI1Y5GazlQoS",
-    "name": "Azteca Honduras",
-    "iptv_urls": [
-      "https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -312,6 +301,17 @@
     "name": "TV Centro 27.2 HD",
     "iptv_urls": [
       "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OPNVhQbPeZ6MyD",
+    "name": "TV Centro HD",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

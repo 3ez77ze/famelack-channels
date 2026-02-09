@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c3zaL7CKyoj6u1",
+    "name": "Gamavisión",
+    "iptv_urls": [
+      "https://stream.esradioecuador.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rzz3epvsT10Pp4",
     "name": "GM7 Digital",
     "iptv_urls": [
@@ -257,17 +268,6 @@
     "name": "Latacunga TV",
     "iptv_urls": [
       "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2UL8hACEyKl0pF",
-    "name": "Loreto TV",
-    "iptv_urls": [
-      "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -122,6 +122,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zK7yBiaKTXUpou",
+    "name": "BBC Four UK HD",
+    "iptv_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "iptv_urls": [
@@ -438,17 +449,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1075,6 +1075,7 @@
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "iptv_urls": [
+      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
       "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8"
     ],
     "youtube_urls": [],

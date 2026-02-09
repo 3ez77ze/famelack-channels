@@ -188,17 +188,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CkwbvjSh6HpPJp",
-    "name": "BR Fernsehen Sud",
-    "iptv_urls": [
-      "https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QHfB2HaDRgtHoK",
     "name": "Chemnitz Fernsehen",
     "iptv_urls": [

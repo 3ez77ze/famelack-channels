@@ -685,6 +685,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UFhJvCynS1YxoD",
+    "name": "Nuova TV 2",
+    "iptv_urls": [
+      "https://nuovatv.net:8443/tv2/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "iptv_urls": [
