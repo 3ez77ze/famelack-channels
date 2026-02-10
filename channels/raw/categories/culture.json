@@ -213,6 +213,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -262,7 +273,8 @@
     "nanoid": "glCzEHKt380JpA",
     "name": "DD Bharati",
     "iptv_urls": [
-      "https://cdn-1.pishow.tv/live/10/master.m3u8"
+      "https://cdn-1.pishow.tv/live/10/master.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/X4U_ws5upTE"
@@ -308,7 +320,8 @@
     "nanoid": "FCckxA9xKjRmBd",
     "name": "DD Urdu",
     "iptv_urls": [
-      "https://cdn-4.pishow.tv/live/8/master.m3u8"
+      "https://cdn-4.pishow.tv/live/8/master.m3u8",
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i--xfotJs7w"
@@ -518,17 +531,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DTB26EOMXy8ybv",
-    "name": "IRIB4",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "iptv_urls": [
@@ -618,17 +620,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HS1ymLCkui3RQB",
-    "name": "Malchin TV",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FGyCVJPaRuIHAX",
     "name": "Manavisión",
     "iptv_urls": [
@@ -710,8 +701,7 @@
     "name": "NHK World-Japan",
     "iptv_urls": [
       "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
-      "https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8"
+      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "jpn",
@@ -749,17 +739,6 @@
     "youtube_urls": [],
     "language": "ori",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J5GYuBAaffsbX6",
-    "name": "Ofogh",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1081,17 +1060,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {

@@ -168,22 +168,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JPDh3cfdNqA9Zf",
-    "name": "Bloomberg TV Mongolia HD",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "USmuuhVA4Jtz9O",
     "name": "Bloomberg TV US",
     "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8",
-      "https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -226,19 +214,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7XcP1junyS1aZN",
-    "name": "CNBC",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/CNBC/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "acbY5wCKKgtMnI",
     "name": "CNBC Arabiya",
     "iptv_urls": [
@@ -247,18 +222,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G00HUpBKHxckzh",
-    "name": "CNBC Asia",
-    "iptv_urls": [
-      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
-      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
     "isGeoBlocked": false
   },
   {
@@ -314,17 +277,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NkEL5gBuKfjJwr",
-    "name": "CNBC World",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/CNBC_World/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -480,6 +432,7 @@
       "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
       "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
+      "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
       "https://yahoo-samsung.amagi.tv/playlist.m3u8",
       "https://yahoo-vizio.amagi.tv/playlist.m3u8"
     ],

@@ -169,17 +169,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xxt6pP3Jqt3MeP",
-    "name": "BBC Earth Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zK7yBiaKTXUpou",
     "name": "BBC Four UK HD",
     "iptv_urls": [
@@ -191,33 +180,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tH0PM0L3QcvXyJ",
-    "name": "BBC Lifestyle Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "iptv_urls": [
       "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
       "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nDcsFjMY51qN6T",
-    "name": "BBC News Asia Pacific",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -274,28 +241,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0Nsqcxag0o981J",
-    "name": "BBC Three HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0LllhlpEzMQvfO",
     "name": "Bluey - Official Channel",
     "iptv_urls": [],
@@ -340,6 +285,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EAIG1mRKi1Vp2p",
+    "name": "BritAsiaTV",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8?ads.vf=65ah6vw-F20"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RGisQUNDzBMFhg",
     "name": "Canaf54 TV",
     "iptv_urls": [
@@ -357,17 +313,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XfZetbS9084"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1NS02kDPqI5WSa",
-    "name": "CBeebies Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -410,7 +355,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YOj5-s75U3k"
+      "https://www.youtube-nocookie.com/embed/DxGPNMPIWF0"
     ],
     "language": "eng",
     "country": "uk",
@@ -646,17 +591,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f4STSe9tgyRVf3",
-    "name": "Hobby Maker",
-    "iptv_urls": [
-      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -953,17 +887,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1532,7 +1455,7 @@
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Aw5gfjoO3W4"
+      "https://www.youtube-nocookie.com/embed/3soNitUd5ME"
     ],
     "language": "eng",
     "country": "uk",

@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tHkld19ADlLsM",
-    "name": "Apna Punjab TV",
-    "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "iptv_urls": [
@@ -86,6 +75,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5vfaDsMhCF4"
     ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9q1j3z93yot0xE",
+    "name": "CHCO-TV",
+    "iptv_urls": [
+      "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -201,23 +201,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GRCEr4FtBAg"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6SheLgxyW9E"
+    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -468,6 +468,72 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I6uCCfd71b4oev",
+    "name": "Legislative Assembly of Ontario",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RxJmNkclMKaXs2",
+    "name": "Legislative Assembly of Ontario (without interpretation)",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uUGOxH0a6eS5ZE",
+    "name": "Legislative Assembly of Ontario Committees (room 1)",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dxr4tHRhpiu8Xi",
+    "name": "Legislative Assembly of Ontario Committees (room 2)",
+    "iptv_urls": [
+      "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0KUROtebe5Hr0N",
+    "name": "Legislative Assembly of Ontario Committees (room 151)",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5eNJBvozHJiGRG",
     "name": "Love Nature",
     "iptv_urls": [
@@ -501,6 +567,17 @@
     ],
     "youtube_urls": [],
     "language": "ell",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "iptv_urls": [
+      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -627,8 +704,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FRbxkA10ch9vPV",
-    "name": "Quo Vadis Ministry TV",
+    "nanoid": "xFfqpkzYwMsPMY",
+    "name": "Quo Vadis TV",
     "iptv_urls": [
       "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
     ],
@@ -961,7 +1038,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/APQOLUVobsw"
+      "https://www.youtube-nocookie.com/embed/mgRG23ixRcg"
     ],
     "language": "eng",
     "country": "ca",
@@ -972,7 +1049,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y4Jc2HFi2_4"
+      "https://www.youtube-nocookie.com/embed/4yNJqbrogko"
     ],
     "language": "eng",
     "country": "ca",
@@ -983,7 +1060,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YRBz0B3es70"
+      "https://www.youtube-nocookie.com/embed/GbO1Ks8Z_vs"
     ],
     "language": "eng",
     "country": "ca",

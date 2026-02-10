@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lu3N4bfr0HEunv",
+    "name": "Afriwood Blockbuster",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/video.m3u8?ads.vf=W6V4C1LsfJK"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i0FCLehrB1FgEt",
     "name": "Alankar TV",
     "iptv_urls": [
@@ -148,8 +159,7 @@
     "name": "B4U Kadak",
     "iptv_urls": [
       "https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
-      "https://mumt02.tangotv.in/B4UKADAK/index.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -246,17 +256,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0pCaJvUQjUH7zI",
-    "name": "Cinema",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HHYr8wd1E9ioQk",
     "name": "Cinema",
     "iptv_urls": [
@@ -265,6 +264,17 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RqAm3F34417sca",
+    "name": "Cinema Hausa",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/video.m3u8?ads.vf=v-YPzZubeoG"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
     "isGeoBlocked": false
   },
   {
@@ -433,6 +443,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6K6oFgTHq5fj7V",
+    "name": "Hero",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FRDoZrDehG1Lc7",
     "name": "Home Plus",
     "iptv_urls": [
@@ -491,8 +512,7 @@
     "nanoid": "g3vaXRs7MKcSOW",
     "name": "iFilm Persian",
     "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmfa.m3u8",
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8"
+      "https://live.presstv.ir/hls/ifilmfa.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -508,17 +528,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FJT1T5Bg3eMVVa",
-    "name": "Itage TV",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "yor",
-    "country": "ng",
     "isGeoBlocked": false
   },
   {
@@ -585,17 +594,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OUbiWieIvnyVm4",
-    "name": "Lenz Film",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -699,17 +697,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U9RR25VRV55FfP",
-    "name": "MovieBox",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kGjbRqBmTWGxLL",
     "name": "Movies!",
     "iptv_urls": [
@@ -737,17 +724,6 @@
     "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8",
       "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OO4sfDrtpxEZzI",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -932,17 +908,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cZ8WdRSawqzh4E",
-    "name": "Rakuten TV Action Movies Finland",
-    "iptv_urls": [
-      "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9Te0eCyfaDh09o",
     "name": "Rakuten TV Action Movies Germany",
     "iptv_urls": [
@@ -1027,6 +992,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t7k18gf1UBscLd",
+    "name": "Rakuten TV Comedy Movies UK",
+    "iptv_urls": [
+      "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1276,8 +1252,7 @@
     "nanoid": "bcMCtiQR1EZ7L7",
     "name": "Sony One Hits Action",
     "iptv_urls": [
-      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
-      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1304,17 +1279,6 @@
     "youtube_urls": [],
     "language": "tel",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pue7HvHax9RYo3",
-    "name": "Tamasha",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1515,6 +1479,83 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OtO4WFOzaNdFUD",
+    "name": "Сити Эдем КиноАзия",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34393/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UGkFnAuONipW2e",
+    "name": "Сити Эдем КиноАрт",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38398/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ujlkE2Qc3sujr0",
+    "name": "Сити Эдем КиноДетектив",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/41327/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Jqp4ZHvmJjGFio",
+    "name": "Сити Эдем КиноДрама",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6NRgQX5F3uvhNk",
+    "name": "Сити Эдем КиноМистика",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXEnrj6C2tzO6",
+    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/2QJDt4KEREE"
+    ],
+    "language": "ara",
+    "country": "sa",
     "isGeoBlocked": false
   }
 ]

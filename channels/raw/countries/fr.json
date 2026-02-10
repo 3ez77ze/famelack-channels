@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YcBgqCyWeONw4H",
-    "name": "100% Docs",
-    "iptv_urls": [
-      "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yjR0KcAL5erp0S",
     "name": "ADN TV+",
     "iptv_urls": [
@@ -452,11 +441,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vyAlDaoF9WU1Q1",
+    "nanoid": "g4VnkSt3v2F081",
     "name": "Euronews English",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -472,6 +459,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CNnWdppUulCf6g",
+    "name": "Euronews Español",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -805,17 +803,6 @@
     "name": "ITV Un Village Français",
     "iptv_urls": [
       "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MfVVuKzTVP8vtR",
-    "name": "L'Effet Papillon",
-    "iptv_urls": [
-      "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1319,17 +1306,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
-    "iptv_urls": [
-      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iLva87P8XGqzZK",
     "name": "Rakuten TV Films Romance",
     "iptv_urls": [
@@ -1444,8 +1420,7 @@
     "nanoid": "bcMCtiQR1EZ7L7",
     "name": "Sony One Hits Action",
     "iptv_urls": [
-      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
-      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1572,17 +1547,6 @@
     "name": "TV3V",
     "iptv_urls": [
       "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2yCMM7v36LjDk",
-    "name": "TV5 Monde Asia (Asie)",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/TV5/03.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

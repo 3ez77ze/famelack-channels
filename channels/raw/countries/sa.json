@@ -163,7 +163,8 @@
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
     "iptv_urls": [
-      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+      "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -220,6 +221,17 @@
     "name": "Iqraa Quran",
     "iptv_urls": [
       "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XFAEXMLy8N316a",
+    "name": "M+",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -315,6 +327,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8SRwtJ0hh3zkqG",
+    "name": "Rotana Aflam+",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V7Gca2UgeJjvCP",
     "name": "Saudia Radio",
     "iptv_urls": [
@@ -337,11 +360,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wnXEnrj6C2tzO6",
+    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/2QJDt4KEREE"
+    ],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gc9Dx83f1hgp7k",
     "name": "العربية إف إم Alarabiya FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MGL7D4ux4-Q"
+      "https://www.youtube-nocookie.com/embed/KRwgQsxO62M"
     ],
     "language": "ara",
     "country": "sa",

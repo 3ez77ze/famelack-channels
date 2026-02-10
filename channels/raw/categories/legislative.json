@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1q3kaCpiJgYIgc",
-    "name": "Assembleia SC: AO VIVO",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O6nHIasvp6I"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8nqwJcm0Fl92XH",
     "name": "Bolton Community Voice Channel (CVC) Government (Bolton CT)",
     "iptv_urls": [
@@ -255,6 +244,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JQQkk4SgeAI"
+    ],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "znRrzqJhrbBEtp",
     "name": "Coral Gables Television (Coral Gables FL)",
     "iptv_urls": [
@@ -388,6 +388,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oleSYlNVNmvs3W",
+    "name": "District of Columbia Network (DCN)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/DCN.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RHm7b5JVxj4i8h",
     "name": "Escambia County TV ECTV (Escambia County FL)",
     "iptv_urls": [
@@ -418,17 +429,6 @@
     "youtube_urls": [],
     "language": "dan",
     "country": "dk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sRtXiK8RAqxlx6",
-    "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -491,6 +491,17 @@
     "name": "Glendale 11 AZ",
     "iptv_urls": [
       "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IsfmM8D31BvjwV",
+    "name": "Greensboro TV (Greensboro NC)",
+    "iptv_urls": [
+      "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -605,6 +616,28 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6uCCfd71b4oev",
+    "name": "Legislative Assembly of Ontario",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -796,17 +829,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2igpQUbUlQ6ABJ",
-    "name": "Orange County Orange TV (Orange County FL)",
-    "iptv_urls": [
-      "https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pCRvE4DABiQZWc",
     "name": "Orange Government Access TV (Orange CT)",
     "iptv_urls": [
@@ -826,17 +848,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -885,17 +896,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UIPjkMitEOuZ0j",
-    "name": "Parliament TV",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "iptv_urls": [
@@ -904,17 +904,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ncwhfZ9mDVBGeC",
-    "name": "Pasco TV (Pasco County FL)",
-    "iptv_urls": [
-      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -987,6 +976,7 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "iptv_urls": [
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
       "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
       "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
@@ -1000,6 +990,7 @@
     "name": "Sansad TV 2",
     "iptv_urls": [
       "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
       "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
@@ -1085,17 +1076,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RErWNfh4idOsdr",
-    "name": "Thai Parliament TV",
-    "iptv_urls": [
-      "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ztNrNzCLndWIQ7",
     "name": "The Parliamentary Channel",
     "iptv_urls": [
@@ -1111,7 +1091,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KHiyE6SuWRY"
+      "https://www.youtube-nocookie.com/embed/hVEso9WHMKc"
     ],
     "language": "por",
     "country": "br",

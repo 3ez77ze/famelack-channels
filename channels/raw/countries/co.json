@@ -67,18 +67,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WwkDGrZMJxcaPL",
-    "name": "Canal 8 TV+",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/canal8tv.m3u8",
-      "https://video.ejeserver.com/live/canal8tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "iptv_urls": [
@@ -293,17 +281,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vrb0tQpIhi4WoL",
-    "name": "Frecuencia F TV",
-    "iptv_urls": [
-      "https://tv.frecuenciaf.com/live/envivo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "02mPmZWllvm8GE",
     "name": "Kalu TV",
     "iptv_urls": [
@@ -341,6 +318,28 @@
     "name": "La Morada Radio TV",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/lamoradatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ip9MDCdkimyNqv",
+    "name": "Luna Estéreo 106.4 FM",
+    "iptv_urls": [
+      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RfchJq1KTGTlOM",
+    "name": "Mas Norte TV",
+    "iptv_urls": [
+      "https://live.arnoproducciones.com/hls/norte.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -432,17 +431,6 @@
       "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zI3NybQoMP9Xkx",
-    "name": "Noticias Caracol",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cjeVHgFPPPc"
-    ],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -618,17 +606,6 @@
     "name": "Tu Universo TV",
     "iptv_urls": [
       "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CV7VroEbrVN5P1",
-    "name": "TV Peñol",
-    "iptv_urls": [
-      "https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

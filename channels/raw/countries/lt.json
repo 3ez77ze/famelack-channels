@@ -74,17 +74,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0EAtKzIAlLWzS",
-    "name": "LRT TV",
-    "iptv_urls": [
-      "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "lit",
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TD6r7rS9yoQWgK",
     "name": "M-1",
     "iptv_urls": [

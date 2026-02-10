@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgGzxbZMFfzTB1",
-    "name": "Fun Roads TV",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LHaPUbDQkhl20K",
     "name": "Go2Travel",
     "iptv_urls": [
@@ -220,6 +209,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xJdfWe2cF6aQkl",
+    "name": "Tanzania Safari Channel",
+    "iptv_urls": [
+      "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "tz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4IxBqGTmogAaSR",
     "name": "Teletur",
     "iptv_urls": [
@@ -250,17 +250,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xCDrIWnNgtribb",
-    "name": "Turismo RDTV",
-    "iptv_urls": [
-      "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {

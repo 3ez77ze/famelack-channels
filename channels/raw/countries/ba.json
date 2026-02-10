@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "ZPibZkyI6rgkdp",
-    "name": "BHT 1",
-    "iptv_urls": [
-      "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "bos",
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1mg1i4tpsnA6yL",
     "name": "Malta",
     "iptv_urls": [
@@ -29,17 +18,6 @@
     ],
     "youtube_urls": [],
     "language": "bos",
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V8QFLQrHQiMeTN",
-    "name": "RTRS Plus",
-    "iptv_urls": [
-      "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
     "country": "ba",
     "isGeoBlocked": false
   },

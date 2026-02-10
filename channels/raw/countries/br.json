@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1q3kaCpiJgYIgc",
-    "name": "Assembleia SC: AO VIVO",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O6nHIasvp6I"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aPpjoxS7Oyu4bM",
     "name": "AWTV",
     "iptv_urls": [
@@ -182,7 +171,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xJeBU5Aoad8"
+      "https://www.youtube-nocookie.com/embed/qyatxD6AnVI"
     ],
     "language": "por",
     "country": "br",
@@ -272,17 +261,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IX9FJJTZ-Po"
     ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zCrJeuAQK2v5dx",
-    "name": "ElyTV",
-    "iptv_urls": [
-      "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -446,7 +424,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6mAczRD36g0"
+      "https://www.youtube-nocookie.com/embed/zmoG64ebrU8"
     ],
     "language": "por",
     "country": "br",
@@ -464,10 +442,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rt7SLz6glAqm6R",
-    "name": "Record",
+    "nanoid": "x42kDC1pU1frE7",
+    "name": "Plena TV",
     "iptv_urls": [
-      "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
+      "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jKDEdNqLxjs3LB",
+    "name": "RBATV",
+    "iptv_urls": [
+      "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -481,7 +470,7 @@
       "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GugLr3N2vv0"
+      "https://www.youtube-nocookie.com/embed/DZrIuXZhshs"
     ],
     "language": "por",
     "country": "br",
@@ -549,17 +538,6 @@
       "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ao5A2CfVPMs"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -653,6 +631,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
+    "iptv_urls": [
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uFUnpsEwjM0TgY",
     "name": "TV A Folha",
     "iptv_urls": [
@@ -736,7 +725,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KHiyE6SuWRY"
+      "https://www.youtube-nocookie.com/embed/hVEso9WHMKc"
     ],
     "language": "por",
     "country": "br",
@@ -747,17 +736,6 @@
     "name": "TV Brasil",
     "iptv_urls": [
       "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fKBN1GktoY4Pyo",
-    "name": "TV Brasil Central",
-    "iptv_urls": [
-      "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -974,17 +952,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g42CLcwYVqsKev",
-    "name": "TV Guará",
-    "iptv_urls": [
-      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "iptv_urls": [],
@@ -1000,17 +967,6 @@
     "name": "TV Life America",
     "iptv_urls": [
       "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QpXEvnEjDpxsIQ",
-    "name": "TV Maceió",
-    "iptv_urls": [
-      "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1139,17 +1095,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CNQ9a4CPIghUm1",
-    "name": "TV Rio Preto",
-    "iptv_urls": [
-      "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jlr3Y2RyUKhfhY",
     "name": "TV São Raimundo",
     "iptv_urls": [
@@ -1187,6 +1132,17 @@
     "name": "TV Sim Colatina",
     "iptv_urls": [
       "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ypesM2O8mm8qXW",
+    "name": "TV Sim São Mateus",
+    "iptv_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1341,17 +1297,6 @@
     "name": "TVitapé",
     "iptv_urls": [
       "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XvuJoSDFPUMMIb",
-    "name": "TVNBN",
-    "iptv_urls": [
-      "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",

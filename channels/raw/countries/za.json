@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lu3N4bfr0HEunv",
+    "name": "Afriwood Blockbuster",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/video.m3u8?ads.vf=W6V4C1LsfJK"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EME4N9khfw88cn",
     "name": "AnewZ",
     "iptv_urls": [],
@@ -48,6 +59,17 @@
     "name": "Cape Town TV",
     "iptv_urls": [
       "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RqAm3F34417sca",
+    "name": "Cinema Hausa",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/video.m3u8?ads.vf=v-YPzZubeoG"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -169,6 +191,28 @@
     "name": "Soweto TV",
     "iptv_urls": [
       "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ajptuhyjIdeFx",
+    "name": "Sports Connect",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7LzkeThbFKLAsm",
+    "name": "True African",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-african/video.m3u8?ads.vf=XoE3oY9edza"
     ],
     "youtube_urls": [],
     "language": "eng",

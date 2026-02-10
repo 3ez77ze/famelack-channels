@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "BNpZPYk5QD9227",
-    "name": "Canal 9 en Français",
-    "iptv_urls": [
-      "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2vVci7MeIBudgn",
     "name": "Canal Alpha Jura",
     "iptv_urls": [
@@ -116,17 +105,6 @@
     "name": "Immaculata TV",
     "iptv_urls": [
       "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZdNLvgl3QL9zlp",
-    "name": "Kanal 9 auf Deutsch",
-    "iptv_urls": [
-      "https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

@@ -77,10 +77,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mtvxflwldN4QsH",
+    "name": "Aghapy Kids",
+    "iptv_urls": [
+      "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
     "iptv_urls": [
-      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+      "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -299,17 +311,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1NS02kDPqI5WSa",
-    "name": "CBeebies Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OrgQw5NnGfhd8H",
     "name": "Chinola TV",
     "iptv_urls": [
@@ -358,18 +359,7 @@
     "name": "Clifford the Big Red Dog: Classic",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/j9zELQaZ6b4"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DWHNlPkSNnnnSG",
-    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OSUvIVFJtTs"
+      "https://www.youtube-nocookie.com/embed/AgKUROZVvGU"
     ],
     "language": "eng",
     "country": "us",
@@ -553,6 +543,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6SheLgxyW9E"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "iptv_urls": [],
@@ -591,7 +592,7 @@
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5PtLHnSX6Wo"
+      "https://www.youtube-nocookie.com/embed/1JweU2b4vGE"
     ],
     "language": "rus",
     "country": "ru",
@@ -675,6 +676,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7QNwjfAH3tZtOn",
+    "name": "Koogi TV",
+    "iptv_urls": [
+      "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
     "iptv_urls": [
@@ -691,21 +703,10 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/la3Bt8BuD-s",
-      "https://www.youtube-nocookie.com/embed/-pn-R4za3v0"
+      "https://www.youtube-nocookie.com/embed/rc9EyPcU03Y"
     ],
     "language": "deu",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cS5WWc43jjdjbz",
-    "name": "Lenz Animation",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -845,32 +846,10 @@
     "name": "Nicktoons",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yAbJFNypic8"
+      "https://www.youtube-nocookie.com/embed/88qQj573Kek"
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M9clA2SCbx0k6z",
-    "name": "Nicktoons East",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sf2UUZ1IfXDGmN",
-    "name": "Omid",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -889,7 +868,7 @@
     "name": "PAW Patrol (Español)",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QklIunWjNYA"
+      "https://www.youtube-nocookie.com/embed/GewwXnJQIU0"
     ],
     "language": "spa",
     "country": "us",
@@ -999,7 +978,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6mAczRD36g0"
+      "https://www.youtube-nocookie.com/embed/zmoG64ebrU8"
     ],
     "language": "por",
     "country": "br",
@@ -1047,17 +1026,6 @@
     ],
     "language": "jpn",
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D2Lk5wz1WJGy5f",
-    "name": "Pooya & Nahal",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1171,11 +1139,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W12MJtCI2qv2s8",
+    "name": "SpongeBob SquarePants Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jM5ca1QXZDY"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/APQOLUVobsw"
+      "https://www.youtube-nocookie.com/embed/mgRG23ixRcg"
     ],
     "language": "eng",
     "country": "ca",
@@ -1186,7 +1165,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y4Jc2HFi2_4"
+      "https://www.youtube-nocookie.com/embed/4yNJqbrogko"
     ],
     "language": "eng",
     "country": "ca",
@@ -1197,7 +1176,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YRBz0B3es70"
+      "https://www.youtube-nocookie.com/embed/GbO1Ks8Z_vs"
     ],
     "language": "eng",
     "country": "ca",
@@ -1398,7 +1377,7 @@
     "name": "WildBrain Çocuklar: Twirlywoos",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BCH9DH0BtdQ"
+      "https://www.youtube-nocookie.com/embed/CKDuuPJgCCc"
     ],
     "language": "tur",
     "country": "tr",
@@ -1420,7 +1399,7 @@
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Aw5gfjoO3W4"
+      "https://www.youtube-nocookie.com/embed/3soNitUd5ME"
     ],
     "language": "eng",
     "country": "uk",
@@ -1471,32 +1450,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "80O6JyPLhgKHVd",
-    "name": "ZooMoo Asia",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oUYt6aGeL7f4hM",
-    "name": "Карусель International",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1576,7 +1533,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cqrih-TJXBQ"
+      "https://www.youtube-nocookie.com/embed/wAgcO-FWS6E"
     ],
     "language": "zho",
     "country": "cn",

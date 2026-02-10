@@ -145,17 +145,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TbETZirFbV6iE6",
-    "name": "Collier County Public Schools CCPS Education Channel (Naples FL)",
-    "iptv_urls": [
-      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EHP7r0Fg5OJVXF",
     "name": "Create",
     "iptv_urls": [
@@ -175,17 +164,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BFZswU8rLJZ6jx",
-    "name": "Da Vinci Asia Vietnam",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -214,7 +192,8 @@
     "nanoid": "nOQMyaxMLN1dPp",
     "name": "DD KISAN HD",
     "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/9/master.m3u8"
+      "https://cdn-6.pishow.tv/live/9/master.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -465,17 +444,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "avcRNsWqoTWnAw",
-    "name": "Education",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "iptv_urls": [
@@ -685,6 +653,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FkEZ1qiww38D8n",
+    "name": "NBS Korea Agricultural Broadcasting",
+    "iptv_urls": [
+      "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "iptv_urls": [
@@ -704,17 +683,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RisDHdMXTuhjri",
-    "name": "Orange County Vision TV (Orange County FL)",
-    "iptv_urls": [
-      "https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -928,6 +896,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "iptv_urls": [
+      "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wG03qaF80rSneK",
     "name": "Telepace 3",
     "iptv_urls": [
@@ -994,17 +973,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VxXPHwWoMl0QhJ",
-    "name": "TV Universidad",
-    "iptv_urls": [
-      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p4obNYU8nK7E4h",
     "name": "TVE RS",
     "iptv_urls": [
@@ -1057,17 +1025,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uhXaKy0zwMPJAb",
-    "name": "UNIANDES TV",
-    "iptv_urls": [
-      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
     "isGeoBlocked": false
   },
   {

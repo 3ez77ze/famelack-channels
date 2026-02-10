@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "38vMSDs717Nc88",
+    "name": "Kabbalah for the People (Israel)",
+    "iptv_urls": [
+      "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "heb",
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hbcJB1RCRT6pmz",
     "name": "Makan 33",
     "iptv_urls": [
@@ -59,7 +70,7 @@
     "name": "Now 14",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AGUebLUSBz0"
+      "https://www.youtube-nocookie.com/embed/tXc_zSgTqfQ"
     ],
     "language": "heb",
     "country": "il",

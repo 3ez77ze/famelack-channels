@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JQQkk4SgeAI"
+    ],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mlTXxUmbTG3Ish",
     "name": "Controversia TV",
     "iptv_urls": [
@@ -286,17 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GS1iJoWQ7ta8Q1",
-    "name": "Ovación TV",
-    "iptv_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kNsWM7D3MJH7TB",
     "name": "Panc TV Peru",
     "iptv_urls": [
@@ -397,6 +397,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FMvg6xgrss4nnA",
+    "name": "Telecolor Yurimaguas",
+    "iptv_urls": [
+      "https://live.obslivestream.com/telecolormux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wmJ1QxQIvPF4LM",
     "name": "Teleselva",
     "iptv_urls": [
@@ -412,17 +423,6 @@
     "name": "Top FM TV",
     "iptv_urls": [
       "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mdiVt9k5G6ApIq",
-    "name": "Trivu",
-    "iptv_urls": [
-      "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -544,6 +544,17 @@
     "name": "Vía Televisión (720P)",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dpLqGa5wjsNEE1",
+    "name": "Viva TV Yurimaguas",
+    "iptv_urls": [
+      "https://live.obslivestream.com/vivatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uj3o1x3ruhm3Sf",
-    "name": "Aleph News",
-    "iptv_urls": [
-      "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JSGP3ao4TkoM4K",
     "name": "Alfa Omega TV",
     "iptv_urls": [
@@ -220,6 +209,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H8lAJKYghBWOpW",
+    "name": "Kanal D",
+    "iptv_urls": [
+      "https://stream1.kanald.ro/iphone/knd-live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3hq4NpWZFKw05F",
+    "name": "Kiss TV",
+    "iptv_urls": [
+      "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NodY8gBnmYHwO8",
+    "name": "Magic TV",
+    "iptv_urls": [
+      "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LOoaceDLue8eJw",
     "name": "MediCOOL TV",
     "iptv_urls": [
@@ -268,6 +290,17 @@
     "name": "MISA TV",
     "iptv_urls": [
       "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -418,10 +451,76 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rMcJnRPCctPt1F",
+    "name": "TVR 1",
+    "iptv_urls": [
+      "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aSwhkd8O6WnBnD",
+    "name": "TVR 2",
+    "iptv_urls": [
+      "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L8huPDS6MhGzMC",
+    "name": "TVR 3",
+    "iptv_urls": [
+      "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VtcHR41kw8nIt8",
+    "name": "TVR Cluj",
+    "iptv_urls": [
+      "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5U2zNKFRDXgbSV",
+    "name": "TVR Craiova",
+    "iptv_urls": [
+      "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AgdBh1G6zjQQ1P",
     "name": "TVR Cultural",
     "iptv_urls": [
       "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QmyDk7u02PWKpA",
+    "name": "TVR Info",
+    "iptv_urls": [
+      "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -455,6 +554,17 @@
     "name": "TVR Targu-Mures",
     "iptv_urls": [
       "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtHnKdBTp3Dn99",
+    "name": "TVR Timisoara",
+    "iptv_urls": [
+      "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",

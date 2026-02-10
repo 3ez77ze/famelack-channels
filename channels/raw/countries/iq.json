@@ -209,6 +209,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O3t69Sz5G9vyIV",
+    "name": "KurdMax Music",
+    "iptv_urls": [
+      "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RzX8WqJgd5GWa8",
+    "name": "KurdMax Show",
+    "iptv_urls": [
+      "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QbuWRonKyyvi1a",
+    "name": "KurdMax Sorani",
+    "iptv_urls": [
+      "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ckb",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SjoOeqUrGyldOw",
     "name": "Kurdsat News",
     "iptv_urls": [

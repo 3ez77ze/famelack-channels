@@ -33,6 +33,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f0wcRTXZi1OLrF",
+    "name": "Eveo",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6K6oFgTHq5fj7V",
+    "name": "Hero",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RXkTjTqpb8UDSl",
     "name": "Himlen TV7",
     "iptv_urls": [
@@ -55,10 +77,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "plB7keRPLB8ziF",
+    "name": "Jim",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f8OcMZj8nk12cd",
     "name": "JRTV Järviradio",
     "iptv_urls": [
       "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FW4NkK3uUVOi0W",
+    "name": "Liv",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true"
     ],
     "youtube_urls": [],
     "language": "fin",
@@ -77,10 +121,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vXBPuMXUanBxnj",
+    "name": "MTV Ava",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/ava/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XIT46ZkepuHyd7",
+    "name": "MTV Sub",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/sub/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ymyzvymgU1533k",
     "name": "MTV Uutiset",
     "iptv_urls": [
       "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sJ0IwCxQ3PFQw5",
+    "name": "MTV3",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/mtv3/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "fin",
@@ -110,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ic6PikdPKAa3mo",
+    "name": "Nelonen",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/nelonen/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "knoFkqODtHFsAU",
     "name": "Onni TV",
     "iptv_urls": [
@@ -128,6 +216,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EDWW7TL07yMVj8",
+    "name": "STAR Channel (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/star-channel/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "fi",
     "isGeoBlocked": false
   },
@@ -154,6 +253,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3kvMeRQNc7yJgV",
     "name": "World of Love Island",
     "iptv_urls": [
@@ -168,7 +278,8 @@
     "nanoid": "QkAeXYqD57Cduc",
     "name": "YLE TV 1",
     "iptv_urls": [
-      "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
+      "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+      "https://live-fi.tvkaista.net/yle-tv1/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "fin",
@@ -179,7 +290,8 @@
     "nanoid": "532XJLmRxgJkDu",
     "name": "YLE TV 2",
     "iptv_urls": [
-      "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
+      "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+      "https://live-fi.tvkaista.net/yle-tv2/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "fin",
@@ -190,7 +302,8 @@
     "nanoid": "gAbt2rH6T2mSLN",
     "name": "YLE TV Teema & Fem",
     "iptv_urls": [
-      "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8"
+      "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+      "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "fin",
