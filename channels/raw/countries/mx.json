@@ -233,6 +233,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CrHxjo8TlGVNjG",
+    "name": "Despierta TV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/despiertatv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0v8d7EFpyejD8F",
     "name": "Eclipse TV",
     "iptv_urls": [
@@ -358,7 +369,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OHhTMk6ahGo"
+      "https://www.youtube-nocookie.com/embed/0UiJ2PUpZag"
     ],
     "language": "spa",
     "country": "mx",
@@ -479,7 +490,7 @@
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EMuw37VgSnc"
+      "https://www.youtube-nocookie.com/embed/3q74XnTLAu4"
     ],
     "language": "spa",
     "country": "mx",
@@ -832,7 +843,7 @@
     "name": "Televisa Mexicali",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LCwW98CJPcs"
+      "https://www.youtube-nocookie.com/embed/xgRPZuQ7Ttk"
     ],
     "language": "spa",
     "country": "mx",
@@ -843,7 +854,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HYV5daGkpvM"
+      "https://www.youtube-nocookie.com/embed/AwHQNFDdKxQ"
     ],
     "language": "spa",
     "country": "mx",
@@ -854,7 +865,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nHArwXru2EM"
+      "https://www.youtube-nocookie.com/embed/ORy3WkjYtGI"
     ],
     "language": "spa",
     "country": "mx",
@@ -920,7 +931,7 @@
     "name": "Televisa Univision Saltillo",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uanu41aTs2g"
+      "https://www.youtube-nocookie.com/embed/kpUA7uzPvA8"
     ],
     "language": "spa",
     "country": "mx",
@@ -932,6 +943,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ULduGTRgRi4"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t4d8eUUDKhV1q6",
+    "name": "Televisa Victoria",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/d2MmQZ-dYpY"
     ],
     "language": "spa",
     "country": "mx",

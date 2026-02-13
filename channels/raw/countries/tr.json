@@ -139,7 +139,7 @@
     "name": "Ankara Büyükşehir Belediyesi",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VCDy8ewqwK8"
+      "https://www.youtube-nocookie.com/embed/iZoN48pVBUs"
     ],
     "language": "tur",
     "country": "tr",
@@ -151,19 +151,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BRs0GDByyOY"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UBjqGDOceqJLt2",
-    "name": "ATV",
-    "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
     ],
     "language": "tur",
     "country": "tr",
@@ -623,7 +610,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6Kr_Wjx5-u8"
+      "https://www.youtube-nocookie.com/embed/n1bg-MgHgQQ"
     ],
     "language": "tur",
     "country": "tr",
@@ -1517,7 +1504,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W_vcg6m5Ryo"
+      "https://www.youtube-nocookie.com/embed/A09C19Fd9bI"
     ],
     "language": "tur",
     "country": "tr",

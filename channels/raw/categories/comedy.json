@@ -201,6 +201,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e8szC96ftGfIR5",
+    "name": "Laugh After Dark",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fxLorKqLpvA"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hpo8bmZBPSGLRO",
     "name": "LOL Network",
     "iptv_urls": [
@@ -286,17 +297,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EesEGc0lH_w"
-    ],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {

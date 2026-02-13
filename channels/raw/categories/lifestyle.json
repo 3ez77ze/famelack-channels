@@ -233,6 +233,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3VXLFsdtTTonDX",
+    "name": "Guide Love TV",
+    "iptv_urls": [
+      "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0KlE6FvrOXncqk",
     "name": "HANDICAP TV France",
     "iptv_urls": [
@@ -479,32 +490,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OVcMIdQh1mNNYo",
-    "name": "The Jamie Oliver Channel",
-    "iptv_urls": [
-      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "PTb3tdaVEXk3oP",
     "name": "Открытый мир. Здоровье",
     "iptv_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

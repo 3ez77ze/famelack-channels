@@ -135,7 +135,6 @@
     "nanoid": "j7KYQ0gagPq99e",
     "name": "Aaseervatham TV",
     "iptv_urls": [
-      "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8",
       "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -441,6 +440,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gqagHcGI6e4lYf",
+    "name": "Al-Jawadain TV",
+    "iptv_urls": [
+      "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BrcNIoSEsUQpv2",
     "name": "Al-MahdiTV",
     "iptv_urls": [
@@ -729,149 +739,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mNsrgueOaZN9Tk",
-    "name": "Angel TV",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uSctDmIPr59SNQ",
-    "name": "Angel TV Africa",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hJ3iu0hLUptUwg",
-    "name": "Angel TV America",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y8xJ84u4oD4WFi",
-    "name": "Angel TV Arabia",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Npgfgcy7kERrXL",
-    "name": "Angel TV Chinese",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rPGG0rcVL2rrED",
-    "name": "Angel TV Europe",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f9tX01bn3EYQEs",
-    "name": "Angel TV FarEast",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "djduNfwOatZONT",
-    "name": "Angel TV Hebrew",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "heb",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NS2mZmWMt3ZNqu",
-    "name": "Angel TV Indo-China",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gxyXIDzkS2CQib",
-    "name": "Angel TV Indonesia",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wl3K2QtshgBdnh",
-    "name": "Angel TV Portuguese",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yXRUUrZuX7XvU5",
-    "name": "Angel TV Russian",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uv5PJ1rQ8byq5f",
-    "name": "Angel TV Spanish",
-    "iptv_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XZ0ppzFYNKAs79",
     "name": "Angelus TV",
     "iptv_urls": [
@@ -894,6 +761,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V4sGn5fdh6Yqri",
+    "name": "Árbol de Vida TV",
+    "iptv_urls": [
+      "https://yupistream.top:19360/livearbol/livearbol.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t2mBHms7Nuow3E",
     "name": "Ark TV",
     "iptv_urls": [
@@ -902,6 +780,18 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TKjF9Dh5jBDraW",
+    "name": "Ashiil TV",
+    "iptv_urls": [
+      "https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8",
+      "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -935,17 +825,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
-    "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -992,17 +871,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RgXZMyE6SkTLbW",
-    "name": "Bayyinat TV",
-    "iptv_urls": [
-      "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "iq",
     "isGeoBlocked": false
   },
   {
@@ -1547,17 +1415,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ox4DN0UXqavfCv",
-    "name": "Darshan 24",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/DARSHAN24/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "x5mwCmjYC8lT9Y",
     "name": "Despertar TV",
     "iptv_urls": [
@@ -1577,28 +1434,6 @@
     "youtube_urls": [],
     "language": "ind",
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rnivSWdt8sVuKz",
-    "name": "Dharm Sandesh",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z3IoUB89kutKlz",
-    "name": "Dharsan TV",
-    "iptv_urls": [
-      "https://galaxyott.live/hls/dharshantv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1665,17 +1500,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DfD3tq4WpLgfKH",
-    "name": "Divya Darshan TV",
-    "iptv_urls": [
-      "https://live.divyadarshantv.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nep",
-    "country": "np",
     "isGeoBlocked": false
   },
   {
@@ -1811,17 +1635,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lZCJ28tnHKpEgP",
-    "name": "El Camino TV",
-    "iptv_urls": [
-      "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
     "isGeoBlocked": false
   },
   {
@@ -2035,18 +1848,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EhXSQ0Jhhv1tef",
-    "name": "Exodus TV",
-    "iptv_urls": [
-      "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
-      "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "slv",
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g2oDIGkwBMwsy6",
     "name": "Extrema TV",
     "iptv_urls": [
@@ -2116,7 +1917,6 @@
     "nanoid": "QckwZ7Qct3VYiH",
     "name": "Fateh TV",
     "iptv_urls": [
-      "https://mumt05.tangotv.in/FATEHTV/index.m3u8",
       "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
     ],
     "youtube_urls": [],
@@ -2144,6 +1944,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TCsupF1gbD5yUF",
+    "name": "Flame TV",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
     "isGeoBlocked": false
   },
   {
@@ -2403,6 +2214,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nw0EUVWxNRLRmA",
+    "name": "Harvest USA",
+    "iptv_urls": [
+      "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TbtIfX1cf0Odbf",
     "name": "Hebron TV",
     "iptv_urls": [
@@ -2418,7 +2240,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6Kr_Wjx5-u8"
+      "https://www.youtube-nocookie.com/embed/n1bg-MgHgQQ"
     ],
     "language": "tur",
     "country": "tr",
@@ -2524,17 +2346,6 @@
     "youtube_urls": [],
     "language": "ind",
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j79baqwQIoh0JH",
-    "name": "icnet 1",
-    "iptv_urls": [
-      "https://icnet1hls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -2706,6 +2517,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d3wecW45nAhRjr",
+    "name": "JFV TV",
+    "iptv_urls": [
+      "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rPsvD3XI1FlA1X",
     "name": "Jinvani Channel",
     "iptv_urls": [
@@ -2759,6 +2581,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "38vMSDs717Nc88",
+    "name": "Kabbalah for the People (Israel)",
+    "iptv_urls": [
+      "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "heb",
+    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -3138,17 +2971,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "iptv_urls": [
-      "https://lingkartv.my.id/hls/lingkartv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gXMXlgPuC7hEDD",
     "name": "Living Faith TV",
     "iptv_urls": [
@@ -3434,7 +3256,7 @@
     "name": "Marhaban TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Vq3yWz17kZw"
+      "https://www.youtube-nocookie.com/embed/izf-ynzRymw"
     ],
     "language": "ind",
     "country": "id",
@@ -3533,7 +3355,7 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zu0vMS686Gs"
+      "https://www.youtube-nocookie.com/embed/ZhZYtRtE7bw"
     ],
     "language": "sin",
     "country": "lk",
@@ -4017,11 +3839,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Jn0sjATfq52i06",
+    "name": "Paras Gold",
+    "iptv_urls": [
+      "https://mumt04.tangotv.in/PARASGOLD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3CxZy1MknmRNZH",
     "name": "Paras TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OhLbMO-TOoI"
+      "https://www.youtube-nocookie.com/embed/qtyLeWyWYbk"
     ],
     "language": "hin",
     "country": "in",
@@ -4289,17 +4122,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tJa1zHfUu6eux2",
-    "name": "Reforma TV",
-    "iptv_urls": [
-      "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -5088,17 +4910,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mL19mVndBb4hiW",
-    "name": "Teve Vida Network",
-    "iptv_urls": [
-      "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BhmoGwl2ZbKr5D",
     "name": "The Buddhist TV",
     "iptv_urls": [],
@@ -5209,6 +5020,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mOCMYDYV2t8RPY",
+    "name": "Trece",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zOxDRevVPSzLb6",
     "name": "TRINITAS TV",
     "iptv_urls": [],
@@ -5217,17 +5039,6 @@
     ],
     "language": "ron",
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7G6HCuUwByIsBi",
-    "name": "Triunfo 96.9 FM TV",
-    "iptv_urls": [
-      "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
     "isGeoBlocked": false
   },
   {
@@ -5475,6 +5286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b1EAokD2bBiJTE",
+    "name": "TVCa Televisión Católica Arquidiocesana",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2rNqvS3cyFL1gx",
     "name": "TVCARiB Gospel",
     "iptv_urls": [
@@ -5652,6 +5474,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xv7XuF3Jqnre1p",
+    "name": "YOUNIB Media TV",
+    "iptv_urls": [
+      "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zjuTbCZ7ggCZGb",
     "name": "Zainabia Channel",
     "iptv_urls": [
@@ -5659,6 +5492,17 @@
     ],
     "youtube_urls": [],
     "language": "urd",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PHOu86go0SP7H8",
+    "name": "ZB Bhakti",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zbbhakti/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -5688,8 +5532,7 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

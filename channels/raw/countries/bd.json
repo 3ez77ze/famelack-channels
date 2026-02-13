@@ -4,7 +4,7 @@
     "name": "Channel 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ee8EQi_OaZ8"
+      "https://www.youtube-nocookie.com/embed/554HFyV4boY"
     ],
     "language": "ben",
     "country": "bd",
@@ -48,7 +48,7 @@
     "name": "Ekattor TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/R9ZOaxcX2Uc"
+      "https://www.youtube-nocookie.com/embed/xeIXdSQwLAE"
     ],
     "language": "ben",
     "country": "bd",
@@ -101,33 +101,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uagjQT3i12yFSv",
-    "name": "News24 Daily",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZB8NvkZJVso"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VNY3CPiX9tfekV",
     "name": "NTV Live",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lxKB7P4hAHIaws",
-    "name": "Rtv News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ebnvcbBzTvM"
     ],
     "language": "ben",
     "country": "bd",

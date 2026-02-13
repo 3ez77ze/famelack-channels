@@ -26,7 +26,7 @@
     "name": "Jaya Tv Live",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cflK4CEhKkc"
+      "https://www.youtube-nocookie.com/embed/FP6P4pmU8JM"
     ],
     "language": "sin",
     "country": "lk",
@@ -44,22 +44,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "84MzFsqan8hkeY",
-    "name": "LiveFM Sri Lanka",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4Kdd2h17PLA"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GqCp27T0s0lfCz",
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zu0vMS686Gs"
+      "https://www.youtube-nocookie.com/embed/ZhZYtRtE7bw"
     ],
     "language": "sin",
     "country": "lk",

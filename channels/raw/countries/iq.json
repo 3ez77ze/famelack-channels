@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gqagHcGI6e4lYf",
+    "name": "Al-Jawadain TV",
+    "iptv_urls": [
+      "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O42irmQexc6nDD",
     "name": "Al-Sharqiya",
     "iptv_urls": [
@@ -95,17 +106,6 @@
     ],
     "youtube_urls": [],
     "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RgXZMyE6SkTLbW",
-    "name": "Bayyinat TV",
-    "iptv_urls": [
-      "https://nl2.livekadeh.com/hls2/Bayyinat.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
     "country": "iq",
     "isGeoBlocked": false
   },

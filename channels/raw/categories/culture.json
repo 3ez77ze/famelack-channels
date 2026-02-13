@@ -213,17 +213,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -274,8 +263,8 @@
     "name": "DD Bharati",
     "iptv_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
-      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8"
+      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/X4U_ws5upTE"
@@ -288,7 +277,8 @@
     "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
     "iptv_urls": [
-      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8"
+      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
@@ -439,8 +429,7 @@
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
       "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8",
-      "https://fl7.moveonjoy.com/FOX_SOUL/index.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -511,17 +500,6 @@
     "youtube_urls": [],
     "language": "hmn",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nG7lFRDfSfbs7Z",
-    "name": "Holvoet TV (Copiapó)",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -655,17 +633,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4GP05gaKgeZLke",
-    "name": "MBC America",
-    "iptv_urls": [
-      "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1089,17 +1056,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -1120,17 +1076,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {

@@ -101,17 +101,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JjVGVjzCa9hXFe",
     "name": "Canal Más Televisión",
     "iptv_urls": [
@@ -129,18 +118,6 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
       "https://video.ejeserver.com/live/mundovisiontv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QA1x5OQRH7UVPJ",
-    "name": "Canal Nets",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/nets.m3u8",
-      "https://video.ejeserver.com/live/nets.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -174,6 +151,17 @@
     "name": "Canal Telefamilia",
     "iptv_urls": [
       "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A9tPf7Rzt5ngpc",
+    "name": "Canica TV",
+    "iptv_urls": [
+      "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -293,6 +281,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GnCb5ceUbTkz25",
+    "name": "La Cantina Memorias",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wzR0TNYEFfuhVq",
     "name": "La Hermandad Salsera",
     "iptv_urls": [
@@ -359,6 +358,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B4gERaGxLZYSc7",
+    "name": "Memorias FM Pop Latino",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CAgtc7uQTGoAtf",
     "name": "Memorias TV Classic",
     "iptv_urls": [
@@ -418,7 +428,7 @@
     "name": "Noticias Caracol",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6-I_jMfmJ_U"
+      "https://www.youtube-nocookie.com/embed/fNs1kR61icg"
     ],
     "language": "spa",
     "country": "co",
@@ -462,6 +472,17 @@
     "name": "Parranda Vallenata",
     "iptv_urls": [
       "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iEaQZyuCD9tKa4",
+    "name": "Red+",
+    "iptv_urls": [
+      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -529,6 +550,17 @@
     "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -606,17 +638,6 @@
     "name": "Ultra Casanare TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8072/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lOEoXHnp8Sj0dx",
-    "name": "UMC TV",
-    "iptv_urls": [
-      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

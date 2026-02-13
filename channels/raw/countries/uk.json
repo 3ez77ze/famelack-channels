@@ -81,7 +81,7 @@
     "name": "Banijay Bluelight: Real Life Hospital Documentaries",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xeTkFk7o1HA"
+      "https://www.youtube-nocookie.com/embed/gnNihAUHd0E"
     ],
     "language": "eng",
     "country": "uk",
@@ -114,7 +114,18 @@
     "name": "Banijay Engine: Full Custom Garage",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gDtENsVA5iA"
+      "https://www.youtube-nocookie.com/embed/b9FdY_lT7I4"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJl8pmCiIwVpiF",
+    "name": "Banijay History: Secrets They Tried to Bury",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-qhrhHA_y6Y"
     ],
     "language": "eng",
     "country": "uk",
@@ -357,17 +368,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UuBjUlChXDQ"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1478,17 +1478,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/jw10MTQTMfE"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M9HwvmHmrMZElD",
-    "name": "Wonder",
-    "iptv_urls": [
-      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

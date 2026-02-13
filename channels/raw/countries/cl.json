@@ -169,19 +169,8 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KU5jmm2m0Oo"
+      "https://www.youtube-nocookie.com/embed/c6rpf7RfCM4"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -286,17 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nG7lFRDfSfbs7Z",
-    "name": "Holvoet TV (Copiapó)",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "B06Trbkq5ZZMBH",
     "name": "ITV Patagonia",
     "iptv_urls": [
@@ -334,7 +312,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4beaCLumkgw"
+      "https://www.youtube-nocookie.com/embed/irmYMn5Bih8"
     ],
     "language": "spa",
     "country": "cl",
@@ -480,7 +458,7 @@
     "name": "T13",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/isbG-_pKAtM"
+      "https://www.youtube-nocookie.com/embed/70CMOIMijvw"
     ],
     "language": "spa",
     "country": "cl",
@@ -624,6 +602,17 @@
     "name": "TVU Concepción",
     "iptv_urls": [
       "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uiKxEXDS2qwujf",
+    "name": "U Los Lagos TV",
+    "iptv_urls": [
+      "https://tv.ulagos.cl/web/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

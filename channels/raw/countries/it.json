@@ -286,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "iptv_urls": [
@@ -407,6 +418,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uyiyfk5r0UmGtm",
+    "name": "Gold TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
+      "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1xnRIVzGMzHUgY",
     "name": "GRP VERATV",
     "iptv_urls": [
@@ -466,6 +489,17 @@
     "name": "Italia 2",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oBwvurm2qFur1v",
+    "name": "Italia 7",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -568,6 +602,17 @@
     "name": "LaC News 24",
     "iptv_urls": [
       "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -714,39 +759,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1098,17 +1110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yr5JBg5lH2xLw3",
-    "name": "RTC Telecalabria",
-    "iptv_urls": [
-      "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hWbm2rTjszNer8",
     "name": "RTL 102.5 Best",
     "iptv_urls": [
@@ -1313,6 +1314,17 @@
     "name": "SuperSix Lombardia",
     "iptv_urls": [
       "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jHr3gQHmtG7nGu",
+    "name": "T9",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1551,6 +1563,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fPi31GojXVdhWd",
+    "name": "TeleRegione 118",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J7sB9N56vSaJtA",
     "name": "Teleromagna",
     "iptv_urls": [
@@ -1632,6 +1655,17 @@
     "name": "TV Qui (Modena)",
     "iptv_urls": [
       "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kVRqkfw56FIDW8",
+    "name": "TV Yes Italia",
+    "iptv_urls": [
+      "https://stream1.aswifi.it/radioyes/live/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

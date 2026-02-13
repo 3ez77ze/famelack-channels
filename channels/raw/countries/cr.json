@@ -198,10 +198,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+      "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
