@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "7G6TKaBuir2YYY",
-    "name": "América Estéreo Quito",
+    "nanoid": "8Bv8hcX2tNuzZb",
+    "name": "Antena Uno RadioVideo",
     "iptv_urls": [
-      "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
+      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -154,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c3zaL7CKyoj6u1",
-    "name": "Gamavisión",
-    "iptv_urls": [
-      "https://stream.esradioecuador.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rzz3epvsT10Pp4",
     "name": "GM7 Digital",
     "iptv_urls": [
@@ -202,6 +191,17 @@
     "name": "Infinita TV",
     "iptv_urls": [
       "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BQiZCJpf4JlMdt",
+    "name": "La Nueva Radio TV 97.7",
+    "iptv_urls": [
+      "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -363,17 +363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xWGjAVSP39eb8X",
-    "name": "Plus TV",
-    "iptv_urls": [
-      "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "iptv_urls": [
@@ -495,6 +484,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3TCmSy7n4qBhND",
+    "name": "Telemar",
+    "iptv_urls": [
+      "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LX5wXVXTxx5iPK",
     "name": "Telerama",
     "iptv_urls": [
@@ -532,6 +532,17 @@
     "name": "UNIANDES TV",
     "iptv_urls": [
       "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9TUqw93GWA6FwZ",
+    "name": "Vos y TV",
+    "iptv_urls": [
+      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

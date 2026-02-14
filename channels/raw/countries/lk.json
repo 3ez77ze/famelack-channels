@@ -48,7 +48,7 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZhZYtRtE7bw"
+      "https://www.youtube-nocookie.com/embed/h7EkI2D1dTs"
     ],
     "language": "sin",
     "country": "lk",
@@ -82,17 +82,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ntOsEXFJWes"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1svuli9OcB1Brg",
-    "name": "Shraddha TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/etInMrvYBwU"
     ],
     "language": "sin",
     "country": "lk",

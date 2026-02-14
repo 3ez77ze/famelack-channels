@@ -79,17 +79,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S7lyJHbl70de7u",
     "name": "Bloomberg Originals",
     "iptv_urls": [],
@@ -362,17 +351,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UwS4TaPpZWIHIm",
-    "name": "Military History",
-    "iptv_urls": [
-      "https://fl31.moveonjoy.com/Military_History/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kfNMC8gMIZfcGp",
     "name": "Nat Geo Animals",
     "iptv_urls": [],
@@ -392,28 +370,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y4nk0aoGzm3AAy",
-    "name": "National Geographic East",
-    "iptv_urls": [
-      "https://fl31.moveonjoy.com/National_Geographic/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "l7Jl9bi9Vw9aAN",
-    "name": "National Geographic Wild East",
-    "iptv_urls": [
-      "https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -570,17 +526,6 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

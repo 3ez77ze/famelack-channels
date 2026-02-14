@@ -138,6 +138,19 @@
     "iptv_urls": [
       "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8"
     ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
+    ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u2sCANZ3ft5IKm",
+    "name": "Bungo TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8"
+    ],
     "youtube_urls": [],
     "language": "ind",
     "country": "id",
@@ -162,17 +175,6 @@
     ],
     "youtube_urls": [],
     "language": "zho",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JTbs2lIH8ln5ro",
-    "name": "Davika TV",
-    "iptv_urls": [
-      "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },
@@ -434,7 +436,7 @@
     "name": "Media Sunnah Aceh TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/etk22f89kwI"
+      "https://www.youtube-nocookie.com/embed/5BWJoBmiXMY"
     ],
     "language": "ind",
     "country": "id",
@@ -458,17 +460,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nL16LWrrRRTSM1",
-    "name": "MGS TV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -690,6 +681,17 @@
       "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JxtLgDEsjlg"
+    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false

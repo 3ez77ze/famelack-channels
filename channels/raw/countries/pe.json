@@ -397,17 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FMvg6xgrss4nnA",
-    "name": "Telecolor Yurimaguas",
-    "iptv_urls": [
-      "https://live.obslivestream.com/telecolormux/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wmJ1QxQIvPF4LM",
     "name": "Teleselva",
     "iptv_urls": [
@@ -470,6 +459,17 @@
     ],
     "youtube_urls": [],
     "language": "aym",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JAu8npSaIqe0rd",
+    "name": "TV Peru Internacional",
+    "iptv_urls": [
+      "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "pe",
     "isGeoBlocked": false
   },

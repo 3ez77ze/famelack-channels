@@ -874,6 +874,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZBBFj5GnvGni4T",
+    "name": "Parlamentsfernsehen 2",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eYYqGiBGykkSSs",
+    "name": "Parlamentsfernsehen 3",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9rKd670JNINyhC",
+    "name": "Parlamentsfernsehen 4",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "iptv_urls": [
@@ -966,7 +999,6 @@
     "name": "Sansad TV 1",
     "iptv_urls": [
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
       "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
     "youtube_urls": [],
@@ -1091,7 +1123,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4CAjObIWgHw"
+      "https://www.youtube-nocookie.com/embed/PLTjW4OSJcI"
     ],
     "language": "por",
     "country": "br",
@@ -1124,7 +1156,7 @@
     "name": "TV Câmara Porto Alegre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/I1k1NTZ7r7w"
+      "https://www.youtube-nocookie.com/embed/b5gmUYFkcoU"
     ],
     "language": "por",
     "country": "br",

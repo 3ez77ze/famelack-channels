@@ -176,6 +176,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ic6PikdPKAa3mo",
+    "name": "Nelonen",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/nelonen/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "knoFkqODtHFsAU",
     "name": "Onni TV",
     "iptv_urls": [
@@ -224,6 +235,17 @@
     "name": "Taivas TV7",
     "iptv_urls": [
       "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
     ],
     "youtube_urls": [],
     "language": "fin",

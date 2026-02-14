@@ -133,17 +133,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DN6TpQ0x9cD41t",
-    "name": "HORYZONT TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ixEFVDIVKAU"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SPKf8qiF4zzrz5",
     "name": "Jail",
     "iptv_urls": [
@@ -337,7 +326,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CJSZdPJVRXY"
+      "https://www.youtube-nocookie.com/embed/LBnN6Lqs3ac"
     ],
     "language": "pol",
     "country": "pl",

@@ -3,7 +3,8 @@
     "nanoid": "Zpcb6dPZj431wJ",
     "name": "Abante TV",
     "iptv_urls": [
-      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+      "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -14,7 +15,8 @@
     "nanoid": "jJ5KY3frn8Mets",
     "name": "Bilyonaryo News Channel",
     "iptv_urls": [
-      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
+      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+      "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -44,10 +46,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "50fISDUbgXCYss",
+    "name": "Living Asia Channel",
+    "iptv_urls": [
+      "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RhkfgHInexT7iQ",
     "name": "Mindanow Network TV",
     "iptv_urls": [
       "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g2M151IR177r4N",
+    "name": "Nudge Sports Channel",
+    "iptv_urls": [
+      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -81,7 +105,7 @@
     "name": "Teleradyo Serbisyo",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UZHLjBmPRug"
+      "https://www.youtube-nocookie.com/embed/XoNpYrED4Qk"
     ],
     "language": "tgl",
     "country": "ph",

@@ -70,7 +70,7 @@
     "name": "Archie's Weird Mysteries",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ovB4O7UTr3g"
+      "https://www.youtube-nocookie.com/embed/uoKwxbe8U_o"
     ],
     "language": "eng",
     "country": "uk",
@@ -169,32 +169,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A7FjWEoxfZfQRg",
     "name": "BBC News Europe",
     "iptv_urls": [
       "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5AawuunW60xBF5",
-    "name": "BBC News North America",
-    "iptv_urls": [
-      "https://fl31.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -244,17 +222,6 @@
     "name": "BBC Three HD",
     "iptv_urls": [
       "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1195,17 +1162,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "iptv_urls": [
-      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pApkFb67wcPTJl",
     "name": "Soviet Toons: Ну, погоди!",
     "iptv_urls": [],
@@ -1454,7 +1410,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C2fA5zG5pY8"
+      "https://www.youtube-nocookie.com/embed/u_9opnnfTb0"
     ],
     "language": "eng",
     "country": "uk",
@@ -1476,7 +1432,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jw10MTQTMfE"
+      "https://www.youtube-nocookie.com/embed/QbWdAOjx9Hs"
     ],
     "language": "eng",
     "country": "uk",

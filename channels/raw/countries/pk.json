@@ -166,17 +166,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F6sXz5Gj54UWsc",
-    "name": "Geo Tez (576i)",
-    "iptv_urls": [
-      "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DbIGwZ4APs3yxb",
     "name": "GNN",
     "iptv_urls": [],
@@ -470,7 +459,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5u-sBaog7wc"
+      "https://www.youtube-nocookie.com/embed/QFVubKBRVEs"
     ],
     "language": "sd",
     "country": "pk",

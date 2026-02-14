@@ -388,18 +388,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iVJvxARbpojOvm",
-    "name": "Disney Channel East",
-    "iptv_urls": [
-      "https://fl41.moveonjoy.com/DISNEY/index.m3u8",
-      "https://fl31.moveonjoy.com/DISNEY/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VJ5gw1qkZks4rp",
     "name": "Disney Channel: Big City Greens",
     "iptv_urls": [],
@@ -417,6 +405,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_HviSyC7zSU"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "agi7qzExsrlahY",
+    "name": "Disney Junior East",
+    "iptv_urls": [
+      "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -854,28 +853,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oGoNmU4wv4sJbW",
-    "name": "Nick Jr. East",
-    "iptv_urls": [
-      "https://fl31.moveonjoy.com/NICK_JR/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yfo1gJBb7MDFEI",
-    "name": "Nickelodeon",
-    "iptv_urls": [
-      "https://fl31.moveonjoy.com/NICKELODEON/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "iptv_urls": [],
@@ -1023,7 +1000,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5iHWlAJl2a0"
+      "https://www.youtube-nocookie.com/embed/LNVv8ylNxrk"
     ],
     "language": "por",
     "country": "br",
@@ -1200,17 +1177,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/jM5ca1QXZDY"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/by5wHH4AKFE"
     ],
     "language": "eng",
     "country": "us",
@@ -1418,6 +1384,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fg8Ci5rWERRdEL",
+    "name": "Unicorn Academy",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/b2RO2QlSbYA"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZAvkusD7l4cZyu",
     "name": "VTV",
     "iptv_urls": [
@@ -1455,7 +1432,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C2fA5zG5pY8"
+      "https://www.youtube-nocookie.com/embed/u_9opnnfTb0"
     ],
     "language": "eng",
     "country": "uk",
@@ -1477,7 +1454,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jw10MTQTMfE"
+      "https://www.youtube-nocookie.com/embed/QbWdAOjx9Hs"
     ],
     "language": "eng",
     "country": "uk",
@@ -1520,8 +1497,7 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1601,7 +1577,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/geIYVAtAAz0"
+      "https://www.youtube-nocookie.com/embed/OuQKwMFLV0A"
     ],
     "language": "zho",
     "country": "cn",

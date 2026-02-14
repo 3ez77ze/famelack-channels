@@ -157,6 +157,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -1116,17 +1129,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "96s3O8EKjuvxuK",
-    "name": "Tatlises TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "InVI6XNTBkTyM8",
     "name": "TBMM TV",
     "iptv_urls": [
@@ -1302,7 +1304,7 @@
       "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EvlMtGiuNE4"
+      "https://www.youtube-nocookie.com/embed/3XHebGJG0bc"
     ],
     "language": "tur",
     "country": "tr",

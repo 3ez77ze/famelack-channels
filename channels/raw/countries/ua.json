@@ -4,7 +4,7 @@
     "name": "5 канал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_iWHsHSSjSM"
+      "https://www.youtube-nocookie.com/embed/IXS8uQMwSbM"
     ],
     "language": "ukr",
     "country": "ua",
@@ -240,6 +240,17 @@
       "https://www.youtube-nocookie.com/embed/lnrp2S2L6qk"
     ],
     "language": "rus",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tke53J9UPinmCQ",
+    "name": "Телеканал Конкурент TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZU6S1OZedYo"
+    ],
+    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
