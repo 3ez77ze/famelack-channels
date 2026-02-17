@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/El6BsR0I4lQ"
+      "https://www.youtube-nocookie.com/embed/fKdNhc4lm3s"
     ],
     "language": "urd",
     "country": "pk",
@@ -166,6 +166,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F6sXz5Gj54UWsc",
+    "name": "Geo Tez (576i)",
+    "iptv_urls": [
+      "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DbIGwZ4APs3yxb",
     "name": "GNN",
     "iptv_urls": [],
@@ -217,28 +228,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v05zRUt0wtjOm3",
-    "name": "God Stands TV Hindi",
-    "iptv_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gmAnyp0vi78tWo",
-    "name": "God Stands TV Punjabi",
-    "iptv_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -324,7 +313,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qisl82jWEcw"
+      "https://www.youtube-nocookie.com/embed/Z4wcYrKrrKM"
     ],
     "language": "urd",
     "country": "pk",
@@ -338,17 +327,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LzPSde42sWQjeB",
-    "name": "KTN NEWS TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_fX7hJEQON0"
-    ],
-    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -451,17 +429,6 @@
       "https://www.youtube-nocookie.com/embed/Nh_qJClxWec"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cY2xwz2R3RaEd2",
-    "name": "Sindh TV News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aqbPR_gOzZI"
-    ],
-    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },

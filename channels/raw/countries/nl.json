@@ -436,6 +436,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nVpsvaBycf2VlN",
+    "name": "Omroep Lingewaard",
+    "iptv_urls": [
+      "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dRnsytBJsmGO6h",
     "name": "Omroep Súdwest",
     "iptv_urls": [

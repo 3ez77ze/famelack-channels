@@ -50,17 +50,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zUGGz2dbNzhVAw",
-    "name": "LRT Plius",
-    "iptv_urls": [
-      "https://stream-live.lrt.lt/plius/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "lit",
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KOfOkbRRfb8Nzi",
     "name": "LRT Radijas",
     "iptv_urls": [

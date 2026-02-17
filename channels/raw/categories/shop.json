@@ -88,14 +88,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
+    "nanoid": "BMO0FRe0mBVXUu",
+    "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ew5vm2F8krU"
+      "https://www.youtube-nocookie.com/embed/gklfjrxSo9A"
     ],
     "language": "eng",
-    "country": "uk",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -430,17 +430,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nfUMYUgBEhhJaP",
-    "name": "Lao SV TV",
-    "iptv_urls": [
-      "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -935,17 +924,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gh2TkRWTUyBId2",
-    "name": "Uniquely Thai",
-    "iptv_urls": [
-      "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4If9DGlBIwVH9j",
     "name": "W Shopping",
     "iptv_urls": [
@@ -976,6 +954,17 @@
     "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TBhcoycsD6U"
+    ],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

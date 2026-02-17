@@ -3,7 +3,7 @@
     "country": "Andorra",
     "capital": "Andorra la Vella",
     "timeZone": "Europe/Andorra",
-    "hasChannels": false
+    "hasChannels": true
   },
   "AE": {
     "country": "United Arab Emirates",
@@ -243,7 +243,7 @@
     "country": "Congo",
     "capital": "Brazzaville",
     "timeZone": "Africa/Brazzaville",
-    "hasChannels": false
+    "hasChannels": true
   },
   "CH": {
     "country": "Switzerland",
@@ -303,7 +303,7 @@
     "country": "Cape Verde",
     "capital": "Praia",
     "timeZone": "Atlantic/Cape_Verde",
-    "hasChannels": false
+    "hasChannels": true
   },
   "CW": {
     "country": "Curaçao",
@@ -357,7 +357,7 @@
     "country": "Algeria",
     "capital": "Algiers",
     "timeZone": "Africa/Algiers",
-    "hasChannels": true
+    "hasChannels": false
   },
   "EC": {
     "country": "Ecuador",
@@ -507,7 +507,7 @@
     "country": "Equatorial Guinea",
     "capital": "Malabo",
     "timeZone": "Africa/Malabo",
-    "hasChannels": false
+    "hasChannels": true
   },
   "GR": {
     "country": "Greece",

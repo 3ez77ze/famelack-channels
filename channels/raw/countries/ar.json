@@ -231,6 +231,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IMtD1PHBND4aSz",
+    "name": "Canal 6 ERTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fjoEhOkyODA"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RjGzeK99LgjrbF",
     "name": "Canal 6 Posadas",
     "iptv_urls": [
@@ -353,17 +364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "urMZ5Xb5qp5veO",
-    "name": "Canal 21 TV",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O7iLCv0ja7EK6w",
     "name": "Canal 22",
     "iptv_urls": [
@@ -392,6 +392,17 @@
     "name": "Canal 34 San Juan",
     "iptv_urls": [
       "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v7fuzMjUcfiKGk",
+    "name": "Canal 79 La Costa",
+    "iptv_urls": [
+      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -511,6 +522,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
@@ -570,7 +592,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cZSdw3oZQAE"
+      "https://www.youtube-nocookie.com/embed/pdNS-dNdQrQ"
     ],
     "language": "spa",
     "country": "ar",
@@ -692,6 +714,17 @@
     "name": "Magic Kids",
     "iptv_urls": [
       "https://magicstream.ddns.net/magicstream/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tIBnek0TFb4DRl",
+    "name": "Más FM 95.9",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -924,7 +957,7 @@
     "name": "Telediario Digital",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6BWv7UzSZjo"
+      "https://www.youtube-nocookie.com/embed/urojJqU1kOA"
     ],
     "language": "spa",
     "country": "ar",
@@ -968,7 +1001,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zLbnOEqFCH0"
+      "https://www.youtube-nocookie.com/embed/ygQLpzZnwHc"
     ],
     "language": "spa",
     "country": "ar",
@@ -1057,7 +1090,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x6lAr3qiZ9w"
+      "https://www.youtube-nocookie.com/embed/Nzy2cAbln1k"
     ],
     "language": "spa",
     "country": "ar",
