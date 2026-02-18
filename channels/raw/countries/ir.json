@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "CvmbQC914eDeza",
+    "name": "Abadan",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rNgc6paK8PR7Gl",
     "name": "Abalfadhl TV",
     "iptv_urls": [
@@ -434,6 +445,17 @@
     "name": "IRIB4",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eV9XUNLY5C5Xiv",
+    "name": "IRIB5 Tehran TV",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",

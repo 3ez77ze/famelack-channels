@@ -233,18 +233,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QFKHFoExvGyTwt",
-    "name": "Cartoon Network",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MrCuTpTveWo",
-      "https://www.youtube-nocookie.com/embed/uZc9VKf9XPQ"
-    ],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cjno9NJJ87yGNT",
     "name": "Cartoon Network Asia",
     "iptv_urls": [],
@@ -632,17 +620,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z4wcYrKrrKM"
-    ],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "iptv_urls": [
@@ -978,7 +955,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OftLgFasd58"
+      "https://www.youtube-nocookie.com/embed/zqrm_Ammk2A"
     ],
     "language": "por",
     "country": "br",
@@ -1048,6 +1025,17 @@
     ],
     "language": "kor",
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KVsjP0kIbz2vIV",
+    "name": "QTV-6",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -1202,6 +1190,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m5MgU7qKVzOReb",
+    "name": "The Smurfs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UCFMzV2k5_w"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1395,6 +1394,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "at7QYcug7oV0tu",
+    "name": "WildBrain Max: LEGO",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HeXrYFbLUoY"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "he2lOUztjAzsDr",
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
@@ -1511,8 +1521,7 @@
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "iptv_urls": [
-      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
-      "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
+      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "bak",
@@ -1524,7 +1533,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vCTomlae8ao"
+      "https://www.youtube-nocookie.com/embed/VbsmpOGgAF8"
     ],
     "language": "zho",
     "country": "cn",

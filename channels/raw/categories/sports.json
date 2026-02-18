@@ -111,17 +111,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pHGRN6No5y3yuk",
-    "name": "Alkass Three",
-    "iptv_urls": [
-      "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "iptv_urls": [
@@ -249,7 +238,8 @@
     "name": "DD Sports SD",
     "iptv_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -342,17 +332,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4r0QKfGoGD09Z7",
-    "name": "FTV",
-    "iptv_urls": [
-      "https://master.tucableip.com/ftvhd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -487,17 +466,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RFeb11iCYGMUEw",
-    "name": "ItalianFishingTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AW2I1N5PRxU"
-    ],
-    "language": "ita",
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1149,6 +1117,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {

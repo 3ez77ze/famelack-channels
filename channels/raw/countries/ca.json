@@ -48,7 +48,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yuTndFfRFQY"
+      "https://www.youtube-nocookie.com/embed/RQztYHYVPN8"
     ],
     "language": "eng",
     "country": "ca",
@@ -490,17 +490,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sKpGu4p0lFyUMb",
-    "name": "Legislative Assembly of British Columbia Committee A",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
@@ -589,17 +578,6 @@
       "https://www.youtube-nocookie.com/embed/4K8T_abbn8w"
     ],
     "language": "en",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XLkNES6kyKfJ4o",
-    "name": "Montreal Greek TV",
-    "iptv_urls": [
-      "https://live.greektv.ca/hls1/greektv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
     "country": "ca",
     "isGeoBlocked": false
   },

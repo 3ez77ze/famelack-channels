@@ -4,7 +4,7 @@
     "name": "Alikhbaria Syria",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8ifjRA3Crvw"
+      "https://www.youtube-nocookie.com/embed/SFrsxUDxrqc"
     ],
     "language": "ara",
     "country": "sy",
@@ -22,24 +22,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nJ79SnxhmuyaOZ",
-    "name": "Damascus Radio",
-    "iptv_urls": [
-      "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "sy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zb4yx0Hhhjqp7h",
     "name": "Halab Today TV",
     "iptv_urls": [
       "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8udkf35KFxs"
+      "https://www.youtube-nocookie.com/embed/W7K657DrqEM"
     ],
     "language": "ara",
     "country": "sy",

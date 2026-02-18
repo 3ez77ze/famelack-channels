@@ -125,7 +125,7 @@
     "name": "Banijay History: Secrets They Tried to Bury",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-qhrhHA_y6Y"
+      "https://www.youtube-nocookie.com/embed/o_wD81IU-w4"
     ],
     "language": "eng",
     "country": "uk",
@@ -312,6 +312,17 @@
       "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qFvRLYDETWTBst",
+    "name": "Cartoon Network",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uZc9VKf9XPQ"
+    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1435,6 +1446,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "at7QYcug7oV0tu",
+    "name": "WildBrain Max: LEGO",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HeXrYFbLUoY"
+    ],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },

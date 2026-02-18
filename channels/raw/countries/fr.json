@@ -264,6 +264,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "em6QeVMfYDr0B0",
+    "name": "BFM Grands Reportages",
+    "iptv_urls": [
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?end=END&start=LIVE"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QdwgxpSy3GxyBy",
     "name": "BFM Lyon",
     "iptv_urls": [
@@ -408,6 +419,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x74kBxlCSA3rr8",
+    "name": "Enquetes de Choc",
+    "iptv_urls": [
+      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "iptv_urls": [],
@@ -419,12 +441,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vyAlDaoF9WU1Q1",
+    "nanoid": "g4VnkSt3v2F081",
     "name": "Euronews English",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -613,17 +632,6 @@
     "name": "FilmRise Les Routes du Paradis",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Zd309NMpvaOGV5",
-    "name": "FilmRise Séries France",
-    "iptv_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1401,8 +1409,7 @@
     "nanoid": "PddVv4O37Tx5Us",
     "name": "Sony One Series Comedie",
     "iptv_urls": [
-      "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
-      "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8"
+      "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

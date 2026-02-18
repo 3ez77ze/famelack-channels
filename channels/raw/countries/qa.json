@@ -157,17 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pHGRN6No5y3yuk",
-    "name": "Alkass Three",
-    "iptv_urls": [
-      "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K2pY7DHGd3QmlJ",
     "name": "Libya Al Ahrar TV",
     "iptv_urls": [

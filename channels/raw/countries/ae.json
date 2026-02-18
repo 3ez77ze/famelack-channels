@@ -189,18 +189,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QFKHFoExvGyTwt",
-    "name": "Cartoon Network",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MrCuTpTveWo",
-      "https://www.youtube-nocookie.com/embed/uZc9VKf9XPQ"
-    ],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rVlkWuhkPTSNkw",
     "name": "Cartoonito MENA",
     "iptv_urls": [],
@@ -285,17 +273,6 @@
     ],
     "youtube_urls": [],
     "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tjO1W5XivBV60a",
-    "name": "Nour TV",
-    "iptv_urls": [
-      "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
     "country": "ae",
     "isGeoBlocked": false
   },

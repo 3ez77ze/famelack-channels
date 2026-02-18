@@ -89,17 +89,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFiAYQi0p17BXu",
     "name": "ATXN3",
     "iptv_urls": [
@@ -229,7 +218,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/km2KPWxXW60"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -272,6 +263,7 @@
     "name": "DD Bharati",
     "iptv_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
+      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -285,7 +277,6 @@
     "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
     "iptv_urls": [
-      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
     ],
     "youtube_urls": [
@@ -464,17 +455,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -666,25 +646,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XLkNES6kyKfJ4o",
-    "name": "Montreal Greek TV",
+    "nanoid": "q666a4s6CEkDLb",
+    "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
     "iptv_urls": [
-      "https://live.greektv.ca/hls1/greektv.m3u8"
+      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ell",
-    "country": "ca",
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1wMsK4nhJMBFCb",
-    "name": "MRTV NRC",
+    "nanoid": "2CPdO0yBLh4XGP",
+    "name": "Midpen Media Center Diversity and Culture Channel 75",
     "iptv_urls": [
-      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
+      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1028,6 +1008,17 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAUF947AFuFdtH",
+    "name": "Vĩnh Long TV5",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {

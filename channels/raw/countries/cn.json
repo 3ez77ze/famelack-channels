@@ -193,6 +193,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f1nxbKF3lgdEIT",
+    "name": "Harbin Comprehensive News Channel",
+    "iptv_urls": [
+      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DmRj3yhamAblyQ",
     "name": "Hunan TV",
     "iptv_urls": [
@@ -252,6 +263,17 @@
     "name": "QTV-5",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KVsjP0kIbz2vIV",
+    "name": "QTV-6",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -447,17 +469,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G8jMlVl14mEiZk",
-    "name": "宿州公共",
-    "iptv_urls": [
-      "https://live.ahsz.tv/video/s10001-ggpd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LhzYAfOxktXLl3",
     "name": "宿州新闻综合",
     "iptv_urls": [
@@ -484,7 +495,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vCTomlae8ao"
+      "https://www.youtube-nocookie.com/embed/VbsmpOGgAF8"
     ],
     "language": "zho",
     "country": "cn",

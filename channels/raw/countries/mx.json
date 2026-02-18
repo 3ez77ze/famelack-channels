@@ -66,28 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z9NmlAa4TNcIbD",
     "name": "BAMOS TV",
     "iptv_urls": [
@@ -114,17 +92,6 @@
     "name": "Canal 10 Chiapas",
     "iptv_urls": [
       "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1FGdyXp2FzRogD",
-    "name": "Canal 15 ILCE Summa Sabres",
-    "iptv_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -169,6 +136,17 @@
     "name": "Canal 44 Chihuahua",
     "iptv_urls": [
       "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YMJ8tPm6cmA4FF",
+    "name": "Canal 44 Ciudad Juárez",
+    "iptv_urls": [
+      "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -347,7 +325,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HT6XsM8ZsK4"
+      "https://www.youtube-nocookie.com/embed/ANR3woAEDqg"
     ],
     "language": "spa",
     "country": "mx",
@@ -391,6 +369,17 @@
     "name": "Justicia TV",
     "iptv_urls": [
       "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sGZGN77ULu3I6y",
+    "name": "Lobo TV",
+    "iptv_urls": [
+      "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -457,19 +446,8 @@
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NYU9bwpn3Yw"
+      "https://www.youtube-nocookie.com/embed/TmVWLSEIqxQ"
     ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "58rlKy9eXNIQTh",
-    "name": "Notigram TV (XHFGL-TDT)",
-    "iptv_urls": [
-      "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -810,7 +788,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8CSObFHnH5M"
+      "https://www.youtube-nocookie.com/embed/G6wTxr0_DsI"
     ],
     "language": "spa",
     "country": "mx",
@@ -821,7 +799,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wIWG5Gf6i0E"
+      "https://www.youtube-nocookie.com/embed/5hrxBftiITA"
     ],
     "language": "spa",
     "country": "mx",
@@ -843,7 +821,7 @@
     "name": "Televisa Querétaro",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/av4A6aNXnRA"
+      "https://www.youtube-nocookie.com/embed/lo7150UgZ4c"
     ],
     "language": "spa",
     "country": "mx",
@@ -975,6 +953,17 @@
     "name": "TV Cuatro 4.2",
     "iptv_urls": [
       "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "06BfITicbfdcVY",
+    "name": "TV Lobo Durango",
+    "iptv_urls": [
+      "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1118,17 +1107,6 @@
     "name": "UMTV",
     "iptv_urls": [
       "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "iptv_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

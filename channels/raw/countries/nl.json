@@ -1075,17 +1075,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MOoTHhVYsb8MlG",
-    "name": "Tweede Kamer: Plenaire zaal",
-    "iptv_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rB1O4Lh7x5fa2y",
     "name": "Tweede Kamer: Suze Groenewegzaal",
     "iptv_urls": [

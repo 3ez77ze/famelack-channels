@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "WMJjDsAiyYAdS8",
-    "name": "ATN Televisión",
-    "iptv_urls": [
-      "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
     "iptv_urls": [
@@ -60,18 +49,6 @@
     "name": "Canal 2 Alpavisión Neiva",
     "iptv_urls": [
       "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WwkDGrZMJxcaPL",
-    "name": "Canal 8 TV+",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/canal8tv.m3u8",
-      "https://video.ejeserver.com/live/canal8tv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -154,17 +131,6 @@
       "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e29jn80x7K7M0D",
-    "name": "CityTv",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mJ0y59mwJOU"
-    ],
     "language": "spa",
     "country": "co",
     "isGeoBlocked": false
@@ -437,32 +403,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iEaQZyuCD9tKa4",
-    "name": "Red+",
-    "iptv_urls": [
-      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JcWgUdRfwM6UkT",
     "name": "Reyali",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8090/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

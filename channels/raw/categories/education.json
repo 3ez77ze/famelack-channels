@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZQE8Kkj7LLaHHY",
+    "name": "BVG",
+    "iptv_urls": [
+      "https://mumt05.tangotv.in/BVG/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -85,17 +96,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1FGdyXp2FzRogD",
-    "name": "Canal 15 ILCE Summa Sabres",
-    "iptv_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -126,7 +126,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/km2KPWxXW60"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -213,6 +215,7 @@
     "name": "DD Kisan HD",
     "iptv_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8",
+      "https://mumt04.tangotv.in/DDKISAN/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
@@ -629,6 +632,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KGiWQ62o6Np82a",
+    "name": "Midpen Media Center Youth Education and Sports Channel 28",
+    "iptv_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a5pCHJNR4Ar34s",
     "name": "Mobile County Public Schools TV Network (MCPSS)",
     "iptv_urls": [
@@ -714,6 +728,17 @@
     "youtube_urls": [],
     "language": "kor",
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qHPud6QAjClK6g",
+    "name": "Palestine Edu",
+    "iptv_urls": [
+      "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ps",
     "isGeoBlocked": false
   },
   {
@@ -1059,17 +1084,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "iptv_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "UNISUL TV",
     "iptv_urls": [
@@ -1087,7 +1101,7 @@
       "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F62HienGQKs"
+      "https://www.youtube-nocookie.com/embed/guiHVhRhLBQ"
     ],
     "language": "tur",
     "country": "tr",

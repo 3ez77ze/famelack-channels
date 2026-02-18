@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "7G6TKaBuir2YYY",
-    "name": "América Estéreo Quito",
-    "iptv_urls": [
-      "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "iptv_urls": [
@@ -147,6 +136,17 @@
     "name": "FM Mundo",
     "iptv_urls": [
       "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c3zaL7CKyoj6u1",
+    "name": "Gamavisión",
+    "iptv_urls": [
+      "https://stream.esradioecuador.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

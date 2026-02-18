@@ -307,7 +307,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/km2KPWxXW60"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -319,6 +321,17 @@
       "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
     ],
     "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ZXjzA9WC4UY7k",
+    "name": "Çocuklar Duymasın",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0ssruai4Oek"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1136,9 +1149,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d8eKK1FtTF1DmW",
+    "nanoid": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://canli.tgrthaber.com/tgrt.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i3qzt2P79A4"
     ],
@@ -1384,6 +1399,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8UTFNpq46IxrH2",
+    "name": "TV Den",
+    "iptv_urls": [
+      "https://canli.tvden.com.tr/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OIvcwYgKcH6Zff",
     "name": "TV4",
     "iptv_urls": [
@@ -1467,7 +1493,7 @@
       "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F62HienGQKs"
+      "https://www.youtube-nocookie.com/embed/guiHVhRhLBQ"
     ],
     "language": "tur",
     "country": "tr",

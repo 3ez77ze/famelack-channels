@@ -231,6 +231,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3kvMeRQNc7yJgV",
     "name": "World of Love Island",
     "iptv_urls": [
