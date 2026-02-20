@@ -496,17 +496,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "R8E994mqmmDshs",
     "name": "Italian Fishing TV",
     "iptv_urls": [
@@ -609,6 +598,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QUgozEv0vZrkjK",
+    "name": "Lira TV",
+    "iptv_urls": [
+      "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i0LMH6v3VomKrm",
     "name": "Luna TV",
     "iptv_urls": [
@@ -682,17 +682,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -880,6 +869,17 @@
     "name": "Radio Ibiza TV",
     "iptv_urls": [
       "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1vFqQwnHb55YkM",
+    "name": "Radio Iglesias Sardegna",
+    "iptv_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1320,17 +1320,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TapdG3gwdyMX3z",
-    "name": "Taurianova TV",
-    "iptv_urls": [
-      "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mzkD1KJ9Z1iIYV",
     "name": "Tele Liguria Sud",
     "iptv_urls": [
@@ -1368,17 +1357,6 @@
     "name": "TeleArena",
     "iptv_urls": [
       "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SQb9dZl1pOj0A0",
-    "name": "Telecolor Lombardia",
-    "iptv_urls": [
-      "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

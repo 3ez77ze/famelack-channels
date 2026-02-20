@@ -194,6 +194,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xEQPATgrEtFIdJ",
+    "name": "Cosmovision",
+    "iptv_urls": [
+      "https://videohls2.cosmovision.tv/hls/sd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DwSLx6TiuTvrUw",
     "name": "Cúcuta Retro TV",
     "iptv_urls": [
@@ -298,6 +309,17 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/masmusica.m3u8",
       "https://video.ejeserver.com/live/masmusica.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fG091FxoA2NCwZ",
+    "name": "MCI Televisión",
+    "iptv_urls": [
+      "https://video.ejeserver.com/live/mcitelevision.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -437,6 +459,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iEaQZyuCD9tKa4",
+    "name": "Red+",
+    "iptv_urls": [
+      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JcWgUdRfwM6UkT",
     "name": "Reyali",
     "iptv_urls": [
@@ -486,17 +519,6 @@
     "name": "Teleislas",
     "iptv_urls": [
       "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z2Kgz7MRBRZ3FM",
-    "name": "Telepacífico",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

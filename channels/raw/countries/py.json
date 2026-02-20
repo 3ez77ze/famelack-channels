@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yjn0fCt96jnweK",
-    "name": "República TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZvkiWYEeuwp6wf",
     "name": "Suceso TV",
     "iptv_urls": [
@@ -110,10 +99,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ASrUvdpVK7ci3L",
-    "name": "UnionTV",
+    "nanoid": "znjpw6R2dQyTRH",
+    "name": "TelePortal Canal 53.1",
     "iptv_urls": [
-      "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

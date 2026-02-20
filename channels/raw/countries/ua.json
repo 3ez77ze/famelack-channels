@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "iptv_urls": [
+      "https://avers.pp.ua/hls/efir.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
@@ -62,18 +73,6 @@
     ],
     "youtube_urls": [],
     "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iK2kLMwkLCeU8A",
-    "name": "Freedom (FREEДOM) (UATV)",
-    "iptv_urls": [
-      "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-      "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -173,6 +172,17 @@
     ],
     "youtube_urls": [],
     "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8guglX3waEEweH",
+    "name": "Луганск 24",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },

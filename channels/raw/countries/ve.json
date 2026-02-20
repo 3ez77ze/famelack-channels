@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fUuKAKoxR67afP",
+    "name": "Canal Once",
+    "iptv_urls": [
+      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6SYW2B8xTfiTLL",
     "name": "Catatumbo TV",
     "iptv_urls": [
@@ -92,6 +103,17 @@
     "name": "GlobalTV",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -231,10 +253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWg7qzmsLufJ67",
-    "name": "Telecentro",
+    "nanoid": "Hf8hQXiCJxWSk6",
+    "name": "Somos TV",
     "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
+      "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -242,10 +264,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWlY6DCrbQlbH1",
-    "name": "Telecolor",
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
     "iptv_urls": [
-      "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
+      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
+      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWg7qzmsLufJ67",
+    "name": "Telecentro",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -378,17 +412,6 @@
     "name": "UniTV",
     "iptv_urls": [
       "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8kq1Mm3sZqGDrk",
-    "name": "Vale TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

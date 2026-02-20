@@ -34,17 +34,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/99QSfxkm9wQ"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5fsuYuCG8ydAtN",
     "name": "Bigtime",
     "iptv_urls": [
@@ -181,7 +170,7 @@
     "name": "Kapitan Bomba",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C-YUX51R6sI"
+      "https://www.youtube-nocookie.com/embed/KofHODzcrPQ"
     ],
     "language": "pol",
     "country": "pl",
@@ -359,7 +348,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C6afhbka2RE"
+      "https://www.youtube-nocookie.com/embed/6vQokzwyF2s"
     ],
     "language": "pol",
     "country": "pl",

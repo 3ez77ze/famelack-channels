@@ -22,10 +22,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
+    "nanoid": "H8TtlIKgrW2bwo",
+    "name": "Antena Seis TV",
     "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
+    "iptv_urls": [
+      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -169,7 +191,7 @@
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UF9ohekb_k0"
+      "https://www.youtube-nocookie.com/embed/nFjCX7ccpN4"
     ],
     "language": "spa",
     "country": "cr",
@@ -224,17 +246,6 @@
     "name": "RTV Chirripó",
     "iptv_urls": [
       "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "iptv_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

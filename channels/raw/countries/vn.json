@@ -3,7 +3,6 @@
     "nanoid": "QA1BHMxRwKgdpS",
     "name": "ANTV",
     "iptv_urls": [
-      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -34,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S9KVQ5ABQqb8sk",
-    "name": "Cần Thơ TV3",
-    "iptv_urls": [
-      "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fvs6m8m7Orxhly",
     "name": "Cao Bằng TV",
     "iptv_urls": [
@@ -63,6 +51,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VCFZo6dbs3n20W",
+    "name": "DGV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8hw0rpsDJN8"
+    ],
+    "language": "vie",
     "country": "vn",
     "isGeoBlocked": false
   },
@@ -127,6 +126,7 @@
     "nanoid": "MO8deGVLY2zQ9f",
     "name": "HanoiTV2",
     "iptv_urls": [
+      "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -146,17 +146,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GV38pwWqigwkoF",
-    "name": "HTV Thể thao",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wqpn5BkjeaQlSh",
     "name": "HTV7 HD",
     "iptv_urls": [
@@ -164,28 +153,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HhEtp833yJrL6d",
-    "name": "HTV9 HD",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "txSXswRPQcmTpz",
-    "name": "Huế TV",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
     "country": "vn",
     "isGeoBlocked": false
   },
@@ -305,6 +272,17 @@
     "name": "Thái Nguyên TV",
     "iptv_urls": [
       "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gh2TkRWTUyBId2",
+    "name": "Uniquely Thai",
+    "iptv_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",

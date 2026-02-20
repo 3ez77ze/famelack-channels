@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4IxBqGTmogAaSR",
+    "name": "Teletur",
+    "iptv_urls": [
+      "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fwm1YJJu2dW30c",
     "name": "Travel TV",
     "iptv_urls": [

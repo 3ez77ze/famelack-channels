@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hXSVel2RLkc"
+      "https://www.youtube-nocookie.com/embed/VPvtEeh0kJI"
     ],
     "language": "urd",
     "country": "pk",
@@ -353,6 +353,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LzPSde42sWQjeB",
+    "name": "KTN NEWS TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/KZKpoUKlAXU"
+    ],
+    "language": "sd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ey0C6dKSzvDUaH",
     "name": "Lahore News",
     "iptv_urls": [
@@ -386,11 +397,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cdCHTYSuvWneRq",
+    "nanoid": "XNoYUMV4eTzrsQ",
     "name": "Madani Channel Urdu",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+    ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/c5bZrhCn4jM"
+      "https://www.youtube-nocookie.com/embed/9RVLs19fuf8"
     ],
     "language": "urd",
     "country": "pk",
@@ -457,7 +470,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Mllclhh5OSU"
+      "https://www.youtube-nocookie.com/embed/CtzCNaYV2jQ"
     ],
     "language": "sd",
     "country": "pk",

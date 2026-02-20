@@ -86,5 +86,16 @@
     "language": "rus",
     "country": "kz",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "APCyUHitJGQfWl",
+    "name": "МТРК",
+    "iptv_urls": [
+      "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "kz",
+    "isGeoBlocked": false
   }
 ]

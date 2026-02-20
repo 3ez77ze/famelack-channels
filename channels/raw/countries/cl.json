@@ -297,6 +297,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LtuGw8CUEvQRPo",
+    "name": "La Popular TV",
+    "iptv_urls": [
+      "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O37bey4UFDgp1Q",
     "name": "Latina Network TV (576i)",
     "iptv_urls": [
@@ -312,7 +323,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PFiKcsVV1Xo"
+      "https://www.youtube-nocookie.com/embed/mHhcAWRk3z4"
     ],
     "language": "spa",
     "country": "cl",
@@ -443,17 +454,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ap4jlb2z9FPcau",
-    "name": "T-Vinet",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jngXF7oLunOTve",
     "name": "T13",
     "iptv_urls": [],
@@ -498,11 +498,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8fkAASWc8aexqU",
-    "name": "Thema Televisión (La Serena)",
+    "nanoid": "k0nYFEHOKnqOiZ",
+    "name": "TNE",
     "iptv_urls": [
-      "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8"
+      "https://v2.tustreaming.cl/tnetv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -510,10 +509,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k0nYFEHOKnqOiZ",
-    "name": "TNE",
+    "nanoid": "aE41LbUT8Fnd7w",
+    "name": "Turf Movil",
     "iptv_urls": [
-      "https://v2.tustreaming.cl/tnetv/index.m3u8"
+      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -543,17 +542,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hOfMwcYwkqMasz",
-    "name": "TV UCT",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MiDzldTeOOzM8X",
     "name": "TVN3",
     "iptv_urls": [
@@ -576,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HeeVS1iRWuDC3B",
-    "name": "TVR",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nuyqJYod1qzetj",
     "name": "TVU Concepción",
     "iptv_urls": [
@@ -598,10 +575,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
+    "nanoid": "L90TWymzbjAtJm",
+    "name": "UCV TV",
     "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
+      "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -609,10 +586,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L90TWymzbjAtJm",
-    "name": "UCV TV",
+    "nanoid": "hXEWMB7iS10u9K",
+    "name": "UESTV",
     "iptv_urls": [
-      "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+      "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
