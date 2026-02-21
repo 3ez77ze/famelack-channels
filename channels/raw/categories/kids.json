@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgspbzPRaIJYXi",
-    "name": "ADO TV",
-    "iptv_urls": [
-      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "iptv_urls": [
@@ -554,17 +543,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6SheLgxyW9E"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "iptv_urls": [],
@@ -978,7 +956,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iBr5gcqDr3A"
+      "https://www.youtube-nocookie.com/embed/GMgnifWz8wI"
     ],
     "language": "por",
     "country": "br",
@@ -993,6 +971,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YQjVrcxLsl4KlI",
+    "name": "Pingvīns",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "lav",
+    "country": "lv",
     "isGeoBlocked": false
   },
   {
@@ -1431,8 +1420,7 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1512,7 +1500,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QzV0fiQHRFg"
+      "https://www.youtube-nocookie.com/embed/e8jdb6TY1Mg"
     ],
     "language": "zho",
     "country": "cn",

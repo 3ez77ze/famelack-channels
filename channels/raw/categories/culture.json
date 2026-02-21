@@ -285,7 +285,6 @@
     "name": "DD Bharati",
     "iptv_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
-      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -478,6 +477,17 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8BTaahrpIJaruI",
+    "name": "GipsyTv Wien",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9t0AcFItB3M"
+    ],
+    "language": "rom",
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -1053,6 +1063,17 @@
     "youtube_urls": [],
     "language": "",
     "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oNFu9DPCaWFslY",
+    "name": "Yemen Shabab Channel",
+    "iptv_urls": [
+      "https://starmenajo.com/hls/yemenshabab/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ye",
     "isGeoBlocked": false
   },
   {

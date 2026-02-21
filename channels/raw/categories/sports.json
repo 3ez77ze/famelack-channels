@@ -78,17 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgspbzPRaIJYXi",
-    "name": "ADO TV",
-    "iptv_urls": [
-      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "63DdsZA7YycDuJ",
     "name": "Adventure Sports TV",
     "iptv_urls": [
@@ -447,6 +436,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "iptv_urls": [
@@ -598,6 +598,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "iptv_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -791,17 +802,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DlnA3363JGvPGt",
     "name": "RightNow TV",
     "iptv_urls": [
@@ -895,6 +895,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TnYj2ZiJkibGxp",
+    "name": "Suspilne. Sport",
+    "iptv_urls": [
+      "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WY8xpPtdqP8OfL",
     "name": "Swerve Combat",
     "iptv_urls": [
@@ -962,6 +973,17 @@
     ],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MF8dCK1EmeF821",
+    "name": "Tour Spot TV",
+    "iptv_urls": [
+      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1091,17 +1113,6 @@
     "name": "TVS Turbo",
     "iptv_urls": [
       "https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "iptv_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

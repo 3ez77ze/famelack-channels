@@ -74,7 +74,7 @@
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-bwYlUQNd0"
+      "https://www.youtube-nocookie.com/embed/FKr2RZlcW3M"
     ],
     "language": "spa",
     "country": "es",
@@ -618,7 +618,7 @@
     "name": "El Futuro En tu Mano",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gGQCwg6XyaE"
+      "https://www.youtube-nocookie.com/embed/v-bfXaQcIKA"
     ],
     "language": "spa",
     "country": "es",
@@ -824,17 +824,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GHi6V9VFxBsZxp",
     "name": "Lancelot TV",
     "iptv_urls": [
@@ -908,6 +897,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b40h4AD6T0D0Za",
+    "name": "M95 Televisión Marbella",
+    "iptv_urls": [
+      "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1253,6 +1253,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EaeTZ1F3YbDKxk",
+    "name": "Rakuten TV Drama Movies Germany",
+    "iptv_urls": [
+      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CkXWZHW3kHwT7c",
     "name": "Rakuten TV Drama Movies Italy",
     "iptv_urls": [
@@ -1286,6 +1297,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hfwTzzqbXODdPh",
+    "name": "Rakuten TV Family Movies Finland",
+    "iptv_urls": [
+      "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "47gMxXtvKDDhIZ",
     "name": "Rakuten TV Family Movies Germany",
     "iptv_urls": [
@@ -1297,6 +1319,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GM8ISh0gwWKywf",
+    "name": "Rakuten TV Family Movies Italy",
+    "iptv_urls": [
+      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "urCoNCEQ0JVzsM",
     "name": "Rakuten TV Family Movies Spain",
     "iptv_urls": [
@@ -1304,6 +1337,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CSJ9U3CaF9Bkyz",
+    "name": "Rakuten TV Family Movies UK",
+    "iptv_urls": [
+      "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1578,17 +1622,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/d1fgkjW9TP4"
     ],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xRegMZSkKkDbP5",
-    "name": "TeleVigo",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false

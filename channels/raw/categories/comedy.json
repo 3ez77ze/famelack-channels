@@ -55,6 +55,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Iv7qvCNAFClLRJ",
+    "name": "alpha Funny",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zDrvFUZTP4zt2k",
+    "name": "alpha Moretime",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OoTZbjtjjfRPgJ",
     "name": "Camera Smile",
     "iptv_urls": [
@@ -264,17 +286,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HsKOyRnPINY"
-    ],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {

@@ -154,6 +154,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QoND2rPdsKKROr",
+    "name": "Assirat TV",
+    "iptv_urls": [
+      "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7IAAjOwAYELwdi",
     "name": "Atrina TV",
     "iptv_urls": [
@@ -533,6 +544,17 @@
     "name": "Lenz Film",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lhK9hoM9IE8H36",
+    "name": "Mazandaran TV",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",

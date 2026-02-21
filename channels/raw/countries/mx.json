@@ -88,28 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
-    "iptv_urls": [
-      "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GYpj19hD6m2qFh",
-    "name": "California Medios TV",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "iptv_urls": [
@@ -348,17 +326,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vEbucNjtWq8"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5lhODGYtGp6nxK",
-    "name": "ImagenTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zAoTkzRuIMM"
     ],
     "language": "spa",
     "country": "mx",
@@ -629,17 +596,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "inKpcU1CFpY4af",
-    "name": "SIPSE TV 8.1",
-    "iptv_urls": [
-      "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bqZG2nHHXJFyOO",
     "name": "SIPSE TVCUN 8.1",
     "iptv_urls": [
@@ -673,17 +629,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ejJFGypGVZEjkg",
-    "name": "SQCS Canal 4",
-    "iptv_urls": [
-      "https://video0.rogohosting.com:19360/4982/4982.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bWHBTSEbyYf27m",
     "name": "Super Channel 12",
     "iptv_urls": [
@@ -699,17 +644,6 @@
     "name": "Tele Saltillo",
     "iptv_urls": [
       "https://servilive.com:3879/live/telesaltillolive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
-    "iptv_urls": [
-      "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -766,7 +700,7 @@
     "name": "Televisa Ciudad Juarez",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eGA91zCR8Hw"
+      "https://www.youtube-nocookie.com/embed/qO-ZoOj7Uhw"
     ],
     "language": "spa",
     "country": "mx",
@@ -821,7 +755,7 @@
     "name": "Televisa Laguna",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YN28FzbacNM"
+      "https://www.youtube-nocookie.com/embed/ouEqDfTVOIs"
     ],
     "language": "spa",
     "country": "mx",
@@ -832,7 +766,7 @@
     "name": "Televisa Mexicali",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xgRPZuQ7Ttk"
+      "https://www.youtube-nocookie.com/embed/x25SicnYvRQ"
     ],
     "language": "spa",
     "country": "mx",
@@ -843,7 +777,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pGVFbbwkYEg"
+      "https://www.youtube-nocookie.com/embed/sD60pd--ogQ"
     ],
     "language": "spa",
     "country": "mx",
@@ -854,7 +788,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-7Gh_QKKrKU"
+      "https://www.youtube-nocookie.com/embed/VU6LZ0W9R3Q"
     ],
     "language": "spa",
     "country": "mx",
@@ -1206,17 +1140,6 @@
     "name": "Visión Televisión",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HLRdcloMEfvKBn",
-    "name": "ZAZ",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

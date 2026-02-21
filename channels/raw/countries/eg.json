@@ -33,6 +33,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "04YQOwGjlPDoED",
+    "name": "CBC",
+    "iptv_urls": [
+      "https://flu.systemnet.tv/CBC/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zoD3keVMWTtYmW",
+    "name": "CBC Drama",
+    "iptv_urls": [
+      "https://flu.systemnet.tv/CBCDrama/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jZw9YHBZUmekhk",
+    "name": "CBC Sofra",
+    "iptv_urls": [
+      "https://flu.systemnet.tv/CBCSofra/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSBCv9wMIeHZkP",
     "name": "El Radio 9090 FM",
     "iptv_urls": [

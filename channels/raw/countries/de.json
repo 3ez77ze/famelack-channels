@@ -415,17 +415,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dikaN7zl5U7F3z",
-    "name": "Erz-TV Stollberg",
-    "iptv_urls": [
-      "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W9Bp7ViyOHjoax",
     "name": "EWTN Germany",
     "iptv_urls": [
@@ -508,7 +497,7 @@
     "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YvCFEDnLyQ0"
+      "https://www.youtube-nocookie.com/embed/52ya4BMcr5U"
     ],
     "language": "deu",
     "country": "de",
@@ -649,22 +638,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NVz2ZnKyBDLvrQ",
-    "name": "kabel eins",
-    "iptv_urls": [
-      "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BwAEx0LmqBTmqp",
     "name": "Kanal 9 Erzgebirge",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H1DL8b1XgwM"
+      "https://www.youtube-nocookie.com/embed/WKicBjPls3g"
     ],
     "language": "deu",
     "country": "de",
@@ -709,17 +687,6 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "iptv_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -901,6 +868,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PQjvxCMQb79j7r",
+    "name": "Nürburgring",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zv7eeqI95EU"
+    ],
+    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1187,28 +1165,6 @@
     "iptv_urls": [
       "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
       "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5GZMPi9AV9upaO",
-    "name": "Saarland Fernsehen 1",
-    "iptv_urls": [
-      "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fUPLgxn46ADnP7",
-    "name": "Saarland Fernsehen 2",
-    "iptv_urls": [
-      "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

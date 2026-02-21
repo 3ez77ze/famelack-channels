@@ -154,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4ghiPmfhBHh5Ly",
-    "name": "IasiTV Life",
-    "iptv_urls": [
-      "https://tv.streambox.ro/hls/itv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nbZMDeOIAOPG4m",
     "name": "Impact TV Dance",
     "iptv_urls": [

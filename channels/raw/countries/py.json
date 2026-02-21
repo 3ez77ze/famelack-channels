@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "blN8uMLBNq1v02",
+    "name": "LIM TV",
+    "iptv_urls": [
+      "https://tv.invasivamedia.com/hls/limtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ksZqh8hqVd6zjZ",
     "name": "MiTV",
     "iptv_urls": [
@@ -99,10 +110,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "znjpw6R2dQyTRH",
-    "name": "TelePortal Canal 53.1",
+    "nanoid": "ASrUvdpVK7ci3L",
+    "name": "UnionTV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8"
+      "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

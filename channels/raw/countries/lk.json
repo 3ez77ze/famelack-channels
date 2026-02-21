@@ -59,20 +59,9 @@
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uled3DTZtVI"
+      "https://www.youtube-nocookie.com/embed/vYqFJBF6ieA"
     ],
     "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lb91CXq3a9VbL6",
-    "name": "NDTV LANKA",
-    "iptv_urls": [
-      "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
     "country": "lk",
     "isGeoBlocked": false
   },
@@ -105,6 +94,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/43ZM1yIOmTo"
     ],
+    "language": "sin",
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "93ImfKCer0mJxB",
+    "name": "Siyatha TV",
+    "iptv_urls": [
+      "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "sin",
     "country": "lk",
     "isGeoBlocked": false

@@ -287,6 +287,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hWlY6DCrbQlbH1",
+    "name": "Telecolor",
+    "iptv_urls": [
+      "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fs7LDp8LH9En3R",
     "name": "Telesur",
     "iptv_urls": [
@@ -353,10 +364,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
+    "nanoid": "MfZl15TXWaHOGI",
+    "name": "TRV",
     "iptv_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -364,10 +375,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MfZl15TXWaHOGI",
-    "name": "TRV",
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
     "iptv_urls": [
-      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -412,6 +423,17 @@
     "name": "UniTV",
     "iptv_urls": [
       "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8kq1Mm3sZqGDrk",
+    "name": "Vale TV",
+    "iptv_urls": [
+      "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

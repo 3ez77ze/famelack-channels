@@ -61,7 +61,7 @@
       "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/csOe2OnqQ50"
+      "https://www.youtube-nocookie.com/embed/TkmQUxZOZQo"
     ],
     "language": "zho",
     "country": "sg",
@@ -115,7 +115,8 @@
     "nanoid": "HJhyKYuHh72Bmv",
     "name": "CNA Originals",
     "iptv_urls": [
-      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
