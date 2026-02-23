@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tNAEeGMomIGfLw",
+    "name": "Fish TV",
+    "iptv_urls": [
+      "https://tv.localstreamgh.com/fishtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XbqCbMWvgTX2F0",
     "name": "G-eye TV",
     "iptv_urls": [
@@ -63,17 +74,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9T7VpBKdu68"
     ],
-    "language": "eng",
-    "country": "gh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BxmKon0ZujiiDI",
-    "name": "Resurrection TV",
-    "iptv_urls": [
-      "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "gh",
     "isGeoBlocked": false

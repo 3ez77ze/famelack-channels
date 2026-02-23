@@ -157,19 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBjqGDOceqJLt2",
-    "name": "ATV",
-    "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -308,7 +295,7 @@
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/km2KPWxXW60"
+      "https://www.youtube-nocookie.com/embed/5WrMIAqm6cs"
     ],
     "language": "tur",
     "country": "tr",
@@ -321,6 +308,17 @@
       "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
     ],
     "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ZXjzA9WC4UY7k",
+    "name": "Çocuklar Duymasın",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aTmIS43qMS4"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -387,7 +385,7 @@
     "name": "EKOTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5LvRf8jPtlw"
+      "https://www.youtube-nocookie.com/embed/k-tCyYoS30k"
     ],
     "language": "tur",
     "country": "tr",
@@ -453,6 +451,17 @@
     "name": "FB TV",
     "iptv_urls": [
       "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
+    "iptv_urls": [
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -547,6 +556,17 @@
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/na_jT2Q1rfA"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tP5Ewc5P83XEEQ",
+    "name": "Her An Kur'an Her An Zikir",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SFjcBzPorSA"
     ],
     "language": "tur",
     "country": "tr",
@@ -777,7 +797,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WzhszORjz4w"
+      "https://www.youtube-nocookie.com/embed/38QW9pcVYcU"
     ],
     "language": "tur",
     "country": "tr",
@@ -845,17 +865,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Z02dsrlBMmE"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GIntzeUgHcQOIa",
-    "name": "Number 1 Ask",
-    "iptv_urls": [
-      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1428,6 +1437,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/bALItx0fwWU"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G5NY2Fs2RexhNk",
+    "name": "WildBrain Çocuklar: Twirlywoos",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/p_TXL-YxM0E"
     ],
     "language": "tur",
     "country": "tr",

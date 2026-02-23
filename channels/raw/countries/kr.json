@@ -397,6 +397,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KfP1wxKWGNerV7",
+    "name": "MBC Daegu (대구 MBC)",
+    "iptv_urls": [
+      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CVYe8DrHATgn7K",
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
@@ -496,34 +507,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nqkgU-q126s"
-    ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [
       "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wLvMxnvxZbDm1t",
-    "name": "SBS",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WMBrkPZOx9I"
-    ],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false

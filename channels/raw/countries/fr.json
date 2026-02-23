@@ -66,28 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MC6eofj34HPSlv",
-    "name": "Africanews",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=OXCCriJ8fFq"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MC6eofj34HPSlv",
-    "name": "Africanews",
-    "iptv_urls": [
-      "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
     "iptv_urls": [],
@@ -105,17 +83,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JYn1ySxy92KPFz",
-    "name": "Africanews French",
-    "iptv_urls": [
-      "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -379,17 +346,6 @@
     "name": "Caillou",
     "iptv_urls": [
       "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LKw5dooNM64sYJ",
-    "name": "Canal 32",
-    "iptv_urls": [
-      "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -965,17 +921,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "Myzen TV",
     "iptv_urls": [
@@ -1295,17 +1240,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AIirayhr6r6kA6",
-    "name": "Rakuten TV Films Thriller",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "phice2bsfFKDLs",
     "name": "Rakuten TV Séries Crime",
     "iptv_urls": [
@@ -1431,7 +1365,8 @@
     "nanoid": "WGDiUT1T62mE6W",
     "name": "Sony One Series Thriller",
     "iptv_urls": [
-      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
+      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+      "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1465,7 +1400,7 @@
     "name": "Totally Spies!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iqoUkPBgOag"
+      "https://www.youtube-nocookie.com/embed/81x5Ab4D-VM"
     ],
     "language": "fra",
     "country": "fr",
@@ -1499,6 +1434,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

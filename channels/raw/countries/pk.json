@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VPvtEeh0kJI"
+      "https://www.youtube-nocookie.com/embed/ETrHfQ5Bgzc"
     ],
     "language": "urd",
     "country": "pk",
@@ -309,6 +309,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TuY2V6p7ao7BEP",
+    "name": "Isaac TV",
+    "iptv_urls": [
+      "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "keDnMBwKoBk3De",
     "name": "JooMusic",
     "iptv_urls": [
@@ -335,20 +346,9 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JR8xGfZUBJg"
+      "https://www.youtube-nocookie.com/embed/lI7cPoQ_d14"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0DyoG3XduwwwLj",
-    "name": "King TV",
-    "iptv_urls": [
-      "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -403,7 +403,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9RVLs19fuf8"
+      "https://www.youtube-nocookie.com/embed/ycUrRX5pEv0"
     ],
     "language": "urd",
     "country": "pk",
@@ -462,17 +462,6 @@
       "https://www.youtube-nocookie.com/embed/Nh_qJClxWec"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cY2xwz2R3RaEd2",
-    "name": "Sindh TV News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YThf1-qJJ9A"
-    ],
-    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },

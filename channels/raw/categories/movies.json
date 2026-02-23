@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "miNrjenD6E2QJg",
+    "name": "alpha Cinema",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S8C2M7VpJq4l1b",
     "name": "ALTER: Scary Movies",
     "iptv_urls": [],
@@ -107,17 +118,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qS9h25t8tf42wr",
-    "name": "Aurora Media Films",
-    "iptv_urls": [
-      "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -136,8 +136,7 @@
     "name": "B4U Kadak",
     "iptv_urls": [
       "https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
-      "https://mumt02.tangotv.in/B4UKADAK/index.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -149,8 +148,7 @@
     "name": "B4U Movies",
     "iptv_urls": [
       "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
-      "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -348,7 +346,8 @@
     "nanoid": "Z3ikslJzUV8EMT",
     "name": "Goldmines",
     "iptv_urls": [
-      "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+      "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+      "https://mumt04.tangotv.in/GOLDMINES/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -408,17 +407,6 @@
     "youtube_urls": [],
     "language": "zho",
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6K6oFgTHq5fj7V",
-    "name": "Hero",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
     "isGeoBlocked": false
   },
   {
@@ -514,7 +502,8 @@
     "nanoid": "9tdQOe3oPZhf4V",
     "name": "Kairali We",
     "iptv_urls": [
-      "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+      "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+      "https://mumt01.tangotv.in/WETV/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "mal",
@@ -602,7 +591,8 @@
     "nanoid": "tWWWWJwjjkFKBL",
     "name": "Maha Movie",
     "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/10007/master.m3u8"
+      "https://cdn-6.pishow.tv/live/10007/master.m3u8",
+      "https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -724,7 +714,7 @@
     "nanoid": "OO4sfDrtpxEZzI",
     "name": "MyTime Movie Network",
     "iptv_urls": [
-      "https://mytime-tcl.amagi.tv/playlist.m3u8"
+      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1140,17 +1130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iJhK4ZfrskifqI",
-    "name": "Rakuten TV Top Movies Italy",
-    "iptv_urls": [
-      "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dGOfxttCQdrVvT",
     "name": "Rakuten TV Top Movies Spain",
     "iptv_urls": [
@@ -1268,6 +1247,17 @@
     ],
     "youtube_urls": [],
     "language": "tel",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9XCIxSDz7ScIo3",
+    "name": "Suriyan TV",
+    "iptv_urls": [
+      "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -1461,17 +1451,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "55k6dnrqaWi7I9",
-    "name": "Новый Русский",
-    "iptv_urls": [
-      "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E9FRjDI7eyLqOr",
     "name": "Патриот (576i)",
     "iptv_urls": [
@@ -1483,10 +1462,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
+    "nanoid": "UGkFnAuONipW2e",
+    "name": "Сити Эдем КиноАрт",
     "iptv_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
+      "https://cityeden.catcast.tv/content/38398/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1505,10 +1484,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jqp4ZHvmJjGFio",
-    "name": "Сити Эдем КиноДрама",
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
     "iptv_urls": [
-      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1531,6 +1510,17 @@
     "name": "Сити Эдем КиноМистика",
     "iptv_urls": [
       "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pqEgU0y3jnIV9h",
+    "name": "Сити Эдем КиноФантастика",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/45268/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

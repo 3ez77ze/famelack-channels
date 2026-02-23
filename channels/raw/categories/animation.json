@@ -287,6 +287,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HycIAn5SOLc"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
     "iptv_urls": [
@@ -401,7 +412,7 @@
     "name": "Shaun the Sheep Official",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tZjWZSnwHdQ"
+      "https://www.youtube-nocookie.com/embed/U4mJAvhBrGU"
     ],
     "language": "eng",
     "country": "uk",

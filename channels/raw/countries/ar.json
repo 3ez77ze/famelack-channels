@@ -187,17 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D3rtXC7Gev4etZ",
-    "name": "Canal 4 Posadas",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j1Mx0NYk5KtzPX",
     "name": "Canal 4 San Juan",
     "iptv_urls": [
@@ -346,7 +335,7 @@
     "name": "Canal 13 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uihOPINF5bs"
+      "https://www.youtube-nocookie.com/embed/VPrmqHXj848"
     ],
     "language": "spa",
     "country": "ar",
@@ -357,17 +346,6 @@
     "name": "Canal 13 San Luis",
     "iptv_urls": [
       "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "urMZ5Xb5qp5veO",
-    "name": "Canal 21 TV",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -490,17 +468,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TyUx4dR3i3hPtN",
     "name": "Celta TV",
     "iptv_urls": [
@@ -589,6 +556,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvdbgKYfuDPGUL",
+    "name": "El Observador 107.9",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3Gj7y6auyCU"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "iptv_urls": [],
@@ -640,6 +618,17 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vUDHPbKU2QA"
+    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -737,17 +726,6 @@
     "name": "Metro TV",
     "iptv_urls": [
       "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jhtVZGk1rHoaP8",
-    "name": "Misiones Cuatro",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -899,17 +877,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4D71cx5fvZCZ53",
-    "name": "San Pedro TV",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rPtKuLjPt7QNrN",
     "name": "Sicardi TV",
     "iptv_urls": [
@@ -991,7 +958,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gD3sDnJPEQk"
+      "https://www.youtube-nocookie.com/embed/eARxsWuAOJc"
     ],
     "language": "spa",
     "country": "ar",
@@ -1080,7 +1047,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8rO9b-K0hFo"
+      "https://www.youtube-nocookie.com/embed/LlcOeLqS7xg"
     ],
     "language": "spa",
     "country": "ar",

@@ -133,17 +133,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
-    "iptv_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uVgni6lRnPbvo9",
     "name": "BBC Top Gear Germany",
     "iptv_urls": [
@@ -347,7 +336,8 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -433,17 +423,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0deWs8tTLyJPRE",
-    "name": "FilmGold Germany",
-    "iptv_urls": [
-      "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1310,6 +1289,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VAXyuQmSe3glBx",
+    "name": "Sportdigital FUSSBALL HD",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },

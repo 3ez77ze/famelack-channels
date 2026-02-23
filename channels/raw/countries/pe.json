@@ -143,17 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M8nsyNmz1k1pVX",
-    "name": "Exitosa TV",
-    "iptv_urls": [
-      "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8STBORDBYmEtNC",
     "name": "Impacto Televisión",
     "iptv_urls": [
@@ -375,17 +364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wmJ1QxQIvPF4LM",
-    "name": "Teleselva",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oOdusKQUCbc5q3",
     "name": "Top FM TV",
     "iptv_urls": [
@@ -447,6 +425,17 @@
       "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XOM9Q1cGWigMXK",
+    "name": "TVLibertad ",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GFCISxJtPuY"
+    ],
     "language": "spa",
     "country": "pe",
     "isGeoBlocked": false

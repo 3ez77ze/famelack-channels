@@ -4,7 +4,7 @@
     "name": "5 канал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xvskl6Vliqk"
+      "https://www.youtube-nocookie.com/embed/Z6D-oxX5VCo"
     ],
     "language": "ukr",
     "country": "ua",
@@ -96,17 +96,6 @@
       "https://www.youtube-nocookie.com/embed/ooJJSOlJZPQ"
     ],
     "language": "rus",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ijBxrnqlhILuI",
-    "name": "ITV",
-    "iptv_urls": [
-      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -227,6 +216,17 @@
       "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LFw2IVZK55i3Eh",
+    "name": "Суспільне Новини",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SIRlElzXDTk"
+    ],
     "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false

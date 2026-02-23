@@ -421,17 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oleSYlNVNmvs3W",
-    "name": "District of Columbia Network (DCN)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DCN.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h1EMXTjJFPCBVy",
     "name": "Fernandina Beach City Meeting (Fernandina Beach FL)",
     "iptv_urls": [
@@ -851,6 +840,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RrsTSYgGNniraQ",
+    "name": "Országgyűlés (Plenáris)",
+    "iptv_urls": [
+      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -1065,6 +1065,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bMkXILI7Cwn65v",
+    "name": "St. Pete TV (SPTV) (St Petersburg FL)",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4LXxz87wiJdex1",
     "name": "Stockton GovTV (Stockton CA)",
     "iptv_urls": [
@@ -1102,7 +1113,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nBNUVpdE93w"
+      "https://www.youtube-nocookie.com/embed/074jQLbYm-A"
     ],
     "language": "por",
     "country": "br",
@@ -1285,6 +1296,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EbzVTLGaQ83k3R",
+    "name": "Whittier CityTV (Whittier CA)",
+    "iptv_urls": [
+      "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
     "iptv_urls": [
@@ -1326,6 +1348,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

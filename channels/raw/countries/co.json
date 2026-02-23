@@ -56,17 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BHoTvgxAWuPUYQ",
-    "name": "Canal 2 Alpavisión Neiva",
-    "iptv_urls": [
-      "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WwkDGrZMJxcaPL",
     "name": "Canal 8 TV+",
     "iptv_urls": [
@@ -497,17 +486,6 @@
     "iptv_urls": [
       "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
       "https://us.streaminghd.cl/suramtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

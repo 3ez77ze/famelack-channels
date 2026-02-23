@@ -36,6 +36,7 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
       "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
@@ -66,17 +67,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z3J6UkFFEng975",
     "name": "Canal 17 TV Nosara",
     "iptv_urls": [
@@ -84,17 +74,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O4M3Z3Jo7F6qrX",
-    "name": "Cartago Medios TV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -187,10 +166,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
+    "nanoid": "L0Xj3EMr6sq9Oz",
+    "name": "Los Santos TV",
     "iptv_urls": [
-      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      "https://lstv.duckdns.org:449/hls/lstv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -198,12 +177,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L0Xj3EMr6sq9Oz",
-    "name": "Los Santos TV",
-    "iptv_urls": [
-      "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6xBScfywlE0"
     ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
@@ -231,17 +210,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SI3nWhyuVnROLX",
     "name": "RTV Chirripó",
     "iptv_urls": [
@@ -257,6 +225,17 @@
     "name": "Sarapiqui TV",
     "iptv_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

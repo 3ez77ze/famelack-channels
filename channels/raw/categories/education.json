@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/BVG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -127,7 +116,7 @@
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/km2KPWxXW60"
+      "https://www.youtube-nocookie.com/embed/5WrMIAqm6cs"
     ],
     "language": "tur",
     "country": "tr",
@@ -197,17 +186,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "sd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IVwVAzQdAWOVvy",
-    "name": "DC.gov DKN (Washington DC)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DKN.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -533,17 +511,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "iptv_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "iptv_urls": [
@@ -625,17 +592,6 @@
     "name": "MCN6 Arts Channel",
     "iptv_urls": [
       "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KGiWQ62o6Np82a",
-    "name": "Midpen Media Center Youth Education and Sports Channel 28",
-    "iptv_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

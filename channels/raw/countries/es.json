@@ -58,6 +58,7 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -73,7 +74,7 @@
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FKr2RZlcW3M"
+      "https://www.youtube-nocookie.com/embed/t5fLEtBFDWs"
     ],
     "language": "spa",
     "country": "es",
@@ -356,6 +357,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CTfUhDJ1psN0TH",
+    "name": "Canal Extremadura Satelite",
+    "iptv_urls": [
+      "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MR0b7ODlkTFOj0",
     "name": "Canal Málaga RTV",
     "iptv_urls": [
@@ -407,7 +419,7 @@
       "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8JQ--IW4af8"
+      "https://www.youtube-nocookie.com/embed/uSCfWjxTDOg"
     ],
     "language": "spa",
     "country": "es",
@@ -792,19 +804,7 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1050,17 +1050,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MBXc78WctcBqtJ",
-    "name": "POP World TV",
-    "iptv_urls": [
-      "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1373,17 +1362,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
-    "iptv_urls": [
-      "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yoWnDlFSJLbaIM",
     "name": "Rakuten TV Thrillers Spain",
     "iptv_urls": [
@@ -1413,17 +1391,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iJhK4ZfrskifqI",
-    "name": "Rakuten TV Top Movies Italy",
-    "iptv_urls": [
-      "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1666,6 +1633,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mOCMYDYV2t8RPY",
+    "name": "Trece",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

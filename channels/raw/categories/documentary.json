@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ydyOXikhnvU"
+      "https://www.youtube-nocookie.com/embed/aV0KHc-LmNA"
     ],
     "language": "jpn",
     "country": "jp",
@@ -53,17 +53,6 @@
     "language": "eng",
     "country": "de",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BKprRPWc9ugskl",
-    "name": "Backstage",
-    "iptv_urls": [
-      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "A5X8ark1iIaicP",
@@ -248,17 +237,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J5HDeVjO016Oz1",
-    "name": "EPlanet TV",
-    "iptv_urls": [
-      "https://eplhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -538,17 +516,6 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
