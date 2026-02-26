@@ -33,6 +33,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -55,6 +67,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lhFBUBQYMx1tnO",
+    "name": "Canal 10",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z3J6UkFFEng975",
     "name": "Canal 17 TV Nosara",
     "iptv_urls": [
@@ -62,6 +85,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O4M3Z3Jo7F6qrX",
+    "name": "Cartago Medios TV",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -143,6 +177,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vPLx0tYa5CbY79",
+    "name": "Gex TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "iptv_urls": [
@@ -201,7 +246,8 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -220,10 +266,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYVkiPv8DNw6UC",
-    "name": "Sarapiqui TV",
+    "nanoid": "KWtXBE79zVCsGO",
+    "name": "San José TV",
     "iptv_urls": [
-      "https://lstv.duckdns.org:449/hls/stv.m3u8"
+      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -231,10 +277,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
+    "nanoid": "RYVkiPv8DNw6UC",
+    "name": "Sarapiqui TV",
     "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+      "https://lstv.duckdns.org:449/hls/stv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4C4tLGJiZXg"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vLJxCfSjAO72Wd",
     "name": "Belmedia TV",
     "iptv_urls": [],
@@ -84,17 +73,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3yOkUIhwGzemcz",
-    "name": "Canal Savoir",
-    "iptv_urls": [
-      "https://hls.savoir.media/live/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -234,34 +212,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iEOkrDbLBS8"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xdWaSMmXydI"
-    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -534,6 +490,17 @@
     ],
     "youtube_urls": [],
     "language": "ell",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "iptv_urls": [
+      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -996,6 +963,39 @@
       "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/yPATStCc62s"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GdyuPfPjDfUi5s",
+    "name": "Super Simple: Noodle and Pals",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/o2dbrizLV6s"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X99oRpChEcKAS",
+    "name": "Super Simple: Simple Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kmwpqq1TrNM"
+    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false

@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H0fTRstAnfWOk3",
-    "name": "Avers",
-    "iptv_urls": [
-      "https://avers.pp.ua/hls/efir.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
@@ -177,6 +166,31 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
+    "iptv_urls": [
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TSbUr1OhqLkxuT",
+    "name": "TVA",
+    "iptv_urls": [
+      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hthUrV2rQO5a6H",
     "name": "Ланет.TV",
     "iptv_urls": [
@@ -236,18 +250,6 @@
     "name": "Сфера-ТВ",
     "iptv_urls": [
       "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PAYFPyuM6WHFCR",
-    "name": "ТВА (Чернiвцi)",
-    "iptv_urls": [
-      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ukr",

@@ -147,7 +147,7 @@
     "name": "B SMART",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qptSrTCNfpY"
+      "https://www.youtube-nocookie.com/embed/PkVAClm0dds"
     ],
     "language": "fra",
     "country": "fr",
@@ -276,6 +276,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c1JGnuOB8pCEI9",
+    "name": "BFM Marseille",
+    "iptv_urls": [
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YcswJ4HZrr9OYD",
     "name": "BFM Nice Côte d'Azur",
     "iptv_urls": [
@@ -357,6 +368,17 @@
     "name": "Caillou",
     "iptv_urls": [
       "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RMbGSeJmY7CCNa",
+    "name": "Cannes Lérins TV",
+    "iptv_urls": [
+      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -903,7 +925,7 @@
     "name": "Mosaïk Cristal",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jaHfDQZH8yA"
+      "https://www.youtube-nocookie.com/embed/87vk0VE-P5w"
     ],
     "language": "fra",
     "country": "fr",
@@ -928,17 +950,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aRYM4hJmBP444c",
-    "name": "My Gospel TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -994,6 +1005,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B7oUuXqbWsfBhP",
+    "name": "OGGY",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dYGEtRvdxIo"
+    ],
+    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1302,6 +1324,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fsqc3tbNlosErK",
+    "name": "RFI",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XtwNWKkOc-w"
+    ],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },

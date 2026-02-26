@@ -568,6 +568,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H7YKUTmTDg1xzR",
+    "name": "M-Net Sport",
+    "iptv_urls": [
+      "https://live.mnet.mk/hls/mnet-sport.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mkd",
+    "country": "mk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "iptv_urls": [
@@ -609,17 +620,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nKepPfPxroGdqa",
-    "name": "MotoGP",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f4Fg_BZwl3E"
-    ],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -667,17 +667,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "iptv_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxyIFaB4Q9mpks",
     "name": "Oman Sports TV",
     "iptv_urls": [
@@ -693,7 +682,9 @@
     "name": "Pac 12 Insider",
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

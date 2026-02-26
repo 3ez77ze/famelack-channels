@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t9oYt4NY18iZul",
+    "name": "Anime Vanguard Live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OiHMjAhrnLg"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkDzNHa7Mm4MEd",
     "name": "Anime Vision",
     "iptv_urls": [
@@ -88,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4C4tLGJiZXg"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3zs2UMlidApgeb",
     "name": "Blues TV",
     "iptv_urls": [
@@ -107,6 +107,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics",
+    "iptv_urls": [
+      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -173,17 +184,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iEOkrDbLBS8"
-    ],
-    "language": "eng",
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -287,17 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KFX8r91Rf69oJB",
-    "name": "Kapitan Bomba",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HycIAn5SOLc"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
     "iptv_urls": [
@@ -306,17 +295,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KLWMJ2wTlLOXbG",
-    "name": "Magic Kids",
-    "iptv_urls": [
-      "https://magicstream.ddns.net/magicstream/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -350,6 +328,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B7oUuXqbWsfBhP",
+    "name": "OGGY",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dYGEtRvdxIo"
+    ],
+    "language": "eng",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

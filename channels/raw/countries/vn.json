@@ -3,7 +3,6 @@
     "nanoid": "QA1BHMxRwKgdpS",
     "name": "ANTV",
     "iptv_urls": [
-      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -71,7 +70,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U4M4VcX8JoI"
+      "https://www.youtube-nocookie.com/embed/H6ffSI7786w"
     ],
     "language": "vie",
     "country": "vn",
@@ -180,6 +179,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HhEtp833yJrL6d",
+    "name": "HTV9 HD",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "txSXswRPQcmTpz",
     "name": "Huế TV",
     "iptv_urls": [
@@ -202,17 +212,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nfUMYUgBEhhJaP",
-    "name": "Lao SV TV",
-    "iptv_urls": [
-      "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4pFTwI0SuPDt1G",
     "name": "Lính Trận Miền Xa - Nhạc Lính Hải Ngoại",
     "iptv_urls": [],
@@ -227,7 +226,8 @@
     "nanoid": "LFPFH6E00LEwDC",
     "name": "QPVN HD",
     "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8"
+      "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
+      "https://qpvn.vn/live/qpvn/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
