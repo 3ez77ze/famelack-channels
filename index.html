@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>cookiestv</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #000;
+      color: #fff;
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+    .player-area {
+      flex: 1;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      background: radial-gradient(circle at center, #1a1a1a 0%, #000 100%);
+    }
+    .video-wrapper {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    video, iframe {
+      width: 80%;
+      height: 80%;
+      max-width: 1280px;
+      max-height: 720px;
+      background: #000;
+      border: none;
+      box-shadow: 0 0 50px rgba(0,0,0,0.5);
+    }
+    .top-controls {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 10px;
+      z-index: 100;
+    }
+    .icon-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 18px;
+      transition: transform 0.2s;
+    }
+    .btn-star { background: rgba(255,255,255,0.1); color: #fff; }
+    .btn-close { background: #ff0000; color: #fff; }
+    .icon-btn:hover { transform: scale(1.1); }
+
+    .sidebar {
+      width: 320px;
+      background: #1a1a1e;
+      display: flex;
+      flex-direction: column;
+      border-left: 1px solid #333;
+    }
+    .sidebar-header {
+      padding: 20px;
+      position: relative;
+    }
+    .back-btn {
+      position: absolute;
+      left: -18px;
+      top: 20px;
+      width: 36px;
+      height: 36px;
+      background: #a3d944;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #000;
+      cursor: pointer;
+      z-index: 10;
+    }
+    .country-info {
+      margin-left: 25px;
+    }
+    .country-name {
+      color: #4db8ff;
+      font-size: 1.4rem;
+      font-weight: 500;
+      margin-bottom: 2px;
+    }
+    .capital-name { color: #aaa; font-size: 0.9rem; }
+    .local-time {
+      position: absolute;
+      right: 20px;
+      top: 28px;
+      color: #eee;
+      font-size: 0.9rem;
+    }
+
+    .search-container {
+      padding: 0 20px 10px;
+    }
+    .sidebar-select {
+      width: 100%;
+      background: #2a2a2e;
+      border: 1px solid #3a3a3e;
+      color: #fff;
+      padding: 8px 12px;
+      border-radius: 6px;
+      margin-bottom: 10px;
+      outline: none;
+    }
+    .search-input {
+      width: 100%;
+      background: #2a2a2e;
+      border: none;
+      color: #fff;
+      padding: 10px 15px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      outline: none;
+    }
+
+    .channel-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 10px 0;
+    }
+    .channel-item {
+      display: flex;
+      align-items: center;
+      padding: 12px 20px;
+      cursor: pointer;
+      transition: background 0.2s;
+      position: relative;
+    }
+    .channel-item:hover { background: rgba(255,255,255,0.05); }
+    .channel-item.active {
+      background: #5cc9f5;
+      color: #000;
+      border-radius: 12px;
+      margin: 0 10px;
+      width: calc(100% - 20px);
+    }
+    .channel-icon {
+      width: 20px;
+      height: 20px;
+      background: #ff0000;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 12px;
+      font-size: 10px;
+      flex-shrink: 0;
+    }
+    .active .channel-icon { background: #000; color: #5cc9f5; }
+    .channel-name { flex: 1; font-weight: 500; font-size: 0.95rem; }
+    .channel-lang { color: #888; font-size: 0.75rem; text-transform: uppercase; }
+    .active .channel-lang { color: #333; }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
+  </style>
+</head>
+<body>
+  <div class="player-area">
+    <div class="top-controls">
+      <div class="icon-btn btn-star">☆</div>
+      <div class="icon-btn btn-close">✕</div>
+    </div>
+    <div class="video-wrapper">
+      <video id="videoPlayer" controls autoplay playsinline style="display:none;"></video>
+      <iframe id="ytPlayer" allowfullscreen allow="autoplay; encrypted-media" style="display:none;"></iframe>
+      <div id="placeholder" style="color: #444; font-size: 1.2rem;">Select a channel to play</div>
+    </div>
+  </div>
+
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <div class="back-btn" onclick="toggleCountryList()">←</div>
+      <div class="country-info">
+        <div id="displayCountry" class="country-name">Select Country</div>
+        <div id="displayCapital" class="capital-name">-</div>
+      </div>
+      <div id="displayTime" class="local-time">--:-- --</div>
+    </div>
+
+    <div class="search-container">
+      <select id="countrySelect" class="sidebar-select" onchange="loadCountry(this.value)">
+        <option value="">Choose Country...</option>
+      </select>
+      <input type="text" id="searchInput" class="search-input" placeholder="Search channels..." oninput="filterChannels(this.value)" />
+    </div>
+
+    <div class="channel-list" id="channelList"></div>
+  </div>
+
+  <script>
+    const video = document.getElementById('videoPlayer');
+    const iframe = document.getElementById('ytPlayer');
+    const placeholder = document.getElementById('placeholder');
+    const hls = new Hls();
+    
+    let allCountries = {};
+    let allChannels = [];
+    let currentCountryCode = '';
+    let timeInterval = null;
+
+    async function init() {
+      const res = await fetch('/api/countries');
+      allCountries = await res.json();
+      const select = document.getElementById('countrySelect');
+      
+      Object.entries(allCountries)
+        .filter(([_, data]) => data.hasChannels)
+        .sort((a, b) => a[1].country.localeCompare(b[1].country))
+        .forEach(([code, data]) => {
+          const opt = document.createElement('option');
+          opt.value = code;
+          opt.textContent = data.country;
+          select.appendChild(opt);
+        });
+    }
+
+    async function loadCountry(code) {
+      if (!code) return;
+      currentCountryCode = code;
+      const countryData = allCountries[code];
+      
+      document.getElementById('displayCountry').textContent = countryData.country;
+      document.getElementById('displayCapital').textContent = countryData.capital || '';
+      
+      updateTime(countryData.timeZone);
+      if (timeInterval) clearInterval(timeInterval);
+      timeInterval = setInterval(() => updateTime(countryData.timeZone), 60000);
+
+      document.getElementById('channelList').innerHTML = '<div style="padding:20px; color:#666;">Loading...</div>';
+      const res = await fetch(`/api/channels/country/${code}`);
+      allChannels = await res.json();
+      filterChannels(document.getElementById('searchInput').value);
+    }
+
+    function updateTime(tz) {
+      if (!tz) return;
+      const options = { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: tz };
+      document.getElementById('displayTime').textContent = new Intl.DateTimeFormat('en-US', options).format(new Date());
+    }
+
+    function filterChannels(q) {
+      const query = q.toLowerCase();
+      const filtered = allChannels.filter(c => c.name.toLowerCase().includes(query));
+      renderList(filtered);
+    }
+
+    function renderList(list) {
+      const container = document.getElementById('channelList');
+      container.innerHTML = '';
+      list.forEach(ch => {
+        const el = document.createElement('div');
+        el.className = 'channel-item';
+        el.innerHTML = `
+          <div class="channel-icon">▶</div>
+          <div class="channel-name">${ch.name}</div>
+          <div class="channel-lang">${ch.language || ''}</div>
+        `;
+        el.onclick = () => playChannel(ch, el);
+        container.appendChild(el);
+      });
+    }
+
+    function playChannel(ch, el) {
+      document.querySelectorAll('.channel-item').forEach(i => i.classList.remove('active'));
+      el.classList.add('active');
+      placeholder.style.display = 'none';
+      
+      const iptvUrl = ch.iptv_urls?.[0];
+      const ytUrl = ch.youtube_urls?.[0];
+
+      if (iptvUrl) {
+        iframe.style.display = 'none';
+        iframe.src = '';
+        video.style.display = 'block';
+        if (Hls.isSupported()) {
+          hls.loadSource(iptvUrl);
+          hls.attachMedia(video);
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = iptvUrl;
+        }
+      } else if (ytUrl) {
+        video.style.display = 'none';
+        video.src = '';
+        hls.stopLoad();
+        iframe.style.display = 'block';
+        let embedUrl = ytUrl;
+        if (ytUrl.includes('youtube.com/watch?v=')) {
+          embedUrl = ytUrl.replace('watch?v=', 'embed/');
+        } else if (ytUrl.includes('youtu.be/')) {
+          embedUrl = ytUrl.replace('youtu.be/', 'youtube.com/embed/');
+        }
+        iframe.src = embedUrl + '?autoplay=1';
+      }
+    }
+
+    function toggleCountryList() {
+      const select = document.getElementById('countrySelect');
+      select.focus();
+    }
+
+    init();
+  </script>
+</body>
+</html>
