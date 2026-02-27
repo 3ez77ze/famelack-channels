@@ -247,7 +247,7 @@
       timeInterval = setInterval(() => updateTime(countryData.timeZone), 60000);
 
       document.getElementById('channelList').innerHTML = '<div style="padding:20px; color:#666;">Loading...</div>';
-      const res = await fetch(`/api/channels/country/${code}`);
+      const res = await fetch(`/api/channels/country/${code.toLowerCase()}`);
       allChannels = await res.json();
       filterChannels(document.getElementById('searchInput').value);
     }
