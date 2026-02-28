@@ -1,0 +1,13 @@
+[
+  {
+    "nanoid": "W6p2kdhMOYyNp9",
+    "name": "Setanta Sports",
+    "iptv_urls": [
+      "http://alpha.tv.online.tm/hls/ch004_720/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tuk",
+    "country": "tm",
+    "isGeoBlocked": false
+  }
+]

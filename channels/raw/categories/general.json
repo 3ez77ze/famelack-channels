@@ -13523,5 +13523,16 @@
     "language": "zho",
     "country": "cn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l2dstS1YursqVc",
+    "name": "RASD TV",
+    "iptv_urls": [
+      "https://stream-us-east-1.getpublica.com/cl/260228d6h934t7kb6n52l7otn0/1280x720_1500000_0_f.m3u8?i=1187_12830"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "eh",
+    "isGeoBlocked": false
   }
 ]
