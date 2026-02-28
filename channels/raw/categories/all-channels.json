@@ -1151,6 +1151,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aMkeRUPupSrANZ",
+    "name": "A2",
+    "iptv_urls": [
+      "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w2034475566_b2128000_slalb.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "d5k9RHTOOkIzsq",
     "name": "A2i Music",
     "iptv_urls": [
@@ -18346,6 +18357,17 @@
     "name": "FB TV",
     "iptv_urls": [
       "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VzSMTfelVz3uml",
+    "name": "FBTV HD",
+    "iptv_urls": [
+      "https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -51009,6 +51031,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w6jLITNdd3mhSk",
+    "name": "Tropoja TV",
+    "iptv_urls": [
+      "https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w1487423895_b262800_sleng.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
     "isGeoBlocked": false
   },
   {

@@ -10980,6 +10980,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w6jLITNdd3mhSk",
+    "name": "Tropoja TV",
+    "iptv_urls": [
+      "https://live.prostream.al/al/smil:tropojatv.smil/chunklist_w1487423895_b262800_sleng.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rO6eV79GxNqt7n",
     "name": "TRT",
     "iptv_urls": [
