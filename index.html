@@ -400,6 +400,44 @@
     ::-webkit-scrollbar-thumb:hover { background: #3a3a4a; }
 
     /* ---- Favorite notification ---- */
+    /* ---- Ping Indicator ---- */
+    .ping-indicator {
+      position: absolute;
+      bottom: 18px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: none;
+      align-items: center;
+      gap: 6px;
+      background: rgba(0,0,0,0.55);
+      padding: 5px 12px;
+      border-radius: 8px;
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+      z-index: 50;
+      backdrop-filter: blur(6px);
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+    .ping-indicator.visible {
+      display: flex;
+    }
+    .ping-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #555;
+    }
+    .ping-dot.good { background: #4caf50; box-shadow: 0 0 6px rgba(76,175,80,0.5); }
+    .ping-dot.medium { background: #ff9800; box-shadow: 0 0 6px rgba(255,152,0,0.5); }
+    .ping-dot.bad { background: #f44336; box-shadow: 0 0 6px rgba(244,67,54,0.5); }
+    .ping-value {
+      color: #aaa;
+    }
+    .ping-value.good { color: #4caf50; }
+    .ping-value.medium { color: #ff9800; }
+    .ping-value.bad { color: #f44336; }
+
     .fav-toast {
       position: fixed;
       bottom: 24px;
@@ -433,6 +471,10 @@
       <iframe id="ytPlayer" allowfullscreen allow="autoplay; encrypted-media" style="display:none;"></iframe>
       <div id="placeholder">
         <span class="placeholder-text">Select a channel to play</span>
+      </div>
+      <div class="ping-indicator" id="pingIndicator">
+        <span class="ping-dot" id="pingDot"></span>
+        <span class="ping-value" id="pingValue">-- ms</span>
       </div>
     </div>
   </div>
@@ -483,6 +525,55 @@
     let currentChannel = null;
     let timeInterval = null;
     let favorites = JSON.parse(localStorage.getItem('cookiestv_favs') || '[]');
+
+    const pingIndicator = document.getElementById('pingIndicator');
+    const pingDot = document.getElementById('pingDot');
+    const pingValue = document.getElementById('pingValue');
+    let pingInterval = null;
+    let lastPingMs = null;
+
+    // Measure latency from HLS fragment load times (time to first byte)
+    hls.on(Hls.Events.FRAG_LOADED, function(event, data) {
+      const stats = data.frag.stats || data.stats;
+      if (stats && stats.loading) {
+        const ttfb = stats.loading.first - stats.loading.start;
+        if (ttfb >= 0 && ttfb < 10000) {
+          lastPingMs = Math.round(ttfb);
+          updatePingDisplay(lastPingMs);
+        }
+      }
+    });
+
+    function updatePingDisplay(ms) {
+      let level;
+      if (ms < 100) {
+        level = 'good';
+      } else if (ms < 300) {
+        level = 'medium';
+      } else {
+        level = 'bad';
+      }
+      pingDot.className = 'ping-dot ' + level;
+      pingValue.className = 'ping-value ' + level;
+      pingValue.textContent = ms + ' ms';
+      pingIndicator.classList.add('visible');
+    }
+
+    function showPing() {
+      pingIndicator.classList.add('visible');
+    }
+
+    function hidePing() {
+      pingIndicator.classList.remove('visible');
+      pingDot.className = 'ping-dot';
+      pingValue.className = 'ping-value';
+      pingValue.textContent = '-- ms';
+      lastPingMs = null;
+      if (pingInterval) {
+        clearInterval(pingInterval);
+        pingInterval = null;
+      }
+    }
 
     // Convert country code to flag emoji string
     function countryCodeToFlag(code) {
@@ -650,6 +741,9 @@
         iframe.style.display = 'none';
         iframe.src = '';
         video.style.display = 'block';
+        hidePing();
+        pingIndicator.classList.add('visible');
+        pingValue.textContent = '-- ms';
         if (Hls.isSupported()) {
           hls.loadSource(iptvUrl);
           hls.attachMedia(video);
@@ -660,6 +754,7 @@
         video.style.display = 'none';
         video.src = '';
         hls.stopLoad();
+        hidePing();
         iframe.style.display = 'block';
         let embedUrl = ytUrl;
         if (ytUrl.includes('youtube.com/watch?v=')) {
@@ -680,6 +775,7 @@
       placeholder.style.display = 'flex';
       currentChannel = null;
       updateStarButton();
+      hidePing();
       document.querySelectorAll('.channel-item').forEach(i => i.classList.remove('active'));
     }
 
