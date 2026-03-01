@@ -1743,9 +1743,9 @@
   },
   {
     "nanoid": "dGLOj62m1kpm6o",
-    "name": "N24 HD",
+    "name": "N24/WELT HD",
     "iptv_urls": [
-      "https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8"
+      "https://broadcast.welt.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/welt-tv-prod/9bd80acc-1d60-43d1-9e2f-598bd93f8128/hdntl=exp=1772448680~acl=%2f*~data=hdntl~hmac=2107fc535c1199fdabecbbe4888ebdafc47a4ee18b5f05400ec28f005c5b19bd/6.m3u8?platform=web"
     ],
     "youtube_urls": [],
     "language": "deu",
