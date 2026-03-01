@@ -42,5 +42,18 @@
     "language": "ara",
     "country": "ye",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jx2NzMkqSBXRzAW",
+    "name": "Al Jazeera Arabic",
+    "iptv_urls": [
+      "https://live-hls-web-aja.getaj.net/AJA/03.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
+    ],
+    "language": "ara",
+    "country": "ye",
+    "isGeoBlocked": false
   }
 ]

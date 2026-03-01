@@ -436,5 +436,29 @@
     "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g7wYYax7kr7tPd",
+    "name": "DW Arabic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AGkp2AL8e7o"
+    ],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BMYooBhokLO84pU",
+    "name": "Al Jazeera Arabic",
+    "iptv_urls": [
+      "https://live-hls-web-aja.getaj.net/AJA/03.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
+    ],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
   }
 ]

@@ -1134,5 +1134,16 @@
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zS1PnzoBZCMmZq",
+    "name": "DW Español",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jRnqxURJ120"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
   }
 ]

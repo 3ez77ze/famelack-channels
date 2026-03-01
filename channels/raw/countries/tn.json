@@ -20,5 +20,18 @@
     "language": "ara",
     "country": "tn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WXdeELwI70zmj51",
+    "name": "Al Jazeera Arabic",
+    "iptv_urls": [
+      "https://live-hls-web-aja.getaj.net/AJA/03.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
+    ],
+    "language": "ara",
+    "country": "tn",
+    "isGeoBlocked": false
   }
 ]

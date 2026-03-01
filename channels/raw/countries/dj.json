@@ -9,5 +9,18 @@
     "language": "fra",
     "country": "dj",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9AaGNMuofDrq5Sc",
+    "name": "Al Jazeera Arabic",
+    "iptv_urls": [
+      "https://live-hls-web-aja.getaj.net/AJA/03.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
+    ],
+    "language": "ara",
+    "country": "dj",
+    "isGeoBlocked": false
   }
 ]

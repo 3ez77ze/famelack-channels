@@ -780,18 +780,27 @@
     // Convert country code to flag emoji string
     function countryCodeToFlag(code) {
       if (!code || code.length !== 2) return '';
+      // "UK" is not a standard ISO 3166-1 code; use "GB" for the Union Jack flag
+      const mapped = code.toUpperCase() === 'UK' ? 'GB' : code.toUpperCase();
       return String.fromCodePoint(
-        ...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65)
+        ...[...mapped].map(c => 0x1F1E6 + c.charCodeAt(0) - 65)
       );
     }
 
-    // Parse Twemoji for an element
+    // Parse Twemoji for an element, with custom flag overrides
     function parseTwemoji(el) {
       if (typeof twemoji !== 'undefined') {
         twemoji.parse(el, {
           folder: 'svg',
           ext: '.svg',
           base: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/'
+        });
+        // Replace old Syrian flag with the new independence flag
+        el.querySelectorAll('img.emoji').forEach(img => {
+          if (img.src && img.src.includes('1f1f8-1f1fe')) {
+            img.src = '/assets/syria-flag.svg';
+            img.alt = '\ud83c\uddf8\ud83c\uddfe';
+          }
         });
       }
     }

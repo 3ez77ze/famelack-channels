@@ -369,5 +369,63 @@
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fRY4lX1ruplDNF",
+    "name": "DW Arabic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AGkp2AL8e7o"
+    ],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BBJkk2JWkTXyI7",
+    "name": "Sky News Arabia",
+    "iptv_urls": [
+      "https://stream.skynewsarabia.com/ott/ott.m3u8",
+      "https://stream.skynewsarabia.com/hls/sna.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pfm8neYKJRcBJF",
+    "name": "Sky News Arabia",
+    "iptv_urls": [
+      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/U--OjmpjF5o"
+    ],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MmyQZPmEDQeLY1",
+    "name": "Sky News Arabia (Portrait)",
+    "iptv_urls": [
+      "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wzqtTEnVKki0SE",
+    "name": "Sky News Arabia Vertical",
+    "iptv_urls": [
+      "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
   }
 ]
