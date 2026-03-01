@@ -824,6 +824,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tlCrvHTdDcsKjG",
+    "name": "Nickelodeon Deutschland (1080p)",
+    "iptv_urls": [
+      "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "d8YHTAnPVAiw8c",
     "name": "Niederbayern TV",
     "iptv_urls": [
@@ -906,6 +917,17 @@
     "name": "Oberpfalz TV",
     "iptv_urls": [
       "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qA2OErIOAHZukq",
+    "name": "Offenbach TV (720p)",
+    "iptv_urls": [
+      "http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1338,6 +1360,17 @@
     "name": "Studio 47",
     "iptv_urls": [
       "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3mitNJhmu37TMn",
+    "name": "Super RTL Plus",
+    "iptv_urls": [
+      "https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
