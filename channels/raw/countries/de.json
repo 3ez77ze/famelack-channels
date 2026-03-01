@@ -1729,5 +1729,49 @@
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tvbUhtaFYB4dE2",
+    "name": "Rtl/Vox HD",
+    "iptv_urls": [
+      "https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dGLOj62m1kpm6o",
+    "name": "N24 HD",
+    "iptv_urls": [
+      "https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4m_RGMwiQDdL24",
+    "name": "Sat.1",
+    "iptv_urls": [
+      "https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lLUpxKIejyUiUX",
+    "name": "BR Fernsehen",
+    "iptv_urls": [
+      "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master_1920p_5000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
   }
 ]
