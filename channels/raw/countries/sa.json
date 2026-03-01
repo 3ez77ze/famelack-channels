@@ -358,5 +358,16 @@
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mnGrOVLP3AcawZ",
+    "name": "BBC Arabic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UH09bpqGXvM"
+    ],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
   }
 ]

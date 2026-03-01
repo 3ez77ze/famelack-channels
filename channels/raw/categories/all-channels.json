@@ -62053,5 +62053,71 @@
     "language": "ara",
     "country": "dz",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "45XxYFkjvvapSW",
+    "name": "Prosieben MAXX",
+    "iptv_urls": [
+      "https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDLNu8kgycGTu6",
+    "name": "DisneyX",
+    "iptv_urls": [
+      "https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b1UnjU7rERO5zD",
+    "name": "Nitro",
+    "iptv_urls": [
+      "https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HSP3VT1jBdH6PM",
+    "name": "RTL",
+    "iptv_urls": [
+      "https://s6.hopslan.com/rtla11/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MbzwowJM43jeda",
+    "name": "BBC Persia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
+    ],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mnGrOVLP3AcawZ",
+    "name": "BBC Arabic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UH09bpqGXvM"
+    ],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
   }
 ]

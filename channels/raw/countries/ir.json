@@ -825,5 +825,16 @@
     "language": "fas",
     "country": "ir",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MbzwowJM43jeda",
+    "name": "BBC Persia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
+    ],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
   }
 ]
