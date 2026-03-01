@@ -9115,6 +9115,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n7wo3gtotUhQU0",
+    "name": "RTL Télé Lëtzebuerg (1080p)",
+    "iptv_urls": [
+      "https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ltz",
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kV3ueYRfGdn_Xk",
+    "name": "RTL Zwee (1080p)",
+    "iptv_urls": [
+      "https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ltz",
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oqN5ACQhB7Jq82",
     "name": "RTM TV",
     "iptv_urls": [
