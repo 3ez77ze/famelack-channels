@@ -235,7 +235,7 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "iptv_urls": [
-      "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8"
+      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -246,7 +246,7 @@
     "nanoid": "iQk3QJ5gPWMEsC",
     "name": "Das Erste HD",
     "iptv_urls": [
-      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
+      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
