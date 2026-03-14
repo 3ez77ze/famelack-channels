@@ -995,114 +995,6 @@
       to { transform: rotate(360deg); }
     }
 
-    /* ---- Audio Visualizer ---- */
-    .audio-visualizer {
-      position: absolute;
-      inset: 0;
-      background: radial-gradient(circle at center, #1a1a2e 0%, #09090f 100%);
-      display: none;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      z-index: 5;
-      overflow: hidden;
-    }
-
-    .audio-circle {
-      width: 140px;
-      height: 140px;
-      border-radius: 50%;
-      background: linear-gradient(135deg, var(--accent), #e81cff);
-      box-shadow: 0 0 40px rgba(99,102,241,0.5), inset 0 0 20px rgba(255,255,255,0.2);
-      animation: pulse-circle 2s infinite ease-in-out;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      z-index: 2;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .audio-circle svg {
-      width: 48px;
-      height: 48px;
-      fill: #fff;
-      z-index: 3;
-    }
-
-    @keyframes pulse-circle {
-      0% { transform: translate(-50%, -50%) scale(0.95); box-shadow: 0 0 40px rgba(99,102,241,0.4); }
-      50% { transform: translate(-50%, -50%) scale(1.05); box-shadow: 0 0 80px rgba(232,28,255,0.6); }
-      100% { transform: translate(-50%, -50%) scale(0.95); box-shadow: 0 0 40px rgba(99,102,241,0.4); }
-    }
-
-    .audio-bars {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      height: 120px;
-      display: flex;
-      align-items: flex-end;
-      justify-content: center;
-      gap: 8px;
-      z-index: 1;
-      padding: 0 40px 60px;
-    }
-
-    .audio-bar {
-      width: 12px;
-      background: linear-gradient(to top, var(--accent), #e81cff);
-      border-radius: 6px 6px 0 0;
-      animation: bounce-bar 1.5s infinite ease-in-out alternate;
-      box-shadow: 0 0 10px rgba(232,28,255,0.4);
-      transform-origin: bottom;
-    }
-
-    .audio-bar:nth-child(1) { height: 30%; animation-delay: 0.1s; }
-    .audio-bar:nth-child(2) { height: 60%; animation-delay: 0.3s; }
-    .audio-bar:nth-child(3) { height: 90%; animation-delay: 0.0s; }
-    .audio-bar:nth-child(4) { height: 50%; animation-delay: 0.4s; }
-    .audio-bar:nth-child(5) { height: 80%; animation-delay: 0.2s; }
-    .audio-bar:nth-child(6) { height: 40%; animation-delay: 0.5s; }
-    .audio-bar:nth-child(7) { height: 70%; animation-delay: 0.1s; }
-
-    @keyframes bounce-bar {
-      0% { transform: scaleY(0.4); }
-      100% { transform: scaleY(1); }
-    }
-
-    .audio-waves {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 100%;
-      height: 100%;
-      transform: translate(-50%, -50%);
-      z-index: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .audio-wave {
-      position: absolute;
-      border: 2px solid rgba(232,28,255,0.3);
-      border-radius: 50%;
-      animation: ripple-wave 3s infinite linear;
-    }
-
-    .audio-wave:nth-child(1) { width: 140px; height: 140px; animation-delay: 0s; }
-    .audio-wave:nth-child(2) { width: 140px; height: 140px; animation-delay: 1s; }
-    .audio-wave:nth-child(3) { width: 140px; height: 140px; animation-delay: 2s; }
-
-    @keyframes ripple-wave {
-      0% { width: 140px; height: 140px; opacity: 1; }
-      100% { width: 600px; height: 600px; opacity: 0; }
-    }
-
     /* ---- Responsive ---- */
     @media (max-width: 768px) {
       body { flex-direction: column; }
@@ -1126,28 +1018,6 @@
     <div class="video-wrapper">
       <div class="custom-player" id="customPlayer">
         <video id="videoPlayer" autoplay playsinline></video>
-        <audio id="audioPlayer" autoplay playsinline style="display:none;"></audio>
-        <div class="audio-visualizer" id="audioVisualizer">
-          <div class="audio-waves">
-            <div class="audio-wave"></div>
-            <div class="audio-wave"></div>
-            <div class="audio-wave"></div>
-          </div>
-          <div class="audio-circle">
-            <svg viewBox="0 0 24 24">
-              <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
-            </svg>
-          </div>
-          <div class="audio-bars">
-            <div class="audio-bar"></div>
-            <div class="audio-bar"></div>
-            <div class="audio-bar"></div>
-            <div class="audio-bar"></div>
-            <div class="audio-bar"></div>
-            <div class="audio-bar"></div>
-            <div class="audio-bar"></div>
-          </div>
-        </div>
         <div class="player-gradient"></div>
         <div class="player-loading-overlay"><div class="player-spinner"></div></div>
         <div class="player-controls" id="playerControls">
@@ -1265,29 +1135,16 @@
 
   <script>
     const video = document.getElementById('videoPlayer');
-    const audio = document.getElementById('audioPlayer');
-    const audioVisualizer = document.getElementById('audioVisualizer');
     const iframe = document.getElementById('ytPlayer');
     const placeholder = document.getElementById('placeholder');
     const hls = new Hls();
 
-    let activeMedia = video;
     let allCountries = {};
     let allChannels = [];
     let currentCountryCode = '';
     let currentChannel = null;
     let timeInterval = null;
     let favorites = JSON.parse(localStorage.getItem('cookiestv_favs') || '[]');
-
-    const fmRadioChannels = [
-      { nanoid: 'fm-1', name: 'Top Albania Radio', iptv_urls: ['https://live.top-media.al/tar'], country: 'FM', isAudio: true },
-      { nanoid: 'fm-2', name: 'Top Gold Radio (Albania)', iptv_urls: ['https://live.topgold.al/topgold'], country: 'FM', isAudio: true },
-      { nanoid: 'fm-3', name: 'Pyongyang FM (North Korea)', iptv_urls: ['https://listen7.myradio24.com/69366'], country: 'FM', isAudio: true },
-      { nanoid: 'fm-4', name: 'hr1 (Germany)', iptv_urls: ['https://hlshr1.akamaized.net/hls/live/2016533/hr1rheinmain/192/seglist.m3u8'], country: 'FM', isAudio: true },
-      { nanoid: 'fm-5', name: 'hr3 (Germany)', iptv_urls: ['https://hlshr3.akamaized.net/hls/live/2016536/hr3rheinmain/192/seglist.m3u8'], country: 'FM', isAudio: true },
-      { nanoid: 'fm-6', name: 'hr4 (Germany)', iptv_urls: ['https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seglist.m3u8'], country: 'FM', isAudio: true },
-      { nanoid: 'fm-7', name: 'Radio Zwickau (Germany)', iptv_urls: ['https://edge85.radio.radiozwickau.de/radiozwickau-live/stream/aacp'], country: 'FM', isAudio: true }
-    ];
 
     const nowPlaying = document.getElementById('nowPlaying');
     const nowPlayingName = document.getElementById('nowPlayingName');
@@ -1389,7 +1246,6 @@
 
     // Convert country code to flag emoji string
     function countryCodeToFlag(code) {
-      if (code === 'FM') return '📻';
       if (!code || code.length !== 2) return '';
       // "UK" is not a standard ISO 3166-1 code; use "GB" for the Union Jack flag
       const mapped = code.toUpperCase() === 'UK' ? 'GB' : code.toUpperCase();
@@ -1419,7 +1275,6 @@
     async function init() {
       const res = await fetch('/api/countries');
       allCountries = await res.json();
-      allCountries['FM'] = { country: 'FM Radio', hasChannels: true, code: 'FM' };
       const select = document.getElementById('countrySelect');
 
       Object.entries(allCountries)
@@ -1508,13 +1363,6 @@
       }
 
       document.getElementById('channelList').innerHTML = '<div class="loading-skeleton"><div class="loading-spinner"></div> Loading channels...</div>';
-      
-      if (code === 'FM') {
-        allChannels = fmRadioChannels;
-        filterChannels(document.getElementById('searchInput').value);
-        return;
-      }
-
       const res = await fetch(`/api/channels/country/${code.toLowerCase()}`);
       allChannels = await res.json();
       filterChannels(document.getElementById('searchInput').value);
@@ -1594,14 +1442,14 @@
       customPlayer.classList.add('show-controls');
       clearTimeout(controlsTimeout);
       controlsTimeout = setTimeout(() => {
-        if (!activeMedia.paused) customPlayer.classList.remove('show-controls');
+        if (!video.paused) customPlayer.classList.remove('show-controls');
       }, 3000);
     }
 
     customPlayer.addEventListener('mousemove', showPlayerControls);
     customPlayer.addEventListener('mouseleave', () => {
       clearTimeout(controlsTimeout);
-      if (!activeMedia.paused) customPlayer.classList.remove('show-controls');
+      if (!video.paused) customPlayer.classList.remove('show-controls');
     });
 
     // Click to play/pause
@@ -1617,15 +1465,15 @@
     });
 
     function togglePlayPause() {
-      if (activeMedia.paused) {
-        activeMedia.play();
+      if (video.paused) {
+        video.play();
       } else {
-        activeMedia.pause();
+        video.pause();
       }
     }
 
     function updatePlayPauseIcon() {
-      if (activeMedia.paused) {
+      if (video.paused) {
         playIcon.style.display = '';
         pauseIcon.style.display = 'none';
       } else {
@@ -1634,63 +1482,24 @@
       }
     }
 
-    function attachMediaEvents(media) {
-      media.addEventListener('play', () => { updatePlayPauseIcon(); showPlayerControls(); });
-      media.addEventListener('pause', () => { updatePlayPauseIcon(); customPlayer.classList.add('show-controls'); });
-      media.addEventListener('waiting', () => customPlayer.classList.add('is-loading'));
-      media.addEventListener('canplay', () => customPlayer.classList.remove('is-loading'));
-      media.addEventListener('playing', () => customPlayer.classList.remove('is-loading'));
-
-      media.addEventListener('timeupdate', () => {
-        if (isLiveStream || !media.duration || !isFinite(media.duration)) return;
-        const pct = (media.currentTime / media.duration) * 100;
-        progressPlayed.style.width = pct + '%';
-        progressHandle.style.left = pct + '%';
-      });
-
-      media.addEventListener('progress', () => {
-        if (isLiveStream || !media.duration || !isFinite(media.duration)) return;
-        if (media.buffered.length > 0) {
-          const buffEnd = media.buffered.end(media.buffered.length - 1);
-          progressBuffered.style.width = (buffEnd / media.duration) * 100 + '%';
-        }
-      });
-
-      media.addEventListener('loadedmetadata', () => {
-        if (media.duration && isFinite(media.duration) && media.duration < 86400) {
-          isLiveStream = false;
-          playerTime.innerHTML = formatTime(0) + ' / ' + formatTime(media.duration);
-        } else {
-          isLiveStream = true;
-          playerTime.innerHTML = '<span class="player-live-badge">LIVE</span>';
-        }
-      });
-
-      media.addEventListener('timeupdate', () => {
-        if (!isLiveStream && media.duration && isFinite(media.duration)) {
-          playerTime.textContent = formatTime(media.currentTime) + ' / ' + formatTime(media.duration);
-        }
-      });
-    }
-
-    attachMediaEvents(video);
-    attachMediaEvents(audio);
+    video.addEventListener('play', () => { updatePlayPauseIcon(); showPlayerControls(); });
+    video.addEventListener('pause', () => { updatePlayPauseIcon(); customPlayer.classList.add('show-controls'); });
+    video.addEventListener('waiting', () => customPlayer.classList.add('is-loading'));
+    video.addEventListener('canplay', () => customPlayer.classList.remove('is-loading'));
+    video.addEventListener('playing', () => customPlayer.classList.remove('is-loading'));
 
     playPauseBtn.addEventListener('click', (e) => { e.stopPropagation(); togglePlayPause(); });
 
     // Volume
     volumeBtn.addEventListener('click', (e) => {
       e.stopPropagation();
-      if (activeMedia.muted || activeMedia.volume === 0) {
+      if (video.muted || video.volume === 0) {
         video.muted = false;
-        audio.muted = false;
         video.volume = savedVolume || 1;
-        audio.volume = savedVolume || 1;
-        volumeSlider.value = activeMedia.volume;
+        volumeSlider.value = video.volume;
       } else {
-        savedVolume = activeMedia.volume;
+        savedVolume = video.volume;
         video.muted = true;
-        audio.muted = true;
       }
       updateVolumeIcon();
       updateVolumeSliderFill();
@@ -1698,18 +1507,15 @@
 
     volumeSlider.addEventListener('input', (e) => {
       e.stopPropagation();
-      const val = parseFloat(volumeSlider.value);
-      video.volume = val;
-      audio.volume = val;
-      video.muted = val === 0;
-      audio.muted = val === 0;
-      savedVolume = val || savedVolume;
+      video.volume = parseFloat(volumeSlider.value);
+      video.muted = video.volume === 0;
+      savedVolume = video.volume || savedVolume;
       updateVolumeIcon();
       updateVolumeSliderFill();
     });
 
     function updateVolumeIcon() {
-      if (activeMedia.muted || activeMedia.volume === 0) {
+      if (video.muted || video.volume === 0) {
         volHighIcon.style.display = 'none';
         volMuteIcon.style.display = '';
       } else {
@@ -1719,25 +1525,63 @@
     }
 
     function updateVolumeSliderFill() {
-      const val = activeMedia.muted ? 0 : parseFloat(volumeSlider.value);
+      const val = video.muted ? 0 : parseFloat(volumeSlider.value);
       const pct = val * 100;
       volumeSlider.style.setProperty('--vol-pct', pct + '%');
     }
 
     // Progress bar
+    video.addEventListener('timeupdate', () => {
+      if (isLiveStream || !video.duration || !isFinite(video.duration)) return;
+      const pct = (video.currentTime / video.duration) * 100;
+      progressPlayed.style.width = pct + '%';
+      progressHandle.style.left = pct + '%';
+    });
+
+    video.addEventListener('progress', () => {
+      if (isLiveStream || !video.duration || !isFinite(video.duration)) return;
+      if (video.buffered.length > 0) {
+        const buffEnd = video.buffered.end(video.buffered.length - 1);
+        progressBuffered.style.width = (buffEnd / video.duration) * 100 + '%';
+      }
+    });
+
+    function formatTime(sec) {
+      if (!isFinite(sec)) return '0:00';
+      const m = Math.floor(sec / 60);
+      const s = Math.floor(sec % 60);
+      return m + ':' + (s < 10 ? '0' : '') + s;
+    }
+
+    video.addEventListener('loadedmetadata', () => {
+      if (video.duration && isFinite(video.duration) && video.duration < 86400) {
+        isLiveStream = false;
+        playerTime.innerHTML = formatTime(0) + ' / ' + formatTime(video.duration);
+      } else {
+        isLiveStream = true;
+        playerTime.innerHTML = '<span class="player-live-badge">LIVE</span>';
+      }
+    });
+
+    video.addEventListener('timeupdate', () => {
+      if (!isLiveStream && video.duration && isFinite(video.duration)) {
+        playerTime.textContent = formatTime(video.currentTime) + ' / ' + formatTime(video.duration);
+      }
+    });
+
     progressContainer.addEventListener('click', (e) => {
       if (isLiveStream) return;
       e.stopPropagation();
       const rect = progressContainer.getBoundingClientRect();
       const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-      activeMedia.currentTime = pct * activeMedia.duration;
+      video.currentTime = pct * video.duration;
     });
 
     progressContainer.addEventListener('mousemove', (e) => {
-      if (isLiveStream || !activeMedia.duration) return;
+      if (isLiveStream || !video.duration) return;
       const rect = progressContainer.getBoundingClientRect();
       const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-      progressTooltip.textContent = formatTime(pct * activeMedia.duration);
+      progressTooltip.textContent = formatTime(pct * video.duration);
       progressTooltip.style.left = (pct * 100) + '%';
     });
 
@@ -1843,7 +1687,7 @@
       if (document.pictureInPictureElement) {
         await document.exitPictureInPicture();
       } else {
-        await activeMedia.requestPictureInPicture();
+        await video.requestPictureInPicture();
       }
     });
 
@@ -1893,11 +1737,7 @@
         case 'm':
           e.preventDefault();
           video.muted = !video.muted;
-          audio.muted = video.muted;
-          if (!video.muted && video.volume === 0) {
-             video.volume = savedVolume || 0.5;
-             audio.volume = video.volume;
-          }
+          if (!video.muted && video.volume === 0) video.volume = savedVolume || 0.5;
           volumeSlider.value = video.muted ? 0 : video.volume;
           updateVolumeIcon();
           updateVolumeSliderFill();
@@ -1906,9 +1746,7 @@
         case 'arrowup':
           e.preventDefault();
           video.volume = Math.min(1, video.volume + 0.1);
-          audio.volume = video.volume;
           video.muted = false;
-          audio.muted = false;
           volumeSlider.value = video.volume;
           updateVolumeIcon();
           updateVolumeSliderFill();
@@ -1917,23 +1755,22 @@
         case 'arrowdown':
           e.preventDefault();
           video.volume = Math.max(0, video.volume - 0.1);
-          audio.volume = video.volume;
           volumeSlider.value = video.volume;
           updateVolumeIcon();
           updateVolumeSliderFill();
           showPlayerControls();
           break;
         case 'arrowleft':
-          if (!isLiveStream && activeMedia.duration) {
+          if (!isLiveStream && video.duration) {
             e.preventDefault();
-            activeMedia.currentTime = Math.max(0, activeMedia.currentTime - 10);
+            video.currentTime = Math.max(0, video.currentTime - 10);
             showPlayerControls();
           }
           break;
         case 'arrowright':
-          if (!isLiveStream && activeMedia.duration) {
+          if (!isLiveStream && video.duration) {
             e.preventDefault();
-            activeMedia.currentTime = Math.min(activeMedia.duration, activeMedia.currentTime + 10);
+            video.currentTime = Math.min(video.duration, video.currentTime + 10);
             showPlayerControls();
           }
           break;
@@ -1947,7 +1784,7 @@
             if (document.pictureInPictureElement) {
               document.exitPictureInPicture();
             } else {
-              activeMedia.requestPictureInPicture();
+              video.requestPictureInPicture();
             }
           }
           break;
@@ -1975,21 +1812,6 @@
       if (iptvUrl) {
         iframe.style.display = 'none';
         iframe.src = '';
-
-        video.pause();
-        audio.pause();
-        hls.detachMedia();
-
-        if (ch.isAudio) {
-          activeMedia = audio;
-          video.style.display = 'none';
-          audioVisualizer.style.display = 'flex';
-        } else {
-          activeMedia = video;
-          video.style.display = 'block';
-          audioVisualizer.style.display = 'none';
-        }
-
         customPlayer.classList.add('active');
         customPlayer.classList.add('show-controls');
         customPlayer.classList.add('is-loading');
@@ -2005,9 +1827,9 @@
         qualityMenu.style.display = 'none';
         if (Hls.isSupported()) {
           hls.loadSource(iptvUrl);
-          hls.attachMedia(activeMedia);
-        } else if (activeMedia.canPlayType('application/vnd.apple.mpegurl')) {
-          activeMedia.src = iptvUrl;
+          hls.attachMedia(video);
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = iptvUrl;
         }
         updatePlayPauseIcon();
       } else if (ytUrl) {
@@ -2046,15 +1868,8 @@
       customPlayer.classList.remove('show-controls');
       customPlayer.classList.remove('is-loading');
       customPlayer.classList.remove('theater-mode');
-      video.pause();
-      audio.pause();
       video.src = '';
-      audio.src = '';
-      audioVisualizer.style.display = 'none';
-      video.style.display = 'block';
-      activeMedia = video;
       hls.stopLoad();
-      hls.detachMedia();
       iframe.style.display = 'none';
       iframe.src = '';
       placeholder.style.display = 'flex';
