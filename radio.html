@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>cookiesradio</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/dist/twemoji.min.js" crossorigin="anonymous"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -172,7 +173,7 @@
 
     .country-time {
       text-align: right;
-      min-width: 128px;
+      min-width: 176px;
       flex-shrink: 0;
     }
 
@@ -190,6 +191,41 @@
       font-variant-numeric: tabular-nums;
       color: var(--text-primary);
       margin-top: 4px;
+    }
+
+    .country-weather {
+      margin-top: 8px;
+      font-size: 0.86rem;
+      color: var(--text-secondary);
+      line-height: 1.4;
+      min-height: 2.2em;
+      display: inline-flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 6px 10px;
+      max-width: 100%;
+      white-space: nowrap;
+    }
+
+    .country-weather-icon,
+    .country-weather-icon img {
+      width: 1.15em;
+      height: 1.15em;
+      display: inline-block;
+      vertical-align: middle;
+      flex-shrink: 0;
+    }
+
+    .emoji-flag,
+    .emoji-flag img {
+      width: 1.1em;
+      height: 1.1em;
+      vertical-align: -0.2em;
+      display: inline-block;
     }
 
     /* ---- Transport Controls ---- */
@@ -570,8 +606,12 @@
       .stats-bar { grid-template-columns: repeat(2, 1fr); }
       .station-info { gap: 12px; }
       .station-name { font-size: 1rem; }
-      .country-time { min-width: 104px; }
+      .country-time { min-width: 132px; }
       .country-time-value { font-size: 0.9rem; }
+      .country-weather {
+        font-size: 0.78rem;
+        padding: 5px 8px;
+      }
     }
   </style>
 </head>
@@ -601,6 +641,7 @@
         <div class="country-time">
           <div class="country-time-label">Local Time</div>
           <div class="country-time-value" id="countryTimeValue">--:--:--</div>
+          <div class="country-weather" id="countryWeatherValue">Weather unavailable</div>
         </div>
       </div>
 
@@ -684,8 +725,10 @@
       { name: 'hr4', country: 'Germany', code: 'DE', url: 'https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seglist.m3u8', hls: true },
       { name: 'hr info/news', country: 'Germany', code: 'DE', url: 'https://hlshrinfo.akamaized.net/hls/live/2016539/hrinfo/master.m3u8', hls: true },
       { name: 'Radio Zwickau', country: 'Germany', code: 'DE', url: 'https://edge85.radio.radiozwickau.de/radiozwickau-live/stream/aacp', hls: false, hasRadioIcon: true },
-      { name: 'BBC Arabic', country: 'Arabic', code: 'AR', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio', hls: false },
-      { name: 'BBC World', country: 'United Kingdom', code: 'UK', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service', hls: false },
+      { name: 'BBC Arabic', country: 'Saudi Arabia', code: 'SA', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio', hls: false },
+      { name: 'BBC World', country: 'United Kingdom', code: 'GB', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service', hls: false },
+      { name: 'Campus Radio', country: 'Liechtenstein', code: 'LI', url: 'https://campusradioli.out.airtime.pro/campusradioli_a', hls: false },
+      { name: 'Fox News', country: 'America', code: 'US', url: 'https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc', hls: false },
       { name: 'Radio Jehona', country: 'Albania', code: 'AL', url: 'https://stream.iradio.pro/proxy/radiojehona?mp=/1', hls: false },
       { name: 'Radio Lushnja', country: 'Albania', code: 'AL', url: 'https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3', hls: false },
       { name: 'Alpo Radio', country: 'Albania', code: 'AL', url: 'https://cp1.sednastream.com/proxy/alporadio/stream', hls: false },
@@ -722,6 +765,94 @@
     let uptimeInterval = null;
     let pingInterval = null;
     let countryTimeInterval = null;
+    let weatherRefreshInterval = null;
+
+    const weatherCoordsByCode = {
+      AL: { lat: 41.3275, lon: 19.8187 },
+      KP: { lat: 39.0392, lon: 125.7625 },
+      DE: { lat: 52.52, lon: 13.405 },
+      SA: { lat: 24.7136, lon: 46.6753 },
+      UK: { lat: 51.5072, lon: -0.1276 },
+      GB: { lat: 51.5072, lon: -0.1276 },
+      LI: { lat: 47.141, lon: 9.5209 },
+      SM: { lat: 43.9424, lon: 12.4578 },
+      GI: { lat: 36.1408, lon: -5.3536 },
+      LU: { lat: 49.6117, lon: 6.1319 },
+      JP: { lat: 35.6762, lon: 139.6503 },
+      SH: { lat: -15.965, lon: -5.7089 },
+      SE: { lat: 59.3293, lon: 18.0686 },
+      AE: { lat: 25.2048, lon: 55.2708 },
+      US: { lat: 38.9072, lon: -77.0369 }
+    };
+
+    function normalizeCountryCode(countryCode) {
+      if (!countryCode) return '';
+      const normalized = countryCode.toUpperCase();
+      return normalized === 'UK' ? 'GB' : normalized;
+    }
+
+    function getFlagEmoji(countryCode) {
+      if (!countryCode || countryCode.length !== 2) return countryCode || '--';
+      const normalized = normalizeCountryCode(countryCode);
+      const first = normalized.charCodeAt(0);
+      const second = normalized.charCodeAt(1);
+      if (first < 65 || first > 90 || second < 65 || second > 90) return normalized;
+      return String.fromCodePoint(first + 127397) + String.fromCodePoint(second + 127397);
+    }
+
+    function renderTweemoji(target) {
+      if (!window.twemoji || !target) return;
+      window.twemoji.parse(target, {
+        folder: 'svg',
+        ext: '.svg'
+      });
+    }
+
+    function weatherCodeToLabel(weatherCode, precipitation) {
+      if (typeof precipitation === 'number' && precipitation > 0) return 'Raining';
+      const weatherByCode = {
+        0: 'Clear sky',
+        1: 'Mainly clear',
+        2: 'Partly cloudy',
+        3: 'Overcast',
+        45: 'Foggy',
+        48: 'Foggy',
+        51: 'Light drizzle',
+        53: 'Drizzle',
+        55: 'Heavy drizzle',
+        56: 'Freezing drizzle',
+        57: 'Freezing drizzle',
+        61: 'Raining',
+        63: 'Raining',
+        65: 'Heavy rain',
+        66: 'Freezing rain',
+        67: 'Freezing rain',
+        71: 'Snowing',
+        73: 'Snowing',
+        75: 'Heavy snow',
+        77: 'Snow grains',
+        80: 'Rain showers',
+        81: 'Rain showers',
+        82: 'Heavy showers',
+        85: 'Snow showers',
+        86: 'Snow showers',
+        95: 'Thunderstorm',
+        96: 'Storm + hail',
+        99: 'Storm + hail'
+      };
+      return weatherByCode[weatherCode] || 'Unknown';
+    }
+
+    function weatherCodeToIcon(weatherCode, precipitation) {
+      if (typeof precipitation === 'number' && precipitation > 0) return '🌧️';
+      if ([0, 1].includes(weatherCode)) return '☀️';
+      if ([2, 3].includes(weatherCode)) return '⛅';
+      if ([45, 48].includes(weatherCode)) return '🌫️';
+      if ([51, 53, 55, 56, 57, 61, 63, 65, 66, 67, 80, 81, 82].includes(weatherCode)) return '🌧️';
+      if ([71, 73, 75, 77, 85, 86].includes(weatherCode)) return '❄️';
+      if ([95, 96, 99].includes(weatherCode)) return '⛈️';
+      return '🌤️';
+    }
 
     function initAudioContext() {
       if (audioCtx) return;
@@ -741,8 +872,9 @@
       stations.forEach((st, i) => {
         const el = document.createElement('div');
         el.className = 'station-item' + (i === currentStationIndex ? ' active' : '');
+        const flagEmoji = getFlagEmoji(st.code);
         el.innerHTML = `
-          <div class="station-item-icon">${st.code}</div>
+          <div class="station-item-icon" title="${st.country}"><span class="emoji-flag">${flagEmoji}</span></div>
           <div class="station-item-details">
             <div class="station-item-name">
               ${st.name}
@@ -757,6 +889,7 @@
           </div>
         `;
         el.onclick = () => playStation(i);
+        renderTweemoji(el);
         container.appendChild(el);
       });
     }
@@ -843,10 +976,13 @@
     }
 
     function updateStationInfo(st) {
-      document.getElementById('stationAvatar').textContent = st.code;
+      const stationAvatar = document.getElementById('stationAvatar');
+      stationAvatar.innerHTML = `<span class="emoji-flag">${getFlagEmoji(st.code)}</span>`;
+      renderTweemoji(stationAvatar);
       document.getElementById('stationName').textContent = st.name;
       document.getElementById('stationMeta').textContent = st.country + ' \u2022 Live';
       startCountryTime(st);
+      startCountryWeather(st);
     }
 
     // ---- Volume ----
@@ -972,20 +1108,23 @@
     }
 
     function getTimeZoneByCountryCode(code) {
+      const normalizedCode = normalizeCountryCode(code);
       const timeZones = {
         AL: 'Europe/Tirane',
         KP: 'Asia/Pyongyang',
         DE: 'Europe/Berlin',
-        AR: 'Asia/Riyadh',
+        SA: 'Asia/Riyadh',
         UK: 'Europe/London',
         GB: 'Europe/London',
+        LI: 'Europe/Vaduz',
         SM: 'Europe/San_Marino',
         GI: 'Europe/Gibraltar',
         LU: 'Europe/Luxembourg',
         SH: 'Atlantic/St_Helena',
-        AE: 'Asia/Dubai'
+        AE: 'Asia/Dubai',
+        US: 'America/New_York'
       };
-      return timeZones[code] || 'UTC';
+      return timeZones[normalizedCode] || 'UTC';
     }
 
     function updateCountryTime(st) {
@@ -1005,6 +1144,43 @@
       if (countryTimeInterval) clearInterval(countryTimeInterval);
       updateCountryTime(st);
       countryTimeInterval = setInterval(() => updateCountryTime(st), 1000);
+    }
+
+    async function updateCountryWeather(st) {
+      const weatherEl = document.getElementById('countryWeatherValue');
+      if (!st || !weatherEl) return;
+
+      const stationCode = normalizeCountryCode(st.code);
+      const coords = weatherCoordsByCode[stationCode];
+      if (!coords) {
+        weatherEl.textContent = 'Weather unavailable';
+        return;
+      }
+
+      try {
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current=temperature_2m,weather_code,precipitation`;
+        const res = await fetch(url, { cache: 'no-store' });
+        if (!res.ok) throw new Error('weather_fetch_failed');
+
+        const data = await res.json();
+        const current = data && data.current;
+        if (!current || typeof current.temperature_2m !== 'number') throw new Error('weather_data_missing');
+
+        const c = current.temperature_2m;
+        const f = (c * 9 / 5) + 32;
+        const condition = weatherCodeToLabel(current.weather_code, current.precipitation);
+        const icon = weatherCodeToIcon(current.weather_code, current.precipitation);
+        weatherEl.innerHTML = `<span class="country-weather-icon">${icon}</span><span>${condition} • ${c.toFixed(1)}C / ${f.toFixed(1)}F</span>`;
+        renderTweemoji(weatherEl);
+      } catch (_err) {
+        weatherEl.textContent = 'Weather unavailable';
+      }
+    }
+
+    function startCountryWeather(st) {
+      if (weatherRefreshInterval) clearInterval(weatherRefreshInterval);
+      updateCountryWeather(st);
+      weatherRefreshInterval = setInterval(() => updateCountryWeather(st), 10 * 60 * 1000);
     }
 
     // ---- Audio Events ----
