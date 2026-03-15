@@ -727,6 +727,8 @@
       { name: 'Radio Zwickau', country: 'Germany', code: 'DE', url: 'https://edge85.radio.radiozwickau.de/radiozwickau-live/stream/aacp', hls: false, hasRadioIcon: true },
       { name: 'BBC Arabic', country: 'Saudi Arabia', code: 'SA', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio', hls: false },
       { name: 'BBC World', country: 'United Kingdom', code: 'GB', url: 'https://stream.live.vc.bbcmedia.co.uk/bbc_world_service', hls: false },
+      { name: 'Campus Radio', country: 'Liechtenstein', code: 'LI', url: 'https://campusradioli.out.airtime.pro/campusradioli_a', hls: false },
+      { name: 'Fox News', country: 'America', code: 'US', url: 'https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc', hls: false },
       { name: 'Radio Jehona', country: 'Albania', code: 'AL', url: 'https://stream.iradio.pro/proxy/radiojehona?mp=/1', hls: false },
       { name: 'Radio Lushnja', country: 'Albania', code: 'AL', url: 'https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3', hls: false },
       { name: 'Alpo Radio', country: 'Albania', code: 'AL', url: 'https://cp1.sednastream.com/proxy/alporadio/stream', hls: false },
@@ -772,13 +774,15 @@
       SA: { lat: 24.7136, lon: 46.6753 },
       UK: { lat: 51.5072, lon: -0.1276 },
       GB: { lat: 51.5072, lon: -0.1276 },
+      LI: { lat: 47.141, lon: 9.5209 },
       SM: { lat: 43.9424, lon: 12.4578 },
       GI: { lat: 36.1408, lon: -5.3536 },
       LU: { lat: 49.6117, lon: 6.1319 },
       JP: { lat: 35.6762, lon: 139.6503 },
       SH: { lat: -15.965, lon: -5.7089 },
       SE: { lat: 59.3293, lon: 18.0686 },
-      AE: { lat: 25.2048, lon: 55.2708 }
+      AE: { lat: 25.2048, lon: 55.2708 },
+      US: { lat: 38.9072, lon: -77.0369 }
     };
 
     function normalizeCountryCode(countryCode) {
@@ -1112,11 +1116,13 @@
         SA: 'Asia/Riyadh',
         UK: 'Europe/London',
         GB: 'Europe/London',
+        LI: 'Europe/Vaduz',
         SM: 'Europe/San_Marino',
         GI: 'Europe/Gibraltar',
         LU: 'Europe/Luxembourg',
         SH: 'Atlantic/St_Helena',
-        AE: 'Asia/Dubai'
+        AE: 'Asia/Dubai',
+        US: 'America/New_York'
       };
       return timeZones[normalizedCode] || 'UTC';
     }
