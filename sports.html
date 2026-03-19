@@ -41,7 +41,7 @@
       border: 1px solid var(--border);
       border-radius: 18px;
       display: grid;
-      grid-template-columns: 180px 1fr;
+      grid-template-columns: 260px 1fr;
       overflow: hidden;
     }
 
@@ -125,50 +125,33 @@
     .browser-shell {
       height: 100%;
       display: grid;
-      grid-template-rows: auto auto 1fr;
+      grid-template-rows: auto 1fr;
       background: #090910;
     }
 
     .browser-topbar {
       display: flex;
       align-items: center;
-      gap: 8px;
-      padding: 10px 10px 8px;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 10px;
       border-bottom: 1px solid var(--border);
       background: linear-gradient(180deg, #141526 0%, #11121f 100%);
     }
 
-    .tab-strip {
-      flex: 1;
-      min-width: 0;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      overflow-x: auto;
-      scrollbar-width: thin;
+    .topbar-title {
+      margin: 0;
+      font-size: 0.9rem;
+      color: #e8ecff;
     }
 
-    .browser-tab {
-      border: 1px solid var(--border);
-      border-radius: 10px 10px 0 0;
-      background: var(--panel-2);
-      color: #d5d7ef;
-      padding: 8px 12px;
-      font-size: 0.78rem;
-      cursor: pointer;
-      white-space: nowrap;
-    }
-
-    .browser-tab.active {
-      background: var(--panel-3);
-      border-color: rgba(34,197,94,0.42);
-      color: #f6fff9;
-    }
-
-    .browser-toolbar {
-      border-bottom: 1px solid var(--border);
-      padding: 8px 10px;
-      background: #11121f;
+    .topbar-tag {
+      font-size: 0.74rem;
+      color: #9ed6b3;
+      border: 1px solid rgba(34,197,94,0.45);
+      border-radius: 999px;
+      padding: 4px 9px;
+      background: rgba(34,197,94,0.14);
     }
 
     .address-pill {
@@ -188,7 +171,7 @@
       height: 100%;
       min-height: 0;
       display: grid;
-      grid-template-rows: minmax(0, 1fr) auto auto;
+      grid-template-rows: minmax(0, 1fr) auto;
       gap: 6px;
       padding: 8px;
       background:
@@ -267,13 +250,6 @@
       color: #fca5a5;
     }
 
-    .player-controls {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 2px;
-    }
-
     .watch-surface {
       min-height: 0;
       height: 100%;
@@ -327,11 +303,6 @@
       background: #1b1b2e;
     }
 
-    .action-btn:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-
     @media (max-width: 980px) {
       body { overflow: auto; }
       .app {
@@ -360,7 +331,7 @@
     <aside class="sidebar">
       <div class="header">
         <h1>Sports Channels</h1>
-        <p>Chromium-style player with in-page watching.</p>
+        <p>Updated embedded channels and event players.</p>
         <a class="nav-link" href="/">Back to Live TV</a>
       </div>
       <div class="channel-list" id="channelList"></div>
@@ -370,28 +341,22 @@
       <div class="frame-wrap">
         <div class="browser-shell">
           <div class="browser-topbar">
-            <div class="tab-strip" id="tabStrip"></div>
-            <button class="action-btn" id="newTabBtn" type="button">+ New Tab</button>
-          </div>
-          <div class="browser-toolbar">
-            <div class="address-pill" id="addressPill">about:blank</div>
+            <h2 class="topbar-title" id="channelTitle">Select a channel</h2>
+            <span class="topbar-tag">Direct embed</span>
           </div>
           <div class="player-stage">
+            <div class="address-pill" id="addressPill">about:blank</div>
             <div class="watch-surface">
-              <iframe class="watch-frame" id="streamFrame" title="Sports stream player" allow="autoplay; fullscreen; picture-in-picture" referrerpolicy="no-referrer"></iframe>
-              <p class="watch-hint" id="watchHint">Choose a channel and press Watch In Player.</p>
+              <iframe class="watch-frame" id="streamFrame" title="Sports stream player" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+              <p class="watch-hint" id="watchHint">Choose a channel to start watching.</p>
             </div>
             <div class="player-meta">
-              <div class="engine-badge" id="engineBadge">Chromium player tabs</div>
-              <h2 class="channel-title" id="channelTitle">Loading channel...</h2>
+              <div class="engine-badge">Embedded iframe mode</div>
+              <h2 class="channel-title" id="metaTitle">Loading channel...</h2>
               <a class="channel-url" id="channelUrl" href="#"></a>
               <p class="status-text" id="statusText"></p>
-              <p class="sports-note">all of the sports channel belong to 3rd party players.</p>
-            </div>
-            <div class="player-controls">
-              <button class="action-btn" id="watchInPlayer" type="button">Watch In Player</button>
-              <button class="action-btn" id="openPlayer" type="button">Open In New Tab</button>
-              <button class="action-btn" id="reloadPlayer" type="button">Reload Player</button>
+              <p class="sports-note">Streams load directly from the provider to improve verification compatibility.</p>
+              <button class="action-btn" id="reloadPlayer" type="button">Reload Channel</button>
             </div>
           </div>
         </div>
@@ -401,37 +366,33 @@
 
   <script>
     const channels = [
-      { name: "TNT Sport 1", url: "https://vivatops.store/channel1" },
-      { name: "TNT Sport 2", url: "https://vivatops.store/channel2" },
-      { name: "TNT Sport 3", url: "https://vivatops.store/channel3" },
-      { name: "Bein Sports 1", url: "https://vivatops.store/channel5" },
-      { name: "Bein Sports 2", url: "https://vivatops.store/channel6" },
-      { name: "Sky Sports Football", url: "https://vivatops.store/channel7" },
-      { name: "NBA League Pass", url: "https://vivatops.store/channel18" }
+      { name: "DAZN 2 Germany", url: "https://viewembed.ru/channel/DAZN2Deutschland%5BGermany%5D" },
+      { name: "Player 1 (Many Channel)", url: "https://viewembed.ru/event/sporting_bodoe-glimt_1773769500" },
+      { name: "Player 2", url: "https://viewembed.ru/event/fc-barcelona_newcastle_1773855900" },
+      { name: "TNT Sports 1", url: "https://viewembed.ru/channel/TNTSports1%5BUK%5D" },
+      { name: "TNT Sports 2", url: "https://viewembed.ru/channel/TNTSports2%5BUK%5D" },
+      { name: "TNT Sports 3", url: "https://viewembed.ru/channel/TNTSports3%5BUK%5D" },
+      { name: "TNT Sports 4", url: "https://viewembed.ru/channel/TNTSports4%5BUK%5D" },
+      { name: "ArenaSport 1 (Serbia)", url: "https://viewembed.ru/channel/ArenaSport1%5BSerbia%5D" },
+      { name: "ArenaSport 2", url: "https://viewembed.ru/channel/ArenaSport2%5BSerbia%5D" }
     ];
 
     const list = document.getElementById("channelList");
-    const openPlayer = document.getElementById("openPlayer");
     const reloadPlayer = document.getElementById("reloadPlayer");
-    const watchInPlayer = document.getElementById("watchInPlayer");
-    const newTabBtn = document.getElementById("newTabBtn");
-    const channelTitle = document.getElementById("channelTitle");
+    const channelHeading = document.getElementById("channelTitle");
+    const metaTitle = document.getElementById("metaTitle");
     const channelUrl = document.getElementById("channelUrl");
     const statusText = document.getElementById("statusText");
-    const tabStrip = document.getElementById("tabStrip");
     const addressPill = document.getElementById("addressPill");
     const streamFrame = document.getElementById("streamFrame");
     const watchHint = document.getElementById("watchHint");
-    const engineBadge = document.getElementById("engineBadge");
 
     let selectedChannel = null;
-    let tabCounter = 0;
-    let activeTabId = null;
-    const playerTabs = [];
-    const isChromium = /(?:Chrome|Chromium)\/\d+/i.test(navigator.userAgent) && !/Edg\//i.test(navigator.userAgent);
 
-    function toEmbedProxyUrl(rawUrl) {
-      return `/api/embed-proxy?url=${encodeURIComponent(rawUrl)}`;
+    function withAutoplay(rawUrl) {
+      const parsed = new URL(rawUrl);
+      parsed.searchParams.set("autoplay", "1");
+      return parsed.toString();
     }
 
     function updateStatus(text, isError = false) {
@@ -439,69 +400,15 @@
       statusText.classList.toggle("error", isError);
     }
 
-    function renderTabs() {
-      tabStrip.innerHTML = "";
-      playerTabs.forEach((tab) => {
-        const tabBtn = document.createElement("button");
-        tabBtn.type = "button";
-        tabBtn.className = "browser-tab";
-        if (tab.id === activeTabId) {
-          tabBtn.classList.add("active");
-        }
-        tabBtn.textContent = tab.label;
-        tabBtn.addEventListener("click", () => activateTab(tab.id));
-        tabStrip.appendChild(tabBtn);
-      });
-    }
-
-    function activateTab(tabId) {
-      const tab = playerTabs.find((entry) => entry.id === tabId);
-      if (!tab) return;
-      activeTabId = tabId;
-      selectedChannel = tab.channel;
-      channelTitle.textContent = tab.channel.name;
-      channelUrl.textContent = tab.channel.url;
-      channelUrl.href = tab.channel.url;
-      channelUrl.target = "_blank";
-      addressPill.textContent = tab.channel.url;
-      renderTabs();
-      updateStatus(`Ready. ${tab.channel.name} is selected.`);
-    }
-
-    function createTab(channel) {
-      tabCounter += 1;
-      const tab = {
-        id: `sports-tab-${tabCounter}`,
-        label: `Tab ${tabCounter}: ${channel.name}`,
-        channel
-      };
-      playerTabs.push(tab);
-      activateTab(tab.id);
-    }
-
-    function loadSelectedChannelInPlayer() {
+    function loadSelectedChannel() {
       if (!selectedChannel) {
         updateStatus("Select a channel first.", true);
         return;
       }
+      const autoplayUrl = withAutoplay(selectedChannel.url);
       watchHint.classList.add("hidden");
-      streamFrame.src = toEmbedProxyUrl(selectedChannel.url);
-      updateStatus(`Playing ${selectedChannel.name} inside the player.`);
-    }
-
-    function openSelectedChannel() {
-      if (!selectedChannel) {
-        updateStatus("Select a channel first.", true);
-        return;
-      }
-
-      const targetWindow = activeTabId || "sports-player-tab";
-      const opened = window.open(selectedChannel.url, targetWindow, "noopener");
-      if (!opened) {
-        updateStatus("Popup blocker blocked launch. Allow popups and try again.", true);
-        return;
-      }
-      updateStatus(`Opened ${selectedChannel.name} in Chromium tab ${targetWindow}.`);
+      streamFrame.src = autoplayUrl;
+      updateStatus(`Playing ${selectedChannel.name} in direct mode.`);
     }
 
     function selectChannel(index) {
@@ -511,19 +418,14 @@
       document.querySelectorAll(".channel-btn").forEach((btn, i) => {
         btn.classList.toggle("active", i === index);
       });
-
-      if (activeTabId) {
-        const activeTab = playerTabs.find((tab) => tab.id === activeTabId);
-        if (activeTab) {
-          activeTab.channel = selected;
-          activeTab.label = activeTab.label.replace(/:.*$/, `: ${selected.name}`);
-        }
-        activateTab(activeTabId);
-      } else {
-        createTab(selected);
-      }
-
-      loadSelectedChannelInPlayer();
+      channelHeading.textContent = selected.name;
+      metaTitle.textContent = selected.name;
+      channelUrl.textContent = selected.url;
+      channelUrl.href = selected.url;
+      channelUrl.target = "_blank";
+      channelUrl.rel = "noreferrer noopener";
+      addressPill.textContent = selected.url;
+      loadSelectedChannel();
     }
 
     channels.forEach((channel, index) => {
@@ -540,24 +442,7 @@
       updateStatus(`Player loaded ${selectedChannel.name}.`);
     });
 
-    watchInPlayer.addEventListener("click", loadSelectedChannelInPlayer);
-    openPlayer.addEventListener("click", openSelectedChannel);
-    reloadPlayer.addEventListener("click", loadSelectedChannelInPlayer);
-    newTabBtn.addEventListener("click", () => {
-      const channel = selectedChannel || channels[0];
-      createTab(channel);
-      loadSelectedChannelInPlayer();
-      updateStatus(`Created ${channel.name} tab and loaded it in the player.`);
-    });
-
-    if (!isChromium) {
-      engineBadge.textContent = "Chromium not detected - player still available";
-      engineBadge.style.borderColor = "rgba(245,158,11,0.5)";
-      engineBadge.style.background = "rgba(245,158,11,0.2)";
-      engineBadge.style.color = "#fcd34d";
-    } else {
-      engineBadge.textContent = "Chromium detected - player ready";
-    }
+    reloadPlayer.addEventListener("click", loadSelectedChannel);
 
     selectChannel(0);
   </script>
