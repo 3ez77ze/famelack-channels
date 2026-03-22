@@ -20,5 +20,27 @@
     "language": "srp",
     "country": "me",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v8QnC5Ld1xRpTu",
+    "name": "Ulqini TV",
+    "iptv_urls": [
+      "https://t1.tvmak.com/tv/ULQINITV.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "me",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "s4JmK2Wp9bHxYe",
+    "name": "MRT 2",
+    "iptv_urls": [
+      "https://t3.tvmak.com/tv/MRT2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mkd",
+    "country": "me",
+    "isGeoBlocked": false
   }
 ]

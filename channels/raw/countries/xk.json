@@ -75,5 +75,16 @@
     "language": "sqi",
     "country": "xk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q5VcP1Ln8kRtZd",
+    "name": "TV Mitrovica",
+    "iptv_urls": [
+      "https://t3.tvmak.com/tv/tvmitrovica.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "xk",
+    "isGeoBlocked": false
   }
 ]

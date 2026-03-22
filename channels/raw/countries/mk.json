@@ -54,5 +54,27 @@
     "language": "mkd",
     "country": "mk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h3NzQ7Lm2cVxKo",
+    "name": "Uskana Kercove",
+    "iptv_urls": [
+      "https://t3.tvmak.com/tv/USKANAKERCOVE.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "mk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m9TbR4Jk6wDpXs",
+    "name": "Pologu Tetove",
+    "iptv_urls": [
+      "https://t3.tvmak.com/tv/USKANATETOVE.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "mk",
+    "isGeoBlocked": false
   }
 ]
